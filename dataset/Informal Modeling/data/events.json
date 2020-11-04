@@ -1,0 +1,848 @@
+[
+    {
+        "Name": "UploadOnTour",
+        "Period": "13/11/2020",
+        "Locality": "Arco",
+        "Typology": "Musica",
+        "Description": "Concerto di Margherita Vicario e contest musicale. Si raccomanda la prenotazione.",
+        "Content": "['Cooperativa Mercurio, Centro Santa Chiara, Cantiere 26, Associazione Smarmellata presentano Margherita Vicario al Cantiere 26 di Arco!', 'L\u2019estate di Margherita Vicario \u00e8 stata densa di avvenimenti: la pubblicazione del suo nuovo singolo \u2018Pi\u00f1a Colada\u2019, cantato con Izi, \u00e8 stata seguita da un tour nei pi\u00f9 importanti festival che hanno animato la stagione.\u201cPoter tornare sui palchi questa estate \u00e8 un privilegio e lo sto facendo con tutta l\u2019energia e l\u2019entusiasmo che hanno sempre contraddistinto i miei live: nonostante i mesi particolari che abbiamo vissuto e stiamo tuttora vivendo, mi rendo conto di quanta voglia abbiano le persone di partecipare ai concerti\u201d.', 'La stessa energia e lo stesso entusiasmo accompagneranno Margherita nei suoi prossimi appuntamenti, tra cui siamo felici di includere la terza data di UploadOnTour 2020 al Cantiere 26 di Arco (TN). Nel corso della serata si esibiranno anche tre band iscritte alla dodicesima edizione di UploadSounds, una per ogni provincia dell\u2019Euregio.', 'L\u2019ingresso \u00e8 gratuito, previa prenotazione (\\xa0Info e prenotazione posti su centrosantachiara.it a partire da domenica 25/10 )', 'In ottemperanza con le norme anti-Covid, gli accessi sono molto limitati e contingentati. Vi consigliamo quindi di prendere nota della data di uscita dei biglietti di ogni data (vedi sopra) e di trovarvi pronti.', '\\xa0', 'Apertura porte dalle 20.00 / Inizio concerto alle 20.30']",
+        "Organizer": "Cooperativa Mercurio in collaborazione con Centro Servizi Culturali Santa Chiara e Cantiere 26"
+    },
+    {
+        "Name": "Shopping aspettando Halloween",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Intrattenimento della Localit\u00e0",
+        "Description": "Eventi da brivido nel centro storico della citt\u00e0",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Caravaggio. Il contemporaneo",
+        "Period": "09/10/2020 - 14/02/2021",
+        "Locality": "Rovereto",
+        "Typology": "Mostre",
+        "Description": "Da un'idea di Vittorio Sgarbi",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Pic Nic in Vigolana",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Altro",
+        "Description": "Sull\u2019Altopiano della Vigolana puoi goderti la natura e prenotare il tuo cestino e la tua tavola per il Pic Nic.\nUn\u2019esperienza all\u2019aria aperta per scoprire prodotti enogastronomici locali, nuovi paesaggi e godere del tuo spazio di libert\u00e0!\n",
+        "Content": "[\"Sull'Altopiano della Vigolana puoi goderti la natura e prenotare il tuo cestino e la tua tavola per un pic nic in perfetto relax.\\nNumerose sono le proposte gastronomiche preparate dai nostri ristoratori: scegli il cestino che pi\u00f9 ti soddisfa!\\nDopodich\u00e8 non ti resta che prenotare la tua tavola! Puoi scegliere dove gustare il tuo cestino...immerso nella frescura del bosco, ai piedi della montagna, nei pressi del centro abitato...scopri tutte le proposte!\\nRrilassarti disteso sulla coperta inclusa nel cestino o intraprendi le nostre proposte di itinerario con il pranzo nello zainetto Vigolana!\", '\\xa0', '\\xa0', 'Info e prenotazioni', 'Consorzio Turistico Vigolana\\nVia San Rocco 4 - Altopiano della Vigolana\\n0461.848350\\ninfo@vigolana.com\\n\\xa0']",
+        "Organizer": "Consorzio Turistico vigolana"
+    },
+    {
+        "Name": "Immersione nel bosco fiabesco",
+        "Period": "27/12/2020 - 02/01/2021",
+        "Locality": "Vattaro",
+        "Typology": "Sport",
+        "Description": "Passeggiata meditativa lungo il percorso di Arte e Natura in Vigolana, il Percorso delle Fiabe, per rilassare la mente ed entrare in contatto con la Natura che ci circonda.\n",
+        "Content": "['La passeggiata diventa una occasione per essere stimolati, attraverso esercizi specifici, a portare l\u2019attenzione e ad entrare in relazione con i vari elementi che il bosco ci offre.', 'Questa esperienza vuole esaltare le sensazioni di nutrimento che solo la Natura riesce a darci ed offrire l\u2019opportunit\u00e0 di immergersi con \u2018Anima e corpo\u2019 nelle bellezze del bosco fiabesco e contemporaneamente di entrare in una dimensione di profondo rilassamento e quiete.', 'Arno Cardini ti accompagner\u00e0 a vivere una esperienza nella e con la natura.', 'Il luogo di ritrovo e\u0300 presso il parcheggio della malga Doss del Bue a Vattaro, 10 minuti prima dell\u2019inizio dell\u2019attivit\u00e0.', 'Il contributo \u00e8 di 10\u20ac ; gratuito per gli ospiti con Trentino Guest Card', 'Info e Prenotazioni', 'Consorzio Turistico Vigolana\\ninfo@vigolana.com \u2013 0461.848350']",
+        "Organizer": "Consorzio Turistico Vigolana"
+    },
+    {
+        "Name": "Mountain Folding Winter Edition",
+        "Period": "05/12/2020 - 06/12/2020",
+        "Locality": "Vattaro",
+        "Typology": "Conferenze/Congressi",
+        "Description": "Due giorni di pieghe e laboratori in compagnia\n",
+        "Content": "['Mountain Folding nasce con lo scopo principale di\\xa0stimolare la creativit\u00e0 e la condivisione di idee e soluzioni tecniche fra i partecipanti\\xa0e di creare un contenitore in cui ciascuno pu\u00f2 contribuire attivamente con idee e azioni per realizzare la propria vacanza origamistica ideale; per questo motivo, il contributo di ognuno \u00e8 essenziale.', 'Per mantenere lo spirito di condivisione e scambio creativo che caratterizza Mountain Folding,\\xa0ogni partecipante dovr\u00e0 proporre almeno un laboratorio\\xa0in cui insegnare un modello o una tecnica. Si potranno inoltre segnalare particolari modelli o tecniche che si vorrebbero imparare', '\\xa0', 'Scopri il programma completo']",
+        "Organizer": "Mountain Folding"
+    },
+    {
+        "Name": "Riva veneziana - Il museo nella citt\u00e0",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Eventi Culturali",
+        "Description": "Passeggiata dal museo al Bastione (salita e discesa con ascensore) per scoprire la storia di Riva veneziana.",
+        "Content": "[]",
+        "Organizer": "MAG - Museo Alto Garda"
+    },
+    {
+        "Name": "Il Natale dei Ricordi - El nos Nadal",
+        "Period": "05/12/2020 - 13/12/2020",
+        "Locality": "Villa Lagarina - Lago di Cei",
+        "Typology": "Feste e Sagre, Mercati e mercatini",
+        "Description": "Il Natale a Castellano",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Bosco di Grancereale",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Altro, Visite Guidate",
+        "Description": "Ore 9.45, Valle di Sella",
+        "Content": "[]",
+        "Organizer": "Apt Valsugana"
+    },
+    {
+        "Name": "Hockey su ghiaccio: Fassa Falcons vs Rittner Buam",
+        "Period": "05/12/2020",
+        "Locality": "Canazei",
+        "Typology": "Sport",
+        "Description": "Campionato di hockey su ghiaccio dell\u2019Alps Hockey League",
+        "Content": "['Segui le partite in casa dei Fassa Falcons, la squadra di hockey su ghiaccio dell\u2019Alps Hockey League. I campioni della Val di Fassa giocano contro il\\xa0Rittner Buam. Ingresso: adulti \u20ac 12; ragazzi 6-12 anni \u20ac 8; gratuito per i bambini fino a 5 anni. Inizio partita alle ore 20.45.\\xa0', 'Il calendario delle partire potrebbe subire variazioni. Biglietti acquistabili anche online. 200 posti a sedere, secondo le disposizioni di sicurezza vigenti.']",
+        "Organizer": "S.H.C. Val di Fassa"
+    },
+    {
+        "Name": " Nebbie. Al di l\u00e0 del fiume e tra i monti",
+        "Period": "12/09/2020 - 15/11/2020",
+        "Locality": "Tenno",
+        "Typology": "Mostre",
+        "Description": "Uno sguardo artistico all'elemento della natura che abita i paesaggi di pianura e quelli delle alte quote: la nebbia",
+        "Content": "[\"Una mostra nata dall'incontro con la pianura in occasione di Parma capitale della cultura 2020. Uno sguardo artistico all'elemento delle natura che abita i paesaggi di pianura e quelli delle alte quote: le nebbie. Si confrontano i linguaggi di un gruppo di artisti - pittori, scultori e poeti - selezionati dalla Casa degli artisti con il gruppo degli artisti selezionato dalla Chaos Gallery di Parma. La mostra partir\u00e0 nel mese di settembre alla Casa degli Artisti per scendere in pianura alla Reggia di Colorno dal 21 di novembre alla met\u00e0 di gennaio 2021.\", 'A cura di Roberta Bonazza in collaborazione con Manuela Bortolotti (Chaos Gallery Parma)', '\\xa0', \"Orario: 10.30/12.00 - 14.30/18.00 dal marted\u00ec alla domenica (luned\u00ec chiuso).L'accesso \u00e8 a numero limitato, durante la visita obbligo di protezioni.\"]",
+        "Organizer": "Casa degli Artisti \"G. Vittone\""
+    },
+    {
+        "Name": "Cammina Tesino Autunno - Passeggiata foliage",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Visite Guidate",
+        "Description": "11, 18, 25 ottobre\nCastello Tesino\nOre 9",
+        "Content": "[]",
+        "Organizer": "Apt Valsugana"
+    },
+    {
+        "Name": "Arte sacra nel bosco",
+        "Period": "18/10/2020 - 08/11/2020",
+        "Locality": "Terragnolo",
+        "Typology": "Visite Guidate",
+        "Description": "Passeggiata a Terragnolo verso un piccolo tesoro di arte pittorica",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Gli Antichi Sapori della Val di Non, 34\u00b0 edizione",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia",
+        "Description": "Alla riscoperta dei sapori di un tempo\n",
+        "Content": "['Ogni anno, ad ottobre, torna la rassegna gastronomica \"Antichi Sapori\", un appuntamento fisso dell\\'autunno noneso.', 'Un viaggio nel gusto, che ti far\u00e0 scoprire i piatti della cucina di un tempo, fatta di tradizione, genuinit\u00e0 e semplicit\u00e0.', 'Sei appassionati chef della valle proporranno, nei rispettivi ristoranti, delle gustose ricette tramandate di generazione in generazione, spesso rivisitate, rilette e reinterpretate. Tra un\\'infinit\u00e0 di pietanze tradizionali salate e dolci, non mancheranno \"grandi classici\" come il tortel da patate, i canederli, la minestra d\\'orzo, la polenta nelle sue svariate formule di reimpiego e la torta di mele.\\xa0', \"Ogni men\u00f9 della rassegna propone un vino diverso ad ogni portata dall'antipasto al dolce ed una degustazione di grappe locali.\\xa0\", 'Se prenoti dal luned\u00ec al gioved\u00ec, una bottiglia di vino trentino come speciale regalo da portare a casa.', \"Hai gi\u00e0 l'acquolina in bocca?\\xa0Dai un'occhiata ai men\u00f9 e prenota!\", 'Scopri tutto su: www.antichisaporidellavaldinon.com\\xa0']",
+        "Organizer": "ApT Val di Non"
+    },
+    {
+        "Name": "Enotour tra i vigneti",
+        "Period": "26/09/2020 - 30/11/2020",
+        "Locality": "Ala",
+        "Typology": "Enogastronomia",
+        "Description": "Un'esperienza multisensoriale tra le vigne della Vallagarina",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Snowboard FIS World Cup Carezza",
+        "Period": "17/12/2020",
+        "Locality": "Vigo di Fassa",
+        "Typology": "Sport",
+        "Description": "Il Passo Carezza inaugura la stagione invernale con due gare di Coppa del Mondo di snowboard",
+        "Content": "['La stagione invernale 2020-2021 in Val di Fassa viene inaugurata dalla Coppa del Mondo di snowboard che il\\xa017 dicembre si disputer\u00e0 sulla soleggiata pista Pra di Tori al Passo Carezza. La localit\u00e0, a soli 9 km da Vigo di Fassa, rientra nella lista delle\\xa0location italiane scelte dalla Federazione Internazionale Sci per ospitare durante l\u2019inverno gli appuntamenti di Coppa del Mondo di snowboard.\\xa0Gioved\u00ec 17 dicembre i migliori specialisti internazionali della tavola si sfideranno in due gare di slalom gigante parallelo maschile e femminile. Tra i favoriti ci saranno anche il campione di Moena\\xa0Mirko Felicetti. Il programma (salvo modifiche) prevede numerosi eventi d\u2019intrattenimento \"green\", come concerti e show. Sar\u00e0 inoltre allestita un\u2019area dedicata agli sponsor della manifestazione.', 'Un altro importante successo per il comprensorio Val di Fassa-Carezza scelto ogni inverno, dal 2006, come centro federale di allenamento per le nazionali maschili e femminili di sci alpino. I riflettori saranno ancora puntati sulla valle\\xa0in occasione dello slalom gigante di Coppa Europa, in notturna, sulla temuta pista Alloch a Pozza di Fassa.\\xa0']",
+        "Organizer": "Carezza Event"
+    },
+    {
+        "Name": "Foliage e sapori del Monte Baldo",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport, Enogastronomia, Visite Guidate",
+        "Description": "Una passeggiata golosa tra i castagneti di Castione",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "ZiBALDOne",
+        "Period": "07/08/2020 - 30/06/2021",
+        "Locality": "Brentonico",
+        "Typology": "Intrattenimento della Localit\u00e0",
+        "Description": "Passeggiate, laboratori e incontri per scoprire i segreti del Baldo",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Le. 180 etichette del s\u00e8 - Tra le mura",
+        "Period": "04/09/2020 - 29/11/2020",
+        "Locality": "Drena",
+        "Typology": "Mostre",
+        "Description": "Mostra fotografica di Elvio Pederzolli, con Lorena Bombardelli e Emanuela Antonelli",
+        "Content": "['Mostra fotografica di Elvio Pederzolli, con Lorena Bombardelli e Emanuela Antonelli, i cui scatti raccontano i luoghi del disagio psichico. Il titolo, \"Tra le mura\", gioca sulla triplice idea delle mura del castello, delle mura dei luoghi di costrizione psichiatrica, ma anche e soprattutto delle mura dell\\'etichetta di \"matto\" che chi soffre di un disturbo psichiatrico \u00e8 costretto a vivere ancora oggi, che i manicomi sono un ricordo lontano. L\\'esposizione \u00e8 arricchita dai quadri di Lorenzo Valer e dalle installazioni della Comunit\u00e0 Villa Ischia di Riva del Garda e del Centro di Salute Mentale di Arco.La mostra \u00e8 visitabile negli orari del castello: dal marted\u00ec alla domenica, dalle 10.00 alle 18.00.', '\\xa0', '\\xa0']",
+        "Organizer": "Associazione AnDROmeda"
+    },
+    {
+        "Name": "Mercato contadino Arco",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Mercati e mercatini",
+        "Description": "Mercato settimanale dei produttori locali: non solo frutta e verdura fresca, ma anche marmellate, succhi e miele ",
+        "Content": "[]",
+        "Organizer": "Comune di Arco"
+    },
+    {
+        "Name": "Mercatino di Natale ad Arco",
+        "Period": "14/11/2020 - 06/01/2021",
+        "Locality": "Arco",
+        "Typology": "Feste e Sagre",
+        "Description": "Piccole e luminose le mini baite in legno incantano e accolgono il visitatore nelle piazze principali della citt\u00e0 ",
+        "Content": "['Dal 14 novembre 2020 al 6 gennaio 2021', 'venerd\u00ec, sabato e domenica dalle 10.00 alle 19.00', '(il sabato aperto fino alle 20.00)', '14-15 &\\xa020-21-22 &\\xa027-28-29 Novembre 2020', '4-5-6-7-8\\xa0& 11-12-13 &\\xa018-19-20-21-22-23-24 & 26-27-28-29-30-31\\xa0Dicembre 2020', '1-2-3-4-5-6 Gennaio 2021', '25 dicembre chiuso', '\\xa0', '\u00abOnorer\u00f2 il Natale nel mio cuore e cercher\u00f2 di tenerlo con me tutto l\u2019anno\u00bb (Charles Dickens). Questo lo spirito del Mercatino di Natale di Arco che come ogni anno rinnova una piccola grande promessa: stupire, meravigliare, incantare e far sognare. La magia del Natale del nostro Mercatino la si pu\u00f2 toccare con mano, la si pu\u00f2 inspirare a pieni polmoni, la si pu\u00f2 degustare in decine di leccornie, la si pu\u00f2 ammirare con lo sguardo del sognatore o quello del viaggiatore. La magia \u00e8 il nostro regalo di Natale per tutti voi diffusa con cura tra le bancarelle, negli spettacoli di strada, nelle luminarie, nei concerti, nel video-mapping. Venite e prendetevi la vostra fetta di magia.Le casette allestite nelle piazze del centro offrono la possibilit\u00e0 di acquistare\\xa0articoli regalo e prodotti tipici del Natale.\\xa0', \"La magica mascotte dei Mercatini di Natale di Arco, l'Orso Pom, passegger\u00e0 tra le casette per farsi delle foto e divertirsi tutti insieme, grandi e bambini.\", '\\xa0UN NATALE PER FAMIGLIEGli asinelli, la fattoria degli animali, il magico trenino per il Polo Nord, gli artisti di strada, le coreografie luminose, laboratori, magie di strada e presepi. Arco e il suo Mercatino di Natale sapranno dare gioia a tutta la famiglia, dai pi\u00f9 grandi ai pi\u00f9 piccini.INCANTO DI LUCINatale \u00e8 incanto, \u00e8 stare immersi nel piccolo grande mondo dell\u2019impensabile che si fa realt\u00e0 per meravigliare i volti di tutti noi. Una coreografia di luci innovativa, uno spettacolo di effetti che faranno danzare i palazzi storici della citt\u00e0.', '\\xa0', '']",
+        "Organizer": "Assocentro"
+    },
+    {
+        "Name": "Trekking autunnali",
+        "Period": "19/09/2020 - 22/11/2020",
+        "Locality": "Vigolo Vattaro, Vattaro, Centa San Nicol\u00f2 ...",
+        "Typology": "Sport, Visite Guidate, Altro",
+        "Description": "Passeggiate tra gusto e natura\n",
+        "Content": "['Sabato e domenica passeggiate con cena o pranzo a base di pera, castagna o patata\\nVenerd\u00ec passeggiate con i custodi forestali\\n\\xa0', '\\xa0', 'Uscita in compagnia dei custodi forestali. Ritrovo presso parcheggio maneggio Malga Doss del Bue.', '\\xa0', 'Escursione in compagnia di Stefano Mayr accompagnatore del territorio.\\nPossibilit\u00e0 di pranzo finale presso Locanda Campregheri con men\u00f9 a tema o alla carta.\\nScopri il men\u00f9', '\\xa0', 'Escursione in compagnia di Stefano Mayr accompagnatore del territorio.\\nPossibilit\u00e0 di pranzo finale presso Malga Doss del Bue con men\u00f9 a tema o alla carta.\\nScopri il men\u00f9', '\\xa0', 'Escursione in compagnia di Mario Martinelli, guida alpina.\\nPossibilit\u00e0 di pranzo finale presso Osteria Vittoria con men\u00f9 a tema o alla carta.\\nScopri il men\u00f9', '\\xa0', '\\xa0', '\\xa0', 'Obbligatorio frontalino e abbigliamento adeguato', 'Costo: \u20ac5 per l\u2019uscita + costo della cena/pranzo', '\\xa0', \"Prenotazione entro due giorni prima dell'uscita\\xa0 presso Consorzio Turistico Vigolana\\x03telefonando o inviando una email entro le ore 12.00\\nTel. 0461.848350 -\\x03info@vigolana.com\"]",
+        "Organizer": "Consorzio Turistico Vigolana"
+    },
+    {
+        "Name": "A colpi di matita, la Grande Guerra nella caricatura",
+        "Period": "19/05/2020 - 31/12/2020",
+        "Locality": "Trento",
+        "Typology": "Eventi Culturali, Mostre",
+        "Description": "",
+        "Content": "['Il primo allestimento della mostra risale alla tarda estate del 2014 e da allora la mostra ha girato in tutta Italia toccando 17 localit\u00e0.', \"La fortuna incontrata dall'esposizione, la bont\u00e0 della formula adottata e la nuova situazione insorta a causa dell'emergenza sanitaria, hanno suggerito di far rivivere i suoi contenuti in modalit\u00e0 virtuale. Ne \u00e8 nata una proposta intimamente diversa, poich\u00e9 potenzialit\u00e0 offerte dal mezzo informatico hanno permesso di attivare letture trasversali e una visione pi\u00f9 dettagliata delle immagini.\", 'Una mostra in cui la caricatura appare significativa non solo per l\u2019importanza degli artisti che coinvolge, ma anche per l\u2019efficacia d el messaggio che da essa traspare se spogliata di ogni divisa, patria o bandiera di copertura: i colpi di matita prima di mirare al nemico puntano a denunciare e additare i disastri della guerra.', 'VAI ALLA MOSTRA!', 'http://mostre.museostorico.it/acolpidimatita/  ']",
+        "Organizer": "Not specified"
+    },
+    {
+        "Name": "Le  cinque chiavi gotiche e altre meraviglie",
+        "Period": "13/06/2020 - 29/11/2020",
+        "Locality": "Cles",
+        "Typology": "Eventi Culturali, Mostre",
+        "Description": "Arte e storia della antica borgata di Cles",
+        "Content": "[\"Voluta fortemente dall\u2019Amministrazione comunale di Cles e curata da Lucia Barison, la mostra \u00e8 una riflessione sul concetto di valorizzazione del patrimonio culturale della borgata attraverso, hic et nunc, la creazione di un percorso didascalico ed interattivo che evoca il concetto di \u201cMuseo Civico\u201d, organizzato in aree tematiche che raccontano la storia, l\u2019archeologia, l'arte e la cultura popolare del territorio con un\u2019offerta che varia dai reperti archeologici, alle testimonianze di arte medievale, gotica, barocca, oggetti tradizionali e di artigianato locale.\", 'Un percorso interattivo dedicato all\u2019abitante del luogo e al visitatore ai quali \u00e8 indirizzato un racconto che affonda le proprie radici in un\u2019epoca antica per giungere in et\u00e0 moderna con una corposa eredit\u00e0 culturale di inestimabile valore demoetnoantropologico.', 'Le cinque chiavi gotiche e altre meraviglie \u00e8 un progetto espositivo concepito allo scopo di rigenerare la memoria storica del paese attraverso l\u2019emersione dell\u2019identit\u00e0 culturale della comunit\u00e0 di Cles e delle sue frazioni storiche.', 'La mostra riunisce pi\u00f9 di 240 opere d\u2019arte e oggetti selezionati da un team di co-curatori che, analizzando la storia della borgata nel corso dei secoli, hanno individuato e scelto reperti, opere d\u2019arte, documenti e oggetti conservati o provenienti dai siti del territorio, oppure esposti presso enti museali nazionali ed internazionali che oggi ne detengono la propriet\u00e0.', 'Il titolo della mostra mutua il fascino evocativo da una serie di chiavi gotiche (met\u00e0 XII \u2013 XV sec. d.C.) rinvenute a Cles, visibili nella sezione archeologica del percorso che approfondisce, fra le varie tematiche, l\u2019affascinante significato simbolico di porte, serrature e chiavi.', 'Ad accentuarne il fascino anche l\u2019ipotesi secondo cui il toponimo \u201cCles\u201d, dal latino Clavis, starebbe a significare luogo \u2018chiave\u2019.', 'Duecentoquaranta testimoni di un\u2019eredit\u00e0 storico culturale ai pi\u00f9 sconosciuta, ignorata, dimenticata.', 'L\u2019emersione del patrimonio culturale di Cles attraverso Le cinque chiavi gotiche ha permesso di schiudere una porta per intraprendere l\u2019importante e fondamentale processo di trasmissione dell\u2019identit\u00e0 e reputazione di una comunit\u00e0, fondato sulla valorizzazione di caratteristiche distintive volte a riflettere lo spirito, la cultura e il carattere del territorio (processo di costruzione della marca o brand territoriale).', 'La mostra assume una particolare connotazione \u201cmeravigliosa\u201d che evoca il concetto di Wunderkammer e che giustifica l\u2019accorpamento di numerosi beni organizzati sotto forma di raccolta di oggetti straordinari, individuati per le loro peculiarit\u00e0 intrinseche ed estrinseche.', 'La camera delle meraviglie o il gabinetto delle curiosit\u00e0 della comunit\u00e0 di Cles, racconta l\u2019eredit\u00e0 culturale di una comunit\u00e0 attraverso l\u2019innocenza degli oggetti, di varia natura, che sono stati selezionati nel rispetto di due requisiti fondamentali \u2013 condivisi tra i curatori e l\u2019Amministrazione \u2013 di provenienza e fruibilit\u00e0. ', 'La maggior parte dei beni appartiene e proviene dalla comunit\u00e0 di Cles.', 'Essi sono custoditi presso i siti del territorio come chiese o palazzi e possono essere, a mostra conclusa, visitati presso i loro luoghi di appartenenza.', 'Per ragioni di completezza e rigore scientifico nell\u2019indagine svolta al fine di costruire il tessuto narrativo del percorso, si \u00e8 inoltre reso necessario chiedere agli enti museali della Provincia autonoma di Trento la necessaria e fondamentale collaborazione nell\u2019ambito del prestito di quei beni confluiti, nel corso degli anni, nelle collezioni dei musei del territorio provinciale e regionale.', 'Complementare alla percezione del potenziale culturale del territorio il compito destinato alla realt\u00e0 aumentata voluta e creata allo scopo di immergere il visitatore nell\u2019evoluzione storico, artistica e architettonica del territorio mutato nel corso dei secoli.', 'Una mostra, questa, dove il desiderio comune di vivere almeno per un solo attimo il tempo passato diventa realt\u00e0 attraverso l\u2019esperienza virtuale organizzata dalla curatrice per proiettare il visitatore in alcune delle chiese del territorio, osservare la trasformazione di Palazzo Assessorile da rustica torre medievale a complesso architettonico rinascimentale, oppure vivere l\u2019esperienza di guardia dall\u2019ultimo piano del torrione.', 'Otto gli eventi collaterali organizzati nell\u2019ambito della mostra lungo il lungo periodo di apertura che verr\u00e0 animato da tre esposizioni temporanee di beni di straordinaria importanza quali le portelle tardogotiche della chiesa di Santa Lucia di Caltron, il Codice Brandis e la ricostruzione 3D della testa di Saturno velato conservata presso il Castello del Buonconsiglio.']",
+        "Organizer": "Not specified"
+    },
+    {
+        "Name": "Dinosauri in Carne e Ossa",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Mostre, Visite Guidate",
+        "Description": "Tirannosauri, Raptor e Mammut invadono Rovereto",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Visite guidate ad Ala, Citt\u00e0 di Velluto",
+        "Period": "25/10/2020 - 06/12/2020",
+        "Locality": "Ala",
+        "Typology": "Visite Guidate",
+        "Description": "Passeggiata alla scoperta del centro storico barocco",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "2020 Star European Championship",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport",
+        "Description": "Campionato europeo Classe Star",
+        "Content": "['Campionato europeo Classe Star']",
+        "Organizer": "Fraglia Vela Riva"
+    },
+    {
+        "Name": "Natale nei Palazzi Barocchi",
+        "Period": "05/12/2020 - 24/12/2020",
+        "Locality": "Ala",
+        "Typology": "Feste e Sagre, Enogastronomia, Intrattenimento della Localit\u00e0, Festival, Mercati e mercatini",
+        "Description": "L'atmosfera del Natale nei palazzi barocchi della Citt\u00e0 di Velluto",
+        "Content": "['Nei weekend che precedono il Natale ad Ala ti aspetta\\xa0un mercatino esclusivo con\\xa0tessuti, sete dipinte a mano e originali decorazioni natalizie.\\xa0Nei palazzi musica e sapori e per i bambini tanti laboratori creativi.', 'Ala, accogliente borgo trentino,\\xa0Bandiera arancione del Touring Club Italiano, fu famosa nel Settecento per la\\xa0produzione di velluti di seta.\\xa0La citt\u00e0\\xa0ha mantenuto ancora oggi l\u2019atmosfera barocca dell\u2019epoca. Fiori all\u2019occhiello di Ala\\xa0sono il centro storico, tra i pi\u00f9 eleganti del Trentino, il\\xa0Museo del Pianoforte Antico\\xa0e il futuro Museo provinciale del tessuto.', 'A caratterizzare il centro storico\\xa0palazzi di pregio\\xa0che si aprono ai visitatori per accogliere\\xa0spettacoli d\u2019arte, musica e poesia. Sono proprio le stanze e gli androni di queste preziose location ad ospitare il Mercatino e le manifestazioni a tema nei quattro weekend prima di Natale, con chiusura il 23 Dicembre.', 'Una suggestiva scenografia di\\xa0luci teatrali e luminarie di richiamo barocco\\xa0accenderanno il percorso natalizio del centro storico, le facciate, i saloni e gli androni dei principali palazzi, per offrire una\\xa0nuova esperienza del Natale.', 'Ala, Citt\u00e0 di Velluto, con il suo mercatino di Natale alternativo, tra suggestione, storia, bellezza e tradizione, racconta e fa rivivere un\u2019atmosfera d\u2019altri tempi.\\xa0', 'Gli androni e le sale di alcuni dei palazzi pi\u00f9 belli del centro storico ospitano artigiani e artisti con i loro originali manufatti che richiamano la storia, la cultura e le tradizioni di questo magnifico\\xa0 borgo trentino:\\xa0tessuti, sete, decorazioni natalizie particolari e creative. Un suggestivo ed originale percorso del centro storico che vedr\u00e0 accolti, nei palazzi settecenteschi, artigiani ed artisti che metteranno in mostra i loro prodotti. Realt\u00e0 e aziende che mostrano un chiaro legame con il fare, ricreando, all\u2019interno dei palazzi, delle\\xa0botteghe narranti\\xa0capaci di raccontare e comunicare, attraverso laboratori e dimostrazioni, la propria storia e l\u2019unicit\u00e0 della propria proposta.', 'Guarda il video\\xa0del\\xa0Mercatino di Natale di Ala!', 'La musica. Un elemento a cui la citt\u00e0 di Ala ha sempre prestato particolare attenzione, caratterizzando i suoi palazzi e raccontando la sua storia. Tanti gli appuntamenti con le note ed i canti che i gruppi alensi e provenienti da fuori regione proporranno nei weekend di festa. Un\\xa0programma ricco di suggestioni e di momenti da condividere. Da non perdere\\xa0le coinvolgenti visite guidate in costume, a lume di candela, a cura dell\u2019Associazione Culturale Vellutai (tutti i giorni della manifestazione alle ore 17) e la\\xa0scenografica mostra dedicata al Presepio barocco napoletano: un inedito percorso scenografico tra storia, tradizione e la cultura presepiale, famosa in tutto il mondo.', 'Anche i bambini troveranno uno spazio a loro dedicato, dove verranno proposti\\xa0laboratori a tema e piccole animazioni\\xa0per far trascorrere momenti piacevoli\u2026 e al calduccio!', 'I sapori e i profumi della Vallagarina\\xa0si incontrano ad Ala, per ricordare la ricchezza e l\u2019autenticit\u00e0 dei prodotti che il territorio produce e lavora secondo tradizioni che si sono mantenute nel tempo.\\xa0Vignaioli, viticoltori, agricoltori e ristoratori\\xa0animano le location del centro storico della Citt\u00e0 di Velluto per proporre e raccontare i loro prodotti e la loro storia, e regalare persistenti esperienze di gusto.']",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Free Ski Day",
+        "Period": "12/12/2020",
+        "Locality": "Polsa, San Valentino",
+        "Typology": "Sport",
+        "Description": "Lezioni gratuite per tutti sulle piste di Polsa e San Valentino",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Storia e sapori d'autunno",
+        "Period": "26/09/2020 - 09/01/2021",
+        "Locality": "Rovereto",
+        "Typology": "Visite Guidate",
+        "Description": "Viaggio alla scoperta del castello di Rovereto con pranzo a km 0",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Hockey su ghiaccio: Fassa Falcons vs. HC Gherd\u00ebina",
+        "Period": "14/11/2020",
+        "Locality": "Canazei",
+        "Typology": "Sport",
+        "Description": "Campionato di hockey su ghiaccio dell\u2019Alps Hockey League",
+        "Content": "['Segui le partite in casa dei Fassa Falcons, la squadra di hockey su ghiaccio dell\u2019Alps Hockey League. I campioni della Val di Fassa giocano contro l\u2019HC Gherd\u00ebina. Ingresso: \u20ac 10; gratuito per i bambini fino a 3 anni. Inizio partita alle ore 20.30.\\xa0', 'Il calendario delle partire potrebbe subire variazioni. Biglietti acquistabili anche online. 200 posti a sedere, secondo le disposizioni di sicurezza vigenti.']",
+        "Organizer": "S.H.C. Val di Fassa"
+    },
+    {
+        "Name": "Jazz & Wine Suono di-vino",
+        "Period": "27/11/2020",
+        "Locality": "Moena",
+        "Typology": "Musica",
+        "Description": "Autunno in musica a La Grenz con Swing Machine",
+        "Content": "['Music band Swing Machine: Sandro Gibellini (chitarra), Martino De Franceschi (basso), Francesco Casale (batteria).', 'TrentinoinJazz. Programma: il trio nasce nel 2016 dall\u2019entusiasmante ritrovamento tra due amici di lunga data: il rinomato chitarrista italiano Sandro Gibellini e lo straordinario batterista Francesco Casale, uniti da un\u2019affiatata amicizia e da un\u2019incomparabile intesa musicale, insieme al giovane bassista veronese Martino De Franceschi, danno vita ad una formazione scoppiettante, proponendo un vivace repertorio che spazia dal jazz tradizionale alla musica brasiliana, con uno sguardo anche al pop e alla musica da film.', 'Ingresso gratuito, consumazioni a pagamento.\\xa0']",
+        "Organizer": "Associazione La Grenz Moena"
+    },
+    {
+        "Name": "Visita al mulino Zeni",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Intrattenimento della Localit\u00e0, Visite Guidate",
+        "Description": "Alla scoperta dell'antico mulino sul Monte Baldo",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "DiVin Ottobre",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia, Intrattenimento della Localit\u00e0",
+        "Description": "Un viaggio di gusto tra colori e sapori d'autunno",
+        "Content": "['Trentino, i fine settimana di ottobre 2020', 'In Trentino accogliamo l\u2019arrivo dell\u2019autunno con DiVin Ottobre, ricco calendario di appuntamenti, in programma in tutti i weekend del mese lungo la Strada del Vino e dei Sapori del Trentino.\\xa0\\nUn\u2019occasione per scoprire i paesaggi pi\u00f9 suggestivi attraverso un viaggio di gusto che coinvolge cantine, aziende agricole, ristoranti ed agriturismi. Tante le iniziative in programma: da trekking guidati in boschi o vigneti a cooking show, da aperitivi gourmet a degustazioni in cantina, ma anche feste dedicate ai prodotti pi\u00f9 caratteristici del periodo. Il tutto dominato dai caldi colori autunnali che rendono magico il paesaggio.\\nEcco dunque la rassegna da non perdere che vi far\u00e0 \u201cassaporare\u201d il Trentino!\\n\\xa0', 'Scopri il programma su: www.tastetrentino.it/divinottobre\\xa0', 'Venerd\u00ec 2, sabato 3\\xa0e domenica 4 ottobre - Trento\\nUn Inkino all\u2019autunnoSabato 3 ottobre - Cavedine\\nIl ciclo della vite/vita', 'Sabato 3 ottobre - Rovereto\\nTaste & Bike \u2013 Speciale Marzemino', 'Sabato 3\\xa0e domenica 4 ottobre - Ala\\nEnotour d\u2019ottobre', 'Domenica 4 ottobre - Luserna\\nHerbsttorgelen Zimbar', 'iniziativa sospesa\\xa0- Altavalle\\nMusica&Gusto', 'Venerd\u00ec 9, sabato 10\\xa0e domenica 11 ottobre - Trento\\nUn Inkino all\u2019autunno', 'Sabato 10\\xa0e domenica 11 ottobre - Ala\\nEnotour d\u2019ottobre', 'Sabato 10 ottobre - Cavedine\\xa0\\nIl ciclo della vite/vita', 'Sabato 10 ottobre - Rovereto\\nTaste & Bike \u2013 Speciale Marzemino', 'Domenica 11 ottobre - Isera\\nLa Vigna eccellente. Ed \u00e8 subito Isera', 'Gioved\u00ec 15,\\xa0venerd\u00ec 16 e sabato 17 ottobre - Trento\\nRassegna M\u00fcller Thurgau: Vino di Montagna\\xa0', 'Venerd\u00ec 16 ottobre - Trento\\nCoralli e bollicine', 'Venerd\u00ec 16, sabato 17\\xa0e domenica 18 ottobre - Trento\\nUn Inkino all\u2019autunno', 'Sabato 17 ottobre - Cavedine\\nIl ciclo della vite/vita', 'iniziativa sospesa - Cembra Lisignago\\nCaneve en festa', 'Sabato 17 ottobre - Rovereto\\nTaste & Bike \u2013 Speciale Marzemino', \"iniziativa sospesa - Cembra Lisignago\\nViticoltura Val di Cembra: nuovo PRS d'Italia\", 'Sabato 17\\xa0e domenica 18 ottobre - Ala\\nEnotour d\u2019ottobre', 'Venerd\u00ec 23, sabato 24 e domenica 25 ottobre - Trento\\nUn Inkino all\u2019autunno', 'Sabato 24 ottobre - Rovereto\\nTaste & Bike \u2013 Speciale Marzemino', 'Sabato 24 e domenica 25 ottobre - Roncegno Terme\\nAperitivo con l\u2019autunno', 'Sabato 24 e\\xa0domenica 25 ottobre -\\xa0San Lorenzo Dorsino\\nSagra della ciu\u00ecga', 'Sabato 24 e domenica 25 ottobre - Ala\\nEnotour d\u2019ottobre', '\\xa0', 'Venerd\u00ec 30, sabato 31 ottobre e domenica 1 novembre - Trento\\nUn Inkino all\u2019autunno', 'Sabato 31 ottobre - Valle dei Laghi\\nReboro. Territorio & Passione', 'Sabato 31 ottobre - Rovereto\\nTaste & Bike \u2013 Speciale Marzemino', 'Sabato 31 ottobre e domenica 1 novembre - San Lorenzo Dorsino\\nSagra della ciu\u00ecga', 'Sabato 31 ottobre\\xa0e domenica 1 novembre - Ala\\nEnotour d\u2019ottobre', '\\xa0', 'Info\\nStrada del Vino e dei Sapori del Trentino\\ntel. 0461.921863 -\\xa0info@stradavinotrentino.com\\xa0\\n\\xa0', 'Note\\nAl fine di garantire la sicurezza di tutti gli ospiti e gli operatori, chiediamo agli ospiti di astenerti dall\u2019usufruire dell\u2019attivit\u00e0 prenotata in presenza dei seguenti fattori di rischio:\\n-Presenza di febbre superiore a 37.5\\n-Presenza di sintomi influenzali per s\u00e9 e i propri conviventi\\n-Contatto una persona contagiata negli ultimi 14 giorni\\n-Provenienza da una zona a rischio (dichiarate tali dalle autorit\u00e0 competenti) negli ultimi 14 giorni\\n-Presentandosi all\u2019appuntamento per fruire del servizio prenotato si conferma implicitamente l\u2019assenza dei\\xa0\\xa0\\xa0fattori di rischio sopra elencati; si richiede quindi di portare con s\u00e9 la mascherina di protezione e di\\xa0rispettare il distanziamento interpersonale di almeno 1 metro.\\xa0', '\\xa0', 'DiVin Ottobre fa parte del calendario di manifestazioni enologiche denominato #trentinowinefest,\\xa0organizzate con il supporto di Trentino Marketing; \u00e8 realizzato in collaborazione con La Trentina ed il supporto della\\xa0Comunit\u00e0 della Valle di Cembra e del Bim del Sarca.']",
+        "Organizer": "Strada del Vino e dei Sapori del Trentino"
+    },
+    {
+        "Name": "Passeggiata sotto la luna piena",
+        "Period": "30/10/2020 - 30/12/2020",
+        "Locality": "Vattaro, Bosentino, Centa San Nicol\u00f2 ...",
+        "Typology": "Altro",
+        "Description": "Passeggiata sotto la luna piena: ricarichiamoci di energia nuova e lasciamo andare ci\u00f2 che ci appesantisce. Un occasione per rilassare la mente e prendere contatto con noi stessi e la Natura che ci circonda\n",
+        "Content": "['Passeggiata sotto la luna piena, per ricaricarci con energia nuova, fresca e positiva. Dopo un breve momento per rilassare la mente e prendere contatto con noi stessi e la Natura che ci circonda, i partecipanti verranno accompagnati lungo il sentiero e stimolati a lasciar andare ci\u00f2 che \u00e8 superfluo (emozioni, ricordi, sensazioni, situazioni, ecc.), per fare spazio al nuovo.', '\\xa0', 'Informazioni utili:', '\u2013 Si consiglia di indossare abbigliamento comodo adatto alle temperature della stagione. Si\\xa0consiglia di calzare scarpe tipo trekking;', '\u2013 Il contributo \u00e8 di 10\u20ac ; gratuito per gli ospiti con Trentino Guest Card', 'Iscrizioni\\nConsorzio Turistico Vigolana\\nVia S.Rocco 4\\xa0 \u2013 Altopiano della Vigolana\\nTel. 0461.848350\\ninfo@vigolana.com']",
+        "Organizer": "Consorzio Turistico Vigolana"
+    },
+    {
+        "Name": "Cantine e castelli",
+        "Period": "10/10/2020 - 02/01/2021",
+        "Locality": "Besenello",
+        "Typology": "Enogastronomia, Intrattenimento della Localit\u00e0",
+        "Description": "Visita alla pi\u00f9 grande fortezza del Trentino e degustazione vino",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Giro d'Italia",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "TOP EVENTI SPORT, Sport",
+        "Description": "17^ Tappa della \"Corsa\u00a0Rosa\"\n",
+        "Content": "['Il Giro d\u2019Italia \u00e8 pronto a ritornare in Val Rendena con l\u2019arrivo della 17^ tappa Bassano del Grappa-Madonna di Campiglio e il giorno seguente, con la partenza della 18^ tappa Pinzolo-Laghi di Cancano.Per il 2020 si preannuncia una novit\u00e0: l\u2019arrivo di tappa a Madonna di Campiglio sar\u00e0 collocato nella centralissima piazza Sissi. Diversamente \u00e8 stato cinque anni fa, con il traguardo fissato un po\u2019 pi\u00f9 in alto, sulla terrazza panoramica vista Dolomiti di Patascoss.', 'Ti aspettiamo per applaudire e sostenere i grandi del ciclismo nella grande salita alpina verso Madonna di Campiglio e salutarli il giorno dopo nella partenza da Pinzolo.', '\\xa0', 'Per maggiori informazioni visita il sito\\xa0www.giroditalia.it']",
+        "Organizer": "Azienda per il Turismo Madonna di Campiglio - Pinzolo - Val Rendena"
+    },
+    {
+        "Name": "Halloween Cup Optimist",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport",
+        "Description": " Circa 300 giovani promesse della vela nel Garda Trentino",
+        "Content": "[\"Essendo l\u2019ultima regata per le segreterie internazionali, questo evento collocato nei giorni di festa \u00e8 di fatto un grande campionato internazionale, se si pensa che nella prima edizione i partecipanti erano 70, mentre\\xa0negli anni successivi si \u00e8 raggiunta quota 300, a dimostrazione dell'importanza di questa regata per le classi internazionali.\", '\\xa0']",
+        "Organizer": "Circolo Vela Torbole"
+    },
+    {
+        "Name": "Beyond The Plastic",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Eventi Culturali, Mostre",
+        "Description": "",
+        "Content": "['La collezione di 10 + 1 arazzi, realizzata dal maestro tessitore Giovanni Bonotto e curata da Chiara Casarin, intreccia la ricerca contemporanea di giovani e affermati artisti del panorama italiano con la visione creativa delle nuove tecniche di tessitura.', 'A partire da resistenti filati ottenuti dalla lavorazione della plastica riciclata vengono realizzati grandi arazzi in cui progettualit\u00e0 artistica e cura del pianeta si fondono.']",
+        "Organizer": "Not specified"
+    },
+    {
+        "Name": "10 anni di Time Out",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Mostre",
+        "Description": "Mostra fotografica per celebrare il decennale del percorso di crescita relazionale per adolescenti e per i loro genitori",
+        "Content": "['\\xa0', '\\xa0', 'Time Out, il percorso di crescita relazionale per adolescenti e per i loro genitori, festeggia i dieci anni di attivit\u00e0 con una mostra fotografica e una tavola rotonda.', '\\xa0', 'In primavera il programma delle attivit\u00e0 di Time Out \u00e8 stato annullato a causa dell\u2019emergenza sanitaria per la pandemia di covid-19, ma Time Out non rinuncia a festeggiare il decennale del proprio percorso. E lo fa con una mostra fotografica e una tavola rotonda.', '\\xa0', 'La mostra, dal titolo \u00ab10 anni di Time Out\u00bb, \u00e8 allestita al Museo di Riva del Garda in Rocca dal 20 ottobre al primo novembre\\xa0ed \u00e8 aperta al pubblico nell\u2019orario del museo, dalle 10 alle 18. L\u2019esposizione, a cura di Marika Delila Bertoni, raccoglie fotografie e testimonianze delle varie edizioni che hanno visto come protagonisti genitori e ragazzi del territorio.', '\\xa0', 'L\u2019inaugurazione\\xa0della mostra, luned\u00ec 19 ottobre alle ore 18, si accompagna a una tavola rotonda dal titolo \u00abTime Out: ieri, oggi e domani\u00bb, moderata da Pietro Lombardo, pedagogista a orientamento psicologico, scrittore e apprezzato conferenziere, fondatore e direttore del Centro Studi Evolution, in cui operano diversi professionisti in ambito educativo, psicomotorio, psicologico, psicoterapeutico e diagnostico. L\u2019evento \u00e8 organizzato e gestito nel rispetto delle disposizioni in tema di contrasto al contagio di covid-19.', '\\xa0', 'Ci sar\u00e0 anche un rinfresco, a cura dei volontari del progetto \u00abIo ci sono\u00bb.', '\\xa0']",
+        "Organizer": "APSP Casa Mia"
+    },
+    {
+        "Name": "Hockey su ghiaccio: Fassa Falcons vs HC Pustertal W\u00f6lfe",
+        "Period": "28/11/2020",
+        "Locality": "Canazei",
+        "Typology": "Sport",
+        "Description": "Campionato di hockey su ghiaccio dell\u2019Alps Hockey League",
+        "Content": "['Segui le partite in casa dei Fassa Falcons, la squadra di hockey su ghiaccio dell\u2019Alps Hockey League. I campioni della Val di Fassa giocano contro l\u2019HC Pustertal W\u00f6lfe. Ingresso: \u20ac 10; gratuito per i bambini fino a 3 anni. Inizio partita alle ore 20.30.\\xa0', 'Il calendario delle partire potrebbe subire variazioni. Biglietti acquistabili anche online. 200 posti a sedere, secondo le disposizioni di sicurezza vigenti.']",
+        "Organizer": "S.H.C. Val di Fassa"
+    },
+    {
+        "Name": "Hockey su ghiaccio: Fassa Falcons vs SG Cortina",
+        "Period": "30/12/2020",
+        "Locality": "Canazei",
+        "Typology": "Sport",
+        "Description": "Campionato di hockey su ghiaccio dell\u2019Alps Hockey League",
+        "Content": "['Segui le partite in casa dei Fassa Falcons, la squadra di hockey su ghiaccio dell\u2019Alps Hockey League. I campioni della Val di Fassa giocano contro l\u2019SG Cortina Hafro. Ingresso: adulti \u20ac 12; ragazzi 6-12 anni \u20ac 8; gratuito per i bambini fino a 5 anni. Inizio partita alle ore 20.45.', 'Il calendario delle partire potrebbe subire variazioni. Biglietti acquistabili anche online. 200 posti a sedere, secondo le disposizioni di sicurezza vigenti.']",
+        "Organizer": "S.H.C. Val di Fassa"
+    },
+    {
+        "Name": "La magia del caff\u00e8 Bontadi",
+        "Period": "08/10/2020 - 31/12/2020",
+        "Locality": "Rovereto",
+        "Typology": "Enogastronomia, Visite Guidate",
+        "Description": "Visita alla storica torrefazione nel cuore di Rovereto",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Linee, superfici, volumi",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Mostre",
+        "Description": "Mostra fotografica di Kim Dupond Holdt",
+        "Content": "[\"Le fotografie di Kim Dupond Holdt, fotografo e orafo danese inaugurano marted\u00ec 6 ottobre prossimo la stagione espositiva del Centro Culturale \u201cLa Firma\u201d di Riva del Garda, stagione quest'anno ridotta notevolmente a causa dell'emergenza Coronavirus.\", \"Kim Dupond Holdt ha scelto Riva Del Garda per la sua mostra personale. L'esposizione permetter\u00e0 una visione complessiva della sua opera fotografica. Un'attivit\u00e0, quella di Kim Dupond Holdt, svolta con la passione dell'artista. Nei suoi tratti la realt\u00e0 \u00e8 ridotta a imponenti linee geometriche e vibranti contrasti di luci.\", 'Kim Dupond Holdt nasce nel 1966nella cittadina danese di Vojens, nello Jutland. Attualmente vive e lavora a Limone del Garda. Sin dall\u2019adolescenza sviluppa una passione per il design che lo porta a intraprendere una formazione dal 1981 al 1985 come orafo presso laboratori specializzati in oreficeria nel suo Paese. Negli stessi anni porta avanti esperienze pittoriche dipingendo con le pi\u00f9 svariate tecniche, soggetti e temi, partecipando anche a varie mostre in sedi pubbliche e private, tra cui il palazzo della regione di \u00c5benr\u00e5, la sede della Danske Bank e la Galleria d\u2019Arte Moderna di Kolding. Dopo aver ottenuto il diploma di orefice nel 1985, \u00e8 assunto dalla Hans Hansen come cesellatore, posizione che occupa fino al suo trasferimento in Italia nel 1989, dove apre a Limone sul Garda la propria oreficeria. Dal 2014, presa piena conoscenza del mezzo fotografico, l\u2019artista inizia ufficialmente la pratica di fotografo, che porta avanti a tutt\u2019oggi con sperimentazione e ricerca estetica. Nel 2019 si svolge la mostra personale Architetture dinamiche presso lo spazio MADE4ART di Milano. Nello stesso anno viene presentato dallo spazio milanese a MIA Photo Fair 2019, la Fiera Internazionale d\u2019Arte dedicata alla fotografia e all\u2019immagine in movimento (22-25 marzo. The Mall, Milano) con un progetto a cura di Gigliola Foschi.', 'La mostra di Riva del Garda sar\u00e0 ospitata come consuetudine del Centro Culturale \u201cLa Firma\u201d presso la Sala Civica \u201cG. Craffonara\u201d.', \"L'esposizione sar\u00e0 visitabile tutti i giorni fino al 24 ottobre con orario 9.00 \u2013 12.30 e 13.30 \u2013 18.30. Ingresso Libero.\"]",
+        "Organizer": "Galleria Civica \u201cG. Craffonara\u201d "
+    },
+    {
+        "Name": "La Grenz - Jazz & Wine  Suono di-vino",
+        "Period": "06/11/2020",
+        "Locality": "Moena",
+        "Typology": "Musica",
+        "Description": "Autunno in musica a La Grenz con Sonata Islands Latin Quartet",
+        "Content": "['Music band Sonata Islands Latin Quartet: Emilio Galante (flauto), Alessandro Bianchini (vibrafono), Fabrizio Larentis (contrabbasso), Gianlorenzo Imbriaco (batteria).', 'TrentinoinJazz. Programma: nuovo repertorio di SI quartet, interamente dedicato al latin jazz, termine che definisce le contaminazioni fra il jazz e la musica del sud-centro America. Nasce alla fine degli anni 50 nell\u2019incontro ad esempio di Tito Puente con Dizzy Gillespie, o di Stan Getz con Joao Gilberto, dai Caraibi al Brasile, dove diventer\u00e0 Bossanova. Flauto e vibrafono ne sono stati protagonisti dall\u2019inizio, con il quartetto di Carl Tjader e Paul Horn nei primi anni 60 o con quello di Dave Valentin e Dave Samuels trenta anni dopo. Chick Corea ne \u00e8 grande interprete, fino dal suo primo Return to Forever, dei primi \u201970, con il flautista Joe Farrell: molti i suoi brani in programma, con arrangiamenti originali di standard famosi, da Spain, a Fiesta e Armando\u2019s Rumba. Poi ancora Besame Mucho, Chega de Saudade, Um a Zero di Pixinguinha (uno dei pi\u00f9 famosi compositori di coro). Un omaggio a un musicista brasiliano nostro contemporaneo, Egberto Gismonti.', 'Ingresso gratuito, consumazioni a pagamento.\\xa0']",
+        "Organizer": "Associazione La Grenz Moena"
+    },
+    {
+        "Name": "Cammina Tesino Autunno - Escursione in notturna alla scoperta dei segreti del bosco",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport, Altro",
+        "Description": "Sabato 3, 10 e 24 ottobre\nCastello Tesino\nOre 20",
+        "Content": "[]",
+        "Organizer": "Apt Valsugana"
+    },
+    {
+        "Name": "A Sentimental Landscape. La invenzione del paesaggio da Goethe in poi",
+        "Period": "15/08/2020 - 08/11/2020",
+        "Locality": "Riva del Garda",
+        "Typology": "Mostre",
+        "Description": "Mostra sul viaggio in Italia di Goethe e il paesaggio nell'arte da fine Settecento ad oggi",
+        "Content": "['\u201cAdesso\\xa0 mi\\xa0 trovo\\xa0 veramente\\xa0 in\\xa0 un\\xa0 paese\\xa0 nuovo,\\xa0 in\\xa0 un\\xa0 ambiente\\xa0 del\\xa0 tutto\\xa0 estraneo.\u201dCos\u00ec\\xa0 scrive\\xa0 Johann\\xa0 Wolfgang\\xa0 von\\xa0 Goethe\\xa0 giunto\\xa0 al\\xa0 Lago\\xa0 di\\xa0 Garda\\xa0 il\\xa0 12\\xa0 settembre\\xa0 1786.\\xa0 In\\xa0 parallelo\\xa0 alla\\xa0 mostra\\xa0 temporanea\\xa0 \u201cIl\\xa0 viaggio\\xa0 in\\xa0 Italia\\xa0 di\\xa0 Goethe.\\xa0 Omaggio\\xa0 a\\xa0 un\\xa0 paese\\xa0 che\\xa0 non\\xa0 \u00e8\\xa0 mai\\xa0 esistito\u201d\\xa0 al\\xa0 Ferdinandeum\\xa0 di\\xa0 Innsbruck\\xa0 i\\xa0 Tiroler\\xa0 Landesmuseen\\xa0 presentano\\xa0 una\\xa0 selezione\\xa0 di\\xa0 opere\\xa0 dalle\\xa0 loro collezioni inserendosi in una riflessione sul paesaggio avviata dal MAG negli ultimi anni e aprendosi al confronto con le opere di artisti italiani contemporanei.La\\xa0 rilettura\\xa0 di\\xa0 alcuni\\xa0 passaggi\\xa0 de\\xa0 \u201cIl\\xa0 Viaggio\\xa0 in\\xa0 Italia\u201d\\xa0 di\\xa0 Goethe,\\xa0 avvenuto\\xa0 fra\\xa0 il\\xa0 settembre\\xa0 del\\xa0 1786\\xa0 e\\xa0 il\\xa0 giugno\\xa0 del\\xa0 1788\\xa0 e\\xa0 rielaborato in chiave letteraria fra il 1813 e il 1817, innesca nella mostra\\xa0 una\\xa0 particolare\\xa0 perlustrazione\\xa0 del\\xa0 paesaggio\\xa0 nell\u2019arte\\xa0 da\\xa0 fine\\xa0 Settecento\\xa0 all\u2019attualit\u00e0.\\xa0 Essa\\xa0 prende\\xa0 in\\xa0 considerazione\\xa0 un\\xa0 aspetto del viaggio meno considerato: la scoperta del paesaggio come territorio di autoconoscenza.Il titolo della mostra \u00e8 ispirato al\\xa0 romanzo\\xa0 \u201cA\\xa0 Sentimental\\xa0 Journey\u201d,\\xa0 ovvero\\xa0 \u201cViaggio\\xa0 sentimentale\u201d,\\xa0 dell\u2019inglese\\xa0 Laurence\\xa0 Sterne,\\xa0 contemporaneo\\xa0 di\\xa0 Goethe,\\xa0 per\\xa0 il\\xa0 quale\\xa0 l\u2019aggettivo\\xa0 \u201csentimentale\u201d\\xa0 includeva\\xa0 l\u2019opposizione\\xa0 all\u2019egemonia\\xa0 intellettuale\\xa0 della\\xa0 ragione,\\xa0 l\u2019analisi\\xa0 del\\xa0 ruolo\\xa0 della\\xa0 sensibilit\u00e0\\xa0 e\\xa0 dell\u2019introspezione,\\xa0 ma\\xa0 anche\\xa0 una\\xa0 critica\\xa0 ironica\\xa0 all\u2019arroganza\\xa0 di\\xa0 altri\\xa0 autori\\xa0 di\\xa0 libri\\xa0 di\\xa0 viaggio\\xa0 che\\xa0 pretendevano\\xa0 di raccontare il paese visitato in modo neutrale.A partire dall\u2019analisi di rappresentazioni sette e ottocentesche la mostra intraprende\\xa0 un\\xa0 discorso\\xa0 pi\u00f9\\xa0 ampio\\xa0 sulla\\xa0 costruzione\\xa0 del\\xa0 paesaggio,\\xa0 sulla rottura degli stereotipi nel Novecento e la loro consapevole rielaborazione individuale nell\u2019arte contemporanea.Con le opere degli artisti:Alterazioni Video, Luca Coser, Gerhild Diesner, Jeanne Faust / J\u00f6rn Zehe, Ursula Groser, Martin Kippenberger, Alexandra Kontriner, Artur Nikodem, Alessandro Piangiamore, Lois Weinberger \\xa0e diJohann Wolfgang von Goethe, Angelika Kauffmann, Pietro Marchioretto, Franz Edmund Weirotter']",
+        "Organizer": "MAG - Museo Alto Garda"
+    },
+    {
+        "Name": "Santa Messa di Natale",
+        "Period": "25/12/2020",
+        "Locality": "Moena",
+        "Typology": "Musica",
+        "Description": "Celebrazione liturgica del Natale accompagnata dal Coro Enrosadira di Moena",
+        "Content": "['La Santa Messa del 25 dicembre delle ore 8.00, nella chiesa parrocchiale di San Vigilio, sar\u00e0\\xa0accompagnata dal Coro Enrosadira di Moena, diretto dalla maestra Barbara Pedrotti. Sar\u00e0 una grande emozione per i tanti fedeli partecipare alla celebrazione della nascita di Ges\u00f9, scambiarsi gli auguri e ascoltare alcuni brani natalizi a fine messa, anche in lingua ladina, tra cui \"Te cianal de legn\" di Luigi Canori.\\xa0']",
+        "Organizer": "Apt Val di Fassa - Ufficio Turistico di Moena"
+    },
+    {
+        "Name": "Campionati italiani assoluti e campionato d'insieme ginnastica ritmica",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport, Spettacoli, TOP EVENTI SPORT",
+        "Description": "Campionati Italiani Assoluti e il Campionato d\u2019Insieme\u00a0in data\u00a0il\u00a030-31 ottobre e \u00a01\u00b0 novembre 2020\u00a0organizzati dalla\u00a0Federazione Italiana di ginnastica ritmica\n",
+        "Content": "['PROGRAMMA', '31 ottobre', \"09.30\\xa0- Concorso generale campionato nazionale d'insieme\\xa0allieve\\n12.00\\xa0- Finale campionato nazionale d'insieme\\xa0allieve\\n14.00\\xa0- Concorso generale campionato nazionale d'insieme\\xa0giovanile\\n16.00\\xa0- Finale campionato nazionale d'insieme\\xa0giovanile\\xa0\\n18.00\\xa0- Concorso generale campionato nazionale\\xa0assoluto\", '\\xa0', '1 novembre', \"10.00\\xa0-\\xa0Concorso generale campionato nazionale d'insieme\\xa0open\\n11.30\\xa0- Finale\\xa0campionato nazionale d'insieme\\xa0open\", '\\xa0', 'INFO', 'APT Alpe Cimbra\\n0464 724100\\ninfo@alpecimbra.it']",
+        "Organizer": "Apt Alpe Cimbra"
+    },
+    {
+        "Name": "Un giorno a Rovereto con Caravaggio",
+        "Period": "09/10/2020 - 14/02/2021",
+        "Locality": "Rovereto",
+        "Typology": "Mostre, Enogastronomia",
+        "Description": "Dalla tela alla tavola",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Foliage alla Forra del Lupo con pranzo del Soldato",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Eventi Culturali, Visite Guidate",
+        "Description": "Visita guidata alla Forra del Lupo.\n",
+        "Content": "['Trekking e storia si caricano di significati profondi in autunno.', 'In lontananza sembrano echeggiare le voci del soldato Ludwig e dei suoi compagni che trascorsero lunghi periodi in questa trincea, oggi sentiero escursionistico di grande pregio storico e culturale.', 'La Forra del Lupo, \u00e8 caratterizzata da\\xa0trincee, camminamenti e punti di osservazione\\xa0costruiti nella roccia a strapiombo sulla valle del Terragnolo, la cui parte pi\u00f9 spettacolare \u00e8 di certo la forra vera e propria con\\xa0scale realizzate lavorando la roccia viva.', 'In autunno i faggi che accompagnano lungo il percorso si incendiano di colore: giallo, arancione, rosso, rendendo la camminata ancora pi\u00f9 suggestiva.Lungo i vari sali e scendi si incontrano anche\\xa0numerose fotografie e racconti\\xa0risalenti al periodo del conflitto, come quelle del\\xa0giovane soldato austriaco Ludwig Fasser\\xa0un vero cronista di guerra.', 'A raccontare cosa accadde in questo luogo sar\u00e0 una guida locale', '\\xa0', \"All'arrivo presso il\\xa0Rifugio Baita Tonda\\xa0sar\u00e0 servito il\\xa0pranzo del soldato\\xa0(gulasch, polenta, patate e fagioli)\", '\\xa0', 'Ritrovo a Serrada, al ristorante Cogola, alle ore 10.00', 'Costo:\\nAdulti \u20ac 20,00\\nBambini fino a 10 anni \u20ac 15,00', '\\xa0', 'ISCRIVITI QUI\\xa0(www.alpecimbra.it\\xa0-> esperienze)', '\\xa0', \"Versamento caparra (pari all'intero importo)\\npresso gli uffici APT (Folgaria e Lavarone)\\noppure\\ntramite bonifico alle seguenti coordinate bancarie:\", 'Azienda per il Turismo Folgaria, Lavarone, Luserna\\nBank: CASSA RURALE VALLAGARINA BCC\\nIBAN: IT66 I080 1134 8200 0004 0023 200\\nBIC CODE: CCRTIT2T01A\\nCausale: \u201cCaparra Foliage alla Forra del Lupo \u2013DATA EVENTO\u201d seguito dal Cognome e Nome', '\\xa0', \"In caso di\\xa0imprevisti o annullamento dell'evento la caparra verr\u00e0 interamente restituita\", '\\xa0', 'invia la copia della contabile e i tuoi recapiti telefonici a\\xa0info@alpecimbra.it', '\\xa0', \"Scopri l'offerta con il pernottamento\", '\\nINFO e ISCRIZIONI\\nApt Alpe Cimbra\\n0464 724100\\ninfo@alpecimbra.it', '\\xa0']",
+        "Organizer": "Apt Alpe Cimbra "
+    },
+    {
+        "Name": "Luppoli e castagne",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia, Intrattenimento della Localit\u00e0, Visite Guidate",
+        "Description": "\u00c8 arrivato l'autunno sull'Altopiano di Brentonico",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Storytime",
+        "Period": "01/12/2020",
+        "Locality": "Arco",
+        "Typology": "Altro",
+        "Description": "Storie per bambini in lingua inglese condotte da Alessandra Prandi. Su prenotazione",
+        "Content": "['Ecco le date per il 2020!', '\\xa0', 'marted\u00ec 6 ottobre 2020marted\u00ec 3\\xa0novembre 2020 (ANNULLATO)marted\u00ec 1 dicembre 2020', '\\xa0', 'Vi aspettiamo in biblioteca il primo marted\u00ec del mese alle ore 17:00!Posti limitati, prenotazione obbligatoria ad 0464583657', 'La partecipazione \u00e8 gratuita.']",
+        "Organizer": "Biblioteca \"Bruno Emmert\""
+    },
+    {
+        "Name": "Simposio del Legno - \"Ars in Fabula\"",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Eventi Culturali, Spettacoli",
+        "Description": "3\u00b0 Simposio Internazionale del Legno\n",
+        "Content": "['ORE 10.00 \u2013\\xa0 17.00\\nSimposio del legno e attivit\u00e0 didattica con le scuole', '\\xa0', 'ORE 10.00 \u2013\\xa0 17.00\\nSimposio del legno', '\\xa0', '\\xa0', 'ORE 16.30\\xa0\\nPresentazione opere del Simposio e premiazione dei disegni dei bambini', '\\xa0', '\\xa0', '\\xa0', 'Gli Artisti:', 'Inma Garcia Arribas \u2013 Segovia (Spagna)', 'Enver Rovere \u2013 Levico Terme', 'Ivan Boneccher \u2013 Baselga di Pin\u00e8', 'Paolo Vivian \u2013 Pal\u00f9 del Fersina', 'Ospite d\u2019eccezione', '\u201cBepi\u201d Bassi \u2013 Centa San Nicol\u00f2']",
+        "Organizer": "Comune di Altopiano della Vigolana"
+    },
+    {
+        "Name": "Free Ski Day - In Trentino si impara a sciare gratis!",
+        "Period": "12/12/2020",
+        "Locality": "Campitello di Fassa, Canazei, Moena ...",
+        "Typology": "Sport",
+        "Description": "Sabato 12 dicembre lezioni collettive gratuite per imparare a sciare in compagnia dei maestri della Val di Fassa. Corso, skipass e noleggio gratis per i partecipanti ",
+        "Content": "['Sabato 12 dicembre \u00e8 il Free Ski Day, una giornata in cui i maestri delle Scuole Sci del Trentino sono a disposizione per lezioni collettive gratuite di 2 ore aperte a tutti: famiglie, bambini dai 4 anni in su, adulti, principianti e progrediti. Un\u2019occasione unica per acquisire le prime nozioni sciistiche o per perfezionare la propria tecnica, avvicinandosi al mondo della neve in modo sicuro e divertente.', 'Le cinque scuole della Val di Fassa aderiscono all\u2019iniziativa. E\u2019 possibile prenotare lezioni di sci alpino, sci di fondo e snowboard. La partecipazione \u00e8 aperta a tutti, residenti e non. Per gli iscritti, skipass e noleggio attrezzatura sono gratuiti per l\u2019intera durata della lezione.', 'Come iscriversi:', 'Prenota ora alloggio + corso sci + skipass + nolegggio attrezzatura']",
+        "Organizer": "APT Val di Fassa"
+    },
+    {
+        "Name": "I Paesi dei Presepi",
+        "Period": "01/12/2020 - 06/01/2021",
+        "Locality": "Villa Lagarina, Nomi, Pomarolo",
+        "Typology": "Mercati e mercatini",
+        "Description": "Presepi monumentali lungo le vie del paese",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Bosco di Grancereale",
+        "Period": "07/11/2020",
+        "Locality": "Borgo Valsugana",
+        "Typology": "Altro, Visite Guidate",
+        "Description": "Ore 9.45,Valle di Sella",
+        "Content": "[]",
+        "Organizer": "Apt Valsugana"
+    },
+    {
+        "Name": "Autunno, la buona stagione",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia, Visite Guidate, Mercati e mercatini, Folklore",
+        "Description": "Raccolta delle mele, wine trekking nei vigneti, trekking con accompagnatore e visite guidate ad antichi manieri, al Lago di Tovel e al suggestivo Santuario di San Romedio: l'autunno in Val di Non offre questo e molto altro.\n",
+        "Content": "[\"Ogni giorno qualcosa di nuovo, \u00e8 l'autunno in Val di Non.\", \"\\nL'autunno in Val di Non \u00e8 ricco di esperienze: ogni giorno c'\u00e8 qualcosa da fare, ogni giorno c'\u00e8 qualcuno del posto che ti sorride e ti porta a fare qualcosa di nuovo.\", \"L'autunno \u00e8 la nostra stagione preferita: tutto \u00e8 aperto e ogni giorno abbiamo organizzato un\u2019attivit\u00e0 che ti fa incontrare i nonesi e la nostra quotidianit\u00e0. Dal 20 settembre al 31\\xa0ottobre c'\u00e8 un'esperienza a cui puoi prendere parte per camminare, visitare e gustare la nostra valle.\", 'Partecipare \u00e8 semplice:', 'Scopri tutte le esperienze e le strutture aderenti su:\\xa0https://www.visitvaldinon.it/it/esperienze/ogni-giorno-qualcosa-di-nuovo-%C3%A8-lautunno-in-val-di-non-8\\xa0']",
+        "Organizer": "ApT Val di Non"
+    },
+    {
+        "Name": "Tree time - Arte e scienza per una nuova alleanza con la natura",
+        "Period": "30/10/2020 - 30/05/2021",
+        "Locality": "Trento",
+        "Typology": "Eventi Culturali, Mostre",
+        "Description": "A due anni dalla tempesta Vaia un viaggio multisensoriale che evidenzia l\u2019urgenza di riconfigurare la nostra relazione con i giganti del mondo vegetale",
+        "Content": "['A due anni dalla tempesta Vaia, il MUSE - Museo delle Scienze propone un viaggio multisensoriale da percorrere grazie alle opere di 20 artisti nazionali e internazionali che si intrecciano con approfondimenti storico-scientifici, in un itinerario immersivo che evidenzia l\u2019urgenza di riconfigurare la nostra relazione con i giganti del mondo vegetale. Una riflessione che parte dal passato e giunge fino al presente, per immaginare un futuro sostenibile.', \" \u00c9 il tempo degli alberi e di una nuova e urgente relazione con l\u2019universo vegetale. Al MUSE \u2013 Museo delle Scienze di Trento, dal 31 ottobre 2020 al 30 maggio 2021, apre \u201cTree Time - Arte e scienza per una nuova alleanza con la natura\u201d, un ampio progetto espositivo dedicato alla relazione tra l'essere umano e l'albero.\", 'La mostra, nata da un progetto del Museo Nazionale della Montagna \u201cDuca degli Abruzzi\u201d di Torino e sviluppata per questa nuova tappa con contenuti originali elaborati dal MUSE, d\u00e0 voce ai linguaggi dell\u2019arte contemporanea per costruire una nuova visione, gestione e cura di alberi, boschi e foreste. Una sorta di viaggio multisensoriale - arricchito nell\u2019edizione trentina dai contributi scientifici di studiosi, botanici ed esperti nella gestione forestale, oltre che di nuove letture artistiche site specific - che evoca visioni e possibilit\u00e0 per una relazione dinamica e costruttiva tra specie umana ed ecosistemi naturali. L\u2019invito, prima che sia troppo tardi, a rinsaldare il nostro legame, spesso compromesso, con la natura.', ' ', 'Venti artisti e un viaggio tra i giganti del regno vegetale', \"Dall'artista sudcoreana Sunmin Park, alla sua prima esposizione italiana, alla videoartista svizzera Ursula Biemann. Dagli americani Helen e Newton Harrison, tra i primi e pi\u00f9 noti artisti sociali e ambientali, alla performer e artista visuale polacca Cecylia Malik, passando per le opere dello scultore altoatesino Aron Demetz, le ricerche del collettivo di designer Formafantasma e materiali di archivio di celebri esploratori, alpinisti e architetti. Venti artisti italiani e internazionali e una selezione di documenti dalle collezioni del Museomontagna, della Biblioteca Nazionale del Club Alpino Italiano, dell\u2019Archivio Architetto Cesare Lombardi, della Fondazione Ermenegildo Zegna e dall\u2019Archivio del 900 del Mart - Museo di Arte Moderna e Contemporanea di Trento e Rovereto affrontano il tema degli alberi secondo una narrazione interdisciplinare e multisensoriale.\", \"Installazioni sonore, interventi site specific, opere pittoriche e fotografiche, nuove modalit\u00e0 di partecipazione e co-produzione: Tree Time, a cura di Andrea Lerda con Daniela Berta, si pone come esperienza per osservare, comprendere e riconfigurare il nostro rapporto con l'universo vegetale.\", \"Una sfida a cui tutti siamo chiamati: gli alberi sono tra i pi\u00f9 grandi alleati per il mantenimento degli equilibri climatici e atmosferici del pianeta, ricoprono quasi il 30% della superficie terrestre e molti formano ecosistemi complessi e affascinanti, ma la loro integrit\u00e0 \u00e8 a rischio a causa dell'impatto antropico.\", 'Tree Time parla, avvicina e fa riflettere su questi temi, valorizzando un nuovo approccio ambientalista, senza catastrofismi ma con consapevolezza, in risposta alla necessit\u00e0 urgente di ricostruire forme di coesistenza sostenibili per il futuro.', ' ', 'Il valore delle foreste, ricordando anche Vaia', 'La mostra mette al centro del percorso espositivo alberi, boschi e foreste, la loro natura protettrice, il loro cammino di adattamento alle costanti modificazioni ambientali e la condizione di crescente fragilit\u00e0 causata da azioni umane dirette e da effetti secondari prodotti dal cambiamento climatico in atto.', 'Dalla tempesta Vaia \u2013 che nel 2018 ha abbattuto intere foreste nel Nord Italia \u2013 agli incendi senza precedenti che hanno recentemente devastato l\u2019Artico. Dal fuoco doloso, utile alle dinamiche industriali, alla deforestazione della Foresta Amazzonica che annienta biodiversit\u00e0 e habitat culturali, accelerando il riscaldamento globale. Alla luce dei recenti eventi, la mostra in arrivo al MUSE solleva una serie di riflessioni in materia di gestione dei boschi e di cura della montagna, di salute delle piante e delle loro strategie di difesa in caso di attacchi parassitari e impatti antropici. Un percorso eterogeneo e intergenerazionale, tra i piani e le sale del museo eco-sostenibile progettato da Renzo Piano, ci apre le porte di questo mondo. Cos\u00ec fragile, spesso invisibile, ma inevitabile per le nostre vite. Un rapporto, sostiene il botanico francese Francis Hall\u00e9, \u201cdove l\u2019asimmetria ci \u00e8 sfavorevole: l\u2019albero non ha in alcun modo bisogno di noi, mentre per noi \u00e8 essere vitale\u201d.', 'Gli autori in mostra', 'La mostra, articolata attraverso cinque macro capitoli tematici, si sviluppa all\u2019interno delle diverse aree espostive del MUSE ed \u00e8 supportata da una narrazione di impianto storico-scientifico a cura di Matteo Garbelotto, direttore presso il Forest Pathology and Mycology Lab di Berkeley e Adjunct Professor presso l\u2019Environmental Science, Policy and Management Department dell\u2019Universit\u00e0 della California.', ' ', 'Gli autori di \u201cTree Time\u201d sono: Gabriela Albergaria, Emanuela Ascari, Joseph Beuys, Simone Berti, Ursula Biemann e Paulo Tavares, Walter Bonatti, Gabriella Ciancimino, Aron Demetz, Hannes Egger, Sam Falls, Helen Mayer Harrison & Newton Harrison, Ji\u0159\u00ed Havel, Cesare Leonardi e Franca Stagi, Cecylia Malik, Federico Ortica e Andrea Marchi, Sunmin Park, Steve Peters, Giusy Pirrotta, Craig Richards, Albino Rossi, Vittorio Sella, Giorgia Severi, Andrea Trimarchi e Simone Farresin (Formafantasma), Mali Weil, Museo Wunderkammer, Ermenegildo Zegna.', ' ', 'https://www.youtube.com/watch?v=u1GJLqm_C5w']",
+        "Organizer": "Not specified"
+    },
+    {
+        "Name": "Degustazione \"I cinque sensi\"",
+        "Period": "09/10/2020 - 31/12/2020",
+        "Locality": "Nogaredo",
+        "Typology": "Enogastronomia, Visite Guidate",
+        "Description": "La grappa come non l'hai mai assaggiata",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "LA CIU\u00ccGA E IL SUO BORGO",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia",
+        "Description": "Il gusto del buono e del bello.\n",
+        "Content": "[\"Per garantire il rispetto delle norme di sicurezza anti-covid la Sagra della Ciu\u00ecga cambia forma.Per due weeked - 24/25 ottobre e 31 ottobre/1 novembre - proposte menu nei ristoranti del borgo a pranzo e a cena\\xa0ed escursioni all'aria aperta\\xa0lungo antichi sentieri, chiese, capitelli, fontane e ville.\\xa0Un'occasione speciale per sedurre i palati con i sapori della tradizione contadina locale, ma anche per scoprire San Lorenzo, uno fra i\\xa0Borghi pi\u00f9 Belli d'Italia\\xa0al cospetto delle\\xa0Dolomiti di Brenta.Scarica la brochure con i menu degustazione.\"]",
+        "Organizer": "APT Terme di Comano Dolomiti di Brenta"
+    },
+    {
+        "Name": "Festa della Castagna della Valle del Centa",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Feste e Sagre",
+        "Description": "Una domenica all\u2019insegna della regina dell\u2019autunno: la castagna!\n",
+        "Content": "['\\xa0', 'ORE 10.00 \u2013\\xa0 17.00\\nSimposio del legno e attivit\u00e0 didattica con le scuole', '\\xa0', 'ORE 10.00 \u2013\\xa0 17.00\\nSimposio del legno', '\\xa0', 'ORE 14.00 \u2013 17.00\\nVendita del prodotto fresco', '\\xa0', 'ORE 14.30 \u2013 TEATRO PER BAMBINI\\nRacconti della tradizione orale all\u2019aperto che affrontano la relazione tra uomo e natura e le relazioni tra uomini all\u2019interno di particolari contesti naturali \u2013 Teatro Finisterrae', '\\xa0', 'ORE 15.00\\xa0\\nUscita in E-Bike con partenza da Hotel Alpenrose e cena finale presso\\xa0Agritur Martinelli', '\\xa0', 'ORE 15.30\\xa0\\nPasseggiata naturalistico \u2013 culturale\\xa0 guidata', '\\xa0', '\\xa0', '\\xa0', '\\xa0', 'ORE 10.00 \u2013 17.00 \u2013 SIMPOSIO DEL LEGNO\\xa0', '\\xa0', 'ORE 10.00 \u2013 17.00\\nMercato tipico con hobbisti, artigiani e aziende agricole del territorio\\nVendita del prodotto fresco', '\\xa0', 'ORE 10.30 \u2013 SALOTTO LETTERARIO', 'Presentazione del libro \u201cArturo libraio di strada\u201d di Franca Desilvestro.\\nCinquanta racconti di vita reale, vissuta da Arturo Osti', '\\xa0', 'ORE 10.30 | ORE 14.30\\xa0\\nPasseggiate naturalistico \u2013 culturale guidate', '\\xa0', 'ORE 11.00 \u2013 17.00\\n\u201cCome nasce una birra\u201d : cotta pubblica con \u201cBirrando\u2026 Si Impara!\u201d, Associazione Culturale della birra fatta in casa', '\\xa0', 'ORE 11.30 |0RE 15.30 \u2013 TEATRO PER BAMBINI\\nRacconti della tradizione orale all\u2019aperto che affrontano la relazione tra uomo e natura e le relazioni tra uomini all\u2019interno di particolari contesti naturali \u2013 Teatro Finisterrae', '\\xa0', 'ORE 16.30\\xa0\\nPresentazione opere del Simposio e premiazione dei disegni dei bambini']",
+        "Organizer": "Castanicoltori della Valle del Centa e Pro Loco Centa San Nicol\u00f2"
+    },
+    {
+        "Name": "Hockey su ghiaccio: Campionato Alps Hockey League",
+        "Period": "14/11/2020 - 13/03/2021",
+        "Locality": "Canazei",
+        "Typology": "Sport",
+        "Description": "Segui le partite in casa della squadra Hockey Club Fassa Falcons",
+        "Content": "['Se vuoi\\xa0sostenere insieme ai tifosi locali i beniamini di casa dell\u2019hockey, non perdere\\xa0gli incontri della squadra Fassa Falcons,\\xa0che dallo scorso anno\\xa0milita nel nuovo campionato dell\u2019Alps Hockey League (lega che comprende 17 squadre provenienti dalle federazioni italiana, austriaca e slovena), per osservare da vicino questo adrenalinico sport, che sul ghiaccio diventa uno dei pi\u00f9 veloci in assoluto.Gli incontri in casa si svolgono allo Stadio del Ghiaccio \"G. Scola\" ad Alba di Canazei. Le partite di hockey assicurano sempre grande agonismo e combattivit\u00e0: lo spettacolo \u00e8 assicurato.Foto: Archivio Hockey Club Fassa Falcons']",
+        "Organizer": "Hockey Club Val di Fassa"
+    },
+    {
+        "Name": "Uscite autunnali in e-bike",
+        "Period": "26/09/2020 - 21/11/2020",
+        "Locality": "Bosentino, Centa San Nicol\u00f2, Vattaro ...",
+        "Typology": "Sport",
+        "Description": "Un ciclo di appuntamenti\u00a0 guidati sui sentieri dell\u2019Altopiano della Vigolana\n",
+        "Content": "['\\xa0', '\\xa0', 'Obbligatorio casco, frontalino e abbigliamento adeguato', 'Costo: \u20ac10 per l\u2019uscita + \u20ac20 eventuale noleggio e-bike presso Hotel Alpenrose + costo della cena/pranzo', '\\xa0', '\\xa0', '\\xa0', 'Partenza da Hotel Alpenrose con direzione localit\u00e0 Mandola, Bosentino, Maso Vigabona, Maso Puller, Masetti di Pergine Valsugana, Ischia, Forte Colle delle Benne di Levico Terme, Caldnazzo, Piattelle, Pian dei Pradi e cena finale presso Malga Doss del Bue.\\nRientro in notturna dopo la cena.\\nScopri il men\u00f9', '\\xa0', '\\xa0', '\\xa0', 'Partenza da Hotel Alpenrose con direzione Val dei Oveni, Campregheri, Calceranica, Caldonazzo, Tenna, Ischia, Pergine, Sam Vito, Bosentino e cena finale presso Osteria Vittoria.\\nRientro in notturna dopo la cena\\nScopri il men\u00f9', '\\xa0', '\\xa0', '\\xa0', 'Partenza da Hotel Alpenrose con direzione Carbonare, Comando Virti, Cimitero Slaghenaufi, Monte Rust, Lago di Lavarone e rientro da Nosellari a Vattaro.\\nTrasferimento con mezzi propri (macchina) all\u2019Agritur Martinelli per la cena alle ore 19.00.\\nScopri il men\u00f9', '\\xa0', '\\xa0', '\\xa0', '\\xa0', 'Partenza da Hotel Alpenrose con direzione Doss del Bue, Paludei, Prai Piani, Sindech, Poster Maso Maccani, Maso Dos, Valle, Parco Fluviale del Torrente Centa, Pineta, Caldonazzo, Piattelle, Torre dei Sicconi, Campregheri e rientro a Vattaro.\\nTrasferimento con mezzi propri (macchina) all\u2019Albergo Al Bosco per la cena alle ore 19.00\\nScopri il men\u00f9', '\\xa0', '\\xa0', 'Partenza da Hotel Alpenrose con direzione Rozole, Vigolo Vattaro, Forte Brusafer, Rosalpina, Bindesi, Maranza, Pian dela Taola e rientro da Maso Ginepro, Vattaro, Val dei Oveni e cena finale presso Locanda Campregheri.\\nRientro in notturna dopo la cena.\\nScopri il men\u00f9', '\\xa0', '\\xa0', '\\xa0', 'Partenza da Hotel Alpenrose con direzione Doss del Bue, percorso delle fiabe fino al capitello del Verzer verso Forte Fornas, Zugolini, Valsorda, Forte Brusafer, Pian dela Taola, Forte delle sette finestre e rientro a Vattaro.\\nTrasferimento con mezzi propri (macchina) all\u2019Albergo Al Sindech per la cena alle ore 19.00.\\nScopri il men\u00f9', '\\xa0', '\\xa0', '\\xa0', '\\xa0', '\\xa0', '\\xa0', \"Prenotazione entro due giorni prima dell'uscita\\xa0 presso Consorzio Turistico Vigolana\\x03telefonando o inviando una email entro le ore 12.00\\nTel. 0461.848350 -\\x03info@vigolana.com\", '\\xa0', 'Info Tecniche\\x03\\n347.5019590 (ore serali) \u2013 marcobianchinimtb@gmail.com']",
+        "Organizer": "Consorzio Turistico Vigolana"
+    },
+    {
+        "Name": "Il Castello in scena",
+        "Period": "17/10/2020 - 07/11/2020",
+        "Locality": "Rovereto",
+        "Typology": "Spettacoli",
+        "Description": "Rassegna teatrale al Castello di Rovereto",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Weekend in cantina",
+        "Period": "06/06/2020 - 26/09/2021",
+        "Locality": "Mezzocorona, Faedo, Riva del Garda ...",
+        "Typology": "Enogastronomia",
+        "Description": "Visita una cantina o una distilleria anche nel fine settimana!\u00a0\n",
+        "Content": "['Lungo la Strada del Vino e dei Sapori del Trentino, tutti i fine settimana', 'Cercate un\u2019esperienza gustosa per arricchire la vostra vacanza in Trentino? Che ne dite di cogliere l\u2019occasione per scoprire vini e distillati di produzione locale? I produttori di #stradavinotrentino saranno orgogliosi di aprirvi \"le porte di casa\":\\xa0scoprirete un vero e proprio mondo tutto racchiuso in un calice e tanti angoli inediti di territorio.', 'Scopri il programma delle prossime settimane:', '\\xa0', '-\\xa03 e 4 ottobre\\xa0(link)', '-\\xa010 e 11 ottobre (link)', '- 17 e 18 ottobre (link)', '- 24 e 25 ottobre (link)', '- 31 ottobre e 1 novembre (link)', '---', '\\xa0- 7 e 8 novembre (link)', '- 14 e 15 novembre (link)', '- 21 e 22 novembre (link)', '- 28 e 29 novembre (link)', '---', '- 5,\\xa06, 7 e 8 dicembre (link)', '- 12 e 13 dicembre (link)', '- 19 e 20 dicembre (link)', '\\xa0', 'NB:\\xa0ogni azienda si \u00e8 attivata con le procedure previste per legge per tutelare la salute dei propri ospiti: per qualsiasi dubbio, non esitate a contattare le varie realt\u00e0 per avere maggiori dettagli\\xa0\\xa0', '\\xa0', 'Per\\xa0maggiori\\xa0info:\\nStrada del Vino e dei Sapori del Trentino\\ntel. 0461-921863 -\\xa0info@stradavinotrentino.com\\ntastetrentino.it/weekendincantina\\xa0']",
+        "Organizer": "Strada del Vino e dei Sapori del Trentino"
+    },
+    {
+        "Name": "#trentinowinefest 2020",
+        "Period": "01/03/2020 - 31/12/2020",
+        "Locality": "Trento, Vezzano, Cembra ...",
+        "Typology": "Enogastronomia, Feste e Sagre, Eventi Culturali",
+        "Description": "un ricco calendario di eventi dedicati ai vini\u00a0locali vi aspettano in Trentino durante l'arco dell'anno\n",
+        "Content": "['Trentino, da marzo a dicembre 2020', \"Un ricco calendario di eventi dedicati ai vini\\xa0locali vi aspettano in Trentino durante l'arco dell'anno:\", 'Cantine Aperte \"Insieme\"\\xa0\\nTrentino, 30-31 maggio 2020\\nTradizionale evento nazionale promosso dal circuito del Movimento Turismo del Vino, sezione Trentino-Alto Adige, in programma nell\u2019ultimo fine settimana di maggio.', 'A tutto M\u00fcller\\xa0\\nTrentino, dal 2 al 12 luglio 2020\\nIn attesa di\\xa0M\u00fcller Thurgau: Vino di Montagna, eventi e iniziative dedicate al M\u00fcller Thurgau vi attendono in Trentino per scoprire la magia di questo vino bianco, rappresentativo del territorio della Valle di Cembra.\\nIn programma, lungo la Strada del Vino e dei Sapori del Trentino, degustazioni con i produttori, escursioni nei vigneti, men\u00f9 a tema e molti altri appuntamenti!', 'Gemme di gusto\\nTrentino, 1 - 10 agosto 2020\\nGemme di gusto \u00e8 un insieme di esperienze, un variegato bouquet di profumi, colori e sapori che raccontano gli incanti enogastronomici del Trentino attraverso la natura. Un susseguirsi di iniziative all\u2019aria aperta tra vigneti, uliveti, boschi e prati in fiore arricchite da deliziose degustazioni di vini e cibi d\u2019eccellenza.\\xa0', 'Calici di stelle\\xa0\\nTrentino, 10 agosto 2020\\nLe cantine associate al Movimento Turismo del Vino, sezione Trentino-Alto Adige, vi aspettano nella splendida cornice di Madonna di Campiglio per trascorre insieme una magica serata dedicata a eccellenti vini e ... stelle cadenti.', 'A tutto Teroldego\\xa0\\nTrentino, 3 - 13 settembre 2020\\nEventi e iniziative dedicate al Teroldego Rotaliano in programma lungo il territorio della Strada del Vino e dei Sapori del Trentino. E cos\u00ec, tra un aperitivo in musica e una cena a tema, tra visite in distilleria e speciali degustazioni si potr\u00e0 scoprire tutta la magia di questo vino rosso dalle molteplici sfaccettature.', 'Festival dei Sapori Autunnali\\nLevico Terme, 4-6 settembre 2020\\nUn fine settimana alla scoperta di colori, profumi e tradizioni legate al mondo della viticoltura, del mais e delle farine autoctone, per celebrare il periodo della vendemmia e uno degli ingredienti base dei piatti pi\u00f9 rappresentativi del nostro territorio: la polenta.', 'A tutto Marzemino\\xa0\\nTrentino, 1 - 11 ottobre 2020\\nEventi e iniziative dedicate al Marzemino vi attendono in Trentino per scoprire la magia di questo vino raffinato, gioiello enologico della Vallagarina. In programma, lungo la Strada del Vino e dei Sapori del Trentino, degustazioni alla cieca, trekking nei vigneti, visite in cantina, cene con il produttore e molti altri appuntamenti.', 'M\u00fcller Thurgau: Vino di Montagna\\xa0\\nCembra di Cembra Lisignago e Trento, 15 - 17 ottobre 2020\\nTre giorni dedicati al vino simbolo della Valle di Cembra e della viticoltura eroica dei contadini cembrani vi aspettano. In programma cene conviviali, momenti di confronti e degustazioni tra Trento e Cembra Lisignago vi aspettano.', 'La vigna eccellente... ed \u00e8 subito Isera\\xa0\\nIsera, 9-11 ottobre 2020\\xa0\\nUna domenica dedicata al vitigno simbolo della Vallagarina, il Marzemino. Nel corso della manifestazione si susseguiranno momenti tecnici, come il concorso\\xa0La Vigna Eccellente, a iniziative dedicate al grande pubblico, come gli eventi nei ristoranti, ma anche laboratori per i pi\u00fa piccoli e degustazioni.', 'DiVin Ottobre\\nTrentino, i fine settimana di ottobre 2020\\nIn Trentino si accoglie l\u2019arrivo dell\u2019autunno con DiVin Ottobre, ricco calendario di appuntamenti che porter\u00e0 a scoprire i paesaggi pi\u00f9 suggestivi attraverso un viaggio di gusto tra laboratori gastronomici, trekking nei vigneti, biciclettate nei boschi, degustazioni in cantina ed eventi che abbinano arte, vino e sapori. Il tutto dominato dai caldi colori autunnali che rendono magico il territorio.', 'Caneve en Festa\\nCembra di Cembra Lisignago, manifestazione posticipata a data da destinarsi\\nCena itinerante dall\\'aperitivo al dolce nelle suggestive \"caneve\" del centro storico di Cembra, alla scoperta degli spumanti, vini, grappe e birre dei Cembrani DOC abbinati ai prodotti a km 0 prepararti dai ristoratori e produttori della vallata. Una vera esperienza sensoriale accompagnata da musica folk, rock e jazz, arricchita da Caneve d\\'Arte.', 'Reboro. Territorio & passione\\nValle dei Laghi, 31 ottobre 2020\\nReboro, un nuovo vino che si fonda su una tradizione secolare; un progetto collettivo che nasce dall\u2019amicizia dei Vignaioli della Valle dei Laghi; un vino rosso di assoluta eccellenza che incarna il meglio di questo territorio. Con\\xa0Reboro. Territorio e passione\\xa0potrete conoscerlo e apprezzarlo attraverso momenti di approfondimento ed abbinamenti in cantina.', 'A tutto bollicine lungo #stradavinotrentino\\nTrento, 19 novembre - 10 gennaio\\nEventi e iniziative dedicate allo spumante metodo classico trentino lungo il territorio della Strada del Vino e dei Sapori, tra visite in cantina, degustazioni in abbinamento di proposte gastronomiche, pacchetti vacanza ed altre iniziative.\\xa0', 'La notte degli alambicchi accesi\\nla manifestazione \u00e8 stata posticipata al 2021\\nLe distillerie storiche di Trentino Grappa al centro di uno spettacolo itinerante nelle vie del borgo di Santa Massenza. L\u2019atmosfera natalizia, l\u2019antica arte del \"lambicar\" che si rinnova di anno in anno e il profumo della tradizione: ecco cosa rende speciale il Natale in Valle dei Laghi.', '\\xa0', '--', 'DiVinNosiola, quando il vino si fa santo\\xa0\\xa0\\nla manifestazione \u00e8 stata posticipata al 2021\\nDiVinNosiola\\xa0celebra le eccellenze enologiche di queste terre, il vino Nosiola trentino, il Vino Santo Trentino Doc, le grappe di Nosiola e di Vino Santo attraverso appuntamenti culturali, enogastronomici, artistici e sportivi come DiVinNosiola Ecorunning, la corsa tra vigneti, cantine e borghi della valle.', \"A tutto Nosiola\\xa0\\nla rassegna \u00e9 stata posticipata al 2021\\nIn occasione di\\xa0DiVinNosiola, eventi e iniziative dedicate al vino Nosiola vi attendono in Trentino per scoprire la magia di questo vitigno, l'unico autoctono a bacca bianca della provincia. In programma, lungo la Strada del Vino e dei Sapori del Trentino, degustazioni con i produttori, escursioni nei vigneti, men\u00f9 a tema e molti altri appuntamenti!\", 'Di maso in maso ... di vino in vino\\xa0\\xa0\\nla manifestazione \u00e9 stata posticipata al 2021\\nItinerario enogastronomico lungo la Strada del vino, da percorrere a piedi, in bicicletta o utilizzando un trenino turistico. Attraverso varie tappe nei masi di Sorni e Pressano potrete degustare vini, spumanti, succhi e birre artigianali del territorio delle Colline Avisiane, abbinati a cibi e prodotti locali di eccellenza: gusto e divertimento per tutte le et\u00e0.', 'Picnic con i Vignaioli\\nla manifestazione \u00e8 stata posticipata\\xa0al 2021\\nPrendendo spunto da una storica iniziativa dei \u201cVigneron independant\u201d francesi, i Vignaioli del Trentino invitano tutti - appassionati, amatori, curiosi \u2013 a trascorrere una giornata di relax in mezzo ai vigneti, all\u2019ombra delle pergole, seduti sull\u2019erba verde dei filari: portate la coperta e il pranzo al sacco, al vino ci pensano i Vignaioli!', 'Rassegna del vino paesano\\xa0\\nla manifestazione \u00e8 stata posticipata al 2021\\nI caratteristici avvolti del piccolo borgo di Sporminore accolgono la manifestazione enogastronomica dedicata al vino paesano, legata alle tradizioni locali della Val di Non.\\xa0Gli ospiti potranno degustare i vini del territorio abbinati ai prodotti gastronomici locali come il caratteristico tortel di patate accompagnato da formaggi e salumi.', \"Wine Festival dell'Alta Vallagarina\\xa0\\nla manifestazione \u00e8 stata posticipata al 2021\\nMagica serata dedicata al Moscato Giallo Trentino Superiore Castel Beseno che incontrer\u00e0 le specialit\u00e0 enogastronomiche locali.\\xa0\", 'Settembre Rotaliano - Alla scoperta del Teroldego\\nLa manifestazione \u00e8 stata posticipata al 2021\\nTre giorni dedicati al principe dei vini trentini. Una mostra dedicata, per degustare, conoscere e approfondire questo vitigno autoctono. Un percorso gastronomico variegato da abbinare ad un calice di Teroldego Rotaliano Doc, per scoprire le sue caratteristiche con semplicit\u00e0 e gusto.', 'Uva e dintorni\\nla manifestazione \u00e9 stata posticipata al 2021\\nCon la collaborazione di Citt\u00e0 del Vino il centro storico di Sabbionara ospiter\u00e0 la rappresentazione storica del \u201cPalio Nazionale delle Botti\u201d. Un weekend per immergersi nell\u2019atmosfera di un tempo, tra le ricostruzioni di un accampamento medievale, un mercato dei mestieri e un campo contadino con il percorso del pane, dalla macina alla cottura.', \"Festa dell'uva\\xa0\\nla manifestazione \u00e9 stata posticipata al 2021\\nLa festa dell'uva pi\u00f9 antica del Trentino compie quest'anno 63 anni. A Giovo, un piccolo borgo immerso nei vigneti, ogni anno a fine settembre, l'uva diventa la protagonista di tre giorni di grande festa: sfilata di carri allegorici, percorsi di degustazione, gare sportive, spettacoli e musica celebrano la lunga tradizione vitivinicola della valle.\\xa0\", '\\xa0', '\\xa0', 'Guarda il video:\\xa0\\n\\xa0', '\\xa0', '']",
+        "Organizer": "Strada del Vino e dei Sapori del Trentino"
+    },
+    {
+        "Name": "Garda Trentino Xmas Trail ",
+        "Period": "12/12/2020",
+        "Locality": "Torbole sul Garda - Nago",
+        "Typology": "Sport",
+        "Description": "Gara di trail running che si snoda sul percorso del Garda Trek",
+        "Content": "['Nel Garda Trentino le attivit\u00e0 outdoor sono possibili tutto l\u2019anno e questo adrenalinico evento, organizzato dall\u2019Associazione Garda Trentino Trail ne \u00e8 la riprova.', 'La corsa con partenza dalla spiaggia di Torbole (Circolo Surf Torbole) si snoder\u00e0 lungo l\u2019itinerario del Garda Trek-Corona Bassa.', \"E' un percorso sulla distanza di 30 chilometri che punta a cingere in un metaforico abbraccio tutto l\u2019Alto Garda, un Trail a bassa quota adatto alla stagione invernale, disegnato su un percorso molto panoramico e che potr\u00e0 godere di due ristori (circa ogni 10km).\", '\\xa0', '\\xa0', '\\xa0']",
+        "Organizer": "Garda Trentino Trail"
+    },
+    {
+        "Name": "Rovereto, la citt\u00e0 pi\u00f9 all'avanguardia del Trentino",
+        "Period": "11/07/2020 - 26/12/2020",
+        "Locality": "Rovereto",
+        "Typology": "Visite Guidate",
+        "Description": "Dalla Rovereto nel Secolo dei Lumi alle architetture del Mart",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "ANNULLATA Festa della Castagna",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia",
+        "Description": "Vie del centro",
+        "Content": "[]",
+        "Organizer": "Apt Valsugana"
+    },
+    {
+        "Name": "Coppa Europa Sci Alpino",
+        "Period": "17/12/2020 - 18/12/2020",
+        "Locality": "Moena",
+        "Typology": "Sport",
+        "Description": "Discesa libera femminile sulla pista La Volata del Passo San Pellegrino",
+        "Content": "['Per le sue pendenze e la preparazione delle piste, il San Pellegrino \u00e8 uno dei luoghi prediletti dalla nazionale italiana di sci alpino per affinare la prepazione in vista degli appuntamenti di Coppa del Mondo, ma pure di altre squadre come Stati Uniti, Svezia, Finlandia, Slovenia, Slovacchia e Germania.', 'Gioved\u00ec 17 e venerd\u00ec\\xa018 dicembre, La Volata, il tracciato di punta della ski area, \u00e8\\xa0teatro delle discipline veloci con le\\xa0gare femminili di Coppa Europa\\xa0(due discese libere), valide per l\u2019assegnazione del \"Memorial\\xa0Alberto Vendruscolo\". Le migliori giovani\\xa0campionesse\\xa0del Vecchio Continente si daranno battaglia lungo i 2300 metri dell\u2019adrenalinica pista del Col Margherita, che con i suoi 630 metri di dislivello ed una pendenza massima del 57% si candida come un ottimo campo gara per atleti del massimo calibro. Nel febbraio 2019, qui e allo Ski Stadium Aloch di Pozza si sono disputati i Campionati Mondiali Junior di Sci Alpino.']",
+        "Organizer": "U.S. Monti Pallidi"
+    },
+    {
+        "Name": "La Rovereto di Fortunato Depero",
+        "Period": "18/07/2020 - 05/12/2020",
+        "Locality": "Rovereto",
+        "Typology": "Visite Guidate",
+        "Description": "Da Casa d'Arte Futurista Depero fino a piazza Rosmini",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Natale al Castello di Avio",
+        "Period": "28/11/2020 - 13/12/2020",
+        "Locality": "Avio",
+        "Typology": "Mercati e mercatini",
+        "Description": "Un incanto di storia, musiche e sapori",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Mercatini di Natale a Campitello",
+        "Period": "05/12/2020 - 06/01/2021",
+        "Locality": "Campitello di Fassa",
+        "Typology": "Mercati e mercatini",
+        "Description": "Bancarelle con manufatti, prodotti artistici e gastronomici tipici delle Dolomiti nel paese pi\u00f9 suggestivo della Val di Fassa",
+        "Content": "['Uno dei paesi pi\u00f9 caratteristici della valle attende, in un clima natalizio doc, gli appassionati di acquisti per le Feste.\\xa0Sabato 5 dicembre, Campitello di Fassa (1.448 metri) inaugura un suggestivo\\xa0Mercatino di Natale per veri intenditori d\u2019atmosfere in equilibrio tra la poesia del presepe e l\u2019incanto dei monti. Le caratteristiche casette lignee, che propongono manufatti, prelibatezze gastronomiche tipiche, prodotti artistici e artigianali\\xa0delle Dolomiti, sono\\xa0allestite\\xa0con attenzione in un piacevole circuito che porta da Piaz de Ciampedel a Piaz Veie. Il mercatino \u00e8 aperto nelle giornate dal\\xa05 all\u20198 dicembre, 12-13 dicembre e dal\\xa019 dicembre al 6 gennaio dalle 15.00 alle 19.00.', 'Sabato 5 dicembre alle ore 15.00 apertura ufficiale del Mercatino di Natale.\\xa0']",
+        "Organizer": "APT Val di Fassa - Ufficio Turistico Campitello"
+    },
+    {
+        "Name": "Sapori di Patata",
+        "Period": "06/11/2020 - 22/11/2020",
+        "Locality": "Bosentino, Centa San Nicol\u00f2, Vattaro ...",
+        "Typology": "Enogastronomia",
+        "Description": "Un intero menu, dall\u2019antipasto al dolce, dedicato alla patata, umile tubero che diventa pietanza sfiziosa.\nGusta la creativit\u00e0 dei nostri ristoratori!\n",
+        "Content": "['Vieni a gustare i men\u00f9 della castagna da venerd\u00ec 6 novembre a domenica 22 novembre 2020', '\\xa0', '\\xa0', 'Frazione Doss 4\\n38049 Altopiano della Vigolana\\n0461.722125\\nagriturmartinelli@gmail.com', 'Antipasto della casa\\nGnocchi di patate al sugo e gnocchi alle ortiche\\nConiglio con polenta, tosella e patate al forno\\nGelato ai mirtilli caldi', '27 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione', '\\xa0', '\\xa0', 'Via Nordola 1\\n38040 Altopiano della Vigolana (TN)\\n0461.722127\\ninfo@albergoalbosco.com', 'Piccolo antipasto della casa con tortel di patate\\nRotolo di patate con prosciutto e funghi su crema di Asiago stagionato\\nBrasato di manzo con trio di stroemp di patate e verdure\\nTorta locale di patate', '25 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione\\nPer gruppi superiori alle 10 persone sconto del 10%', '\\xa0', '\\xa0', 'Loc. Sindec 27\\n38040 Altopiano della Vigolana (TN)\\n0461.722101 \u2013 342.0208337\\nsindech@libero.it', 'Misto di salumi con tortel di patate\\nGnocchi di patate blu/rosse con burro e salvia\\nCervo in umido\\nSpezzatino di vitello con patate\\nPolenta di patate\\nContorni misti\\nStrudel', '27 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione', '\\xa0', '\\xa0', 'Frazione Campregheri 34\\n38040 Altopiano della Vigolana (TN)\\n0461.722128 \u2013 349.0531876\\ninfo@campregheri.com', 'Tortel di patate agli aromi dei Campregheri con lonzino e girello marinati\\nRavioli di patate alla rucola e ricotta al burro e salvia\\nCrema di patate con dadolata di zucca e speck\\nBaccal\u00e0 con patate\\xa0 e polenta con farina di Vattaro\\nSemifreddo della casa', '30 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione', '\\xa0', '\\xa0', 'Loc. Doss del Bue 200\\n38040 Altopiano della Vigolana (TN)\\n0461.438505', 'Bocconcini di patate e formaggio filante\\nPolenta di patate\\xa0 e costine con insalata di cavolo cappuccio\\nCiambelle di patate al miele di acacia', '22 \u20ac bevande escluse', 'Tutti i giorni su prenotazione', '\\xa0', '\\xa0', 'Via Vittoria 4\\n38040 Altopiano della Vigolana (TN)\\n0461.847385', 'Tortei di patate con salumi, olive e formaggio\\nGnocchi freschi di patate con pomodoro, mozzarella e basilico gratinati al forno\\nTrancio di salmone con patate e granella di pistacchio\\nSfoglia scomposta con crema e frutti di bosco', '35 \u20ac bevande escluse', 'Tutti i giorni su prenotazione']",
+        "Organizer": "Consorzio Turistico Vigolna"
+    },
+    {
+        "Name": "Notte blu nella Citt\u00e0 della Pace",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Mostre, Intrattenimento della Localit\u00e0, Visite Guidate",
+        "Description": "Rovereto celebra il 75\u00b0anniversario ONU",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Natale a Rovereto",
+        "Period": "20/11/2020 - 06/01/2021",
+        "Locality": "Rovereto",
+        "Typology": "Mercati e mercatini",
+        "Description": "Favola di fascino e tradizione",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Rovereto, citt\u00e0 della seta",
+        "Period": "25/07/2020 - 12/12/2020",
+        "Locality": "Rovereto",
+        "Typology": "Visite Guidate",
+        "Description": "Rogge e filatoi raccontano lo sviluppo economico della citt\u00e0 tra tardo Medioevo e Rinascimento",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "A Class Autumn Regatta",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport",
+        "Description": "1\u00aa edizione autunnale al Circolo Vela Arco",
+        "Content": "['1\u00aa edizione autunnale al Circolo Vela Arco']",
+        "Organizer": "Circolo Vela Arco"
+    },
+    {
+        "Name": "Torbole 2020 Windsurfing International Event ",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport",
+        "Description": "Al Circolo Surf Torbole un evento internazionale T293 con prove foil e test tavole giovanili",
+        "Content": "['A fine ottobre - da mercoled\u00ec 28 a sabato 31 - al Circolo Surf Torbole un evento internazionale T293 con prove foil e test tavole giovanili', 'Non potendosi disputare i Campionati Mondiali per l\u2019emergenza Covid 19, che impedisce agli atleti di altri continenti di essere parte della rassegna, accogliendo una domanda che \u00e8 pervenuta da parte di atleti di alcuni paesi europei si \u00e8 pensato in accordo con la classe Techno 293 e la Federazione Italiana Vela di proporre un evento alternativo. Si tratta di una competizione della durata di tre giornate, da mercoled\u00ec 28 a venerd\u00ec 30 ottobre, periodo che coincide con la pausa autunnale delle scuole in molte nazioni del vecchio continente, limitata nel numero degli iscritti: 70 concorrenti under 15, 70 under 17 e 70 della Classe Techno Plus.', 'Le iscrizioni seguiranno tre fasi: in un primo blocco esse saranno riservate ai primi 10 ragazzi e alle prime 10 ragazze classificati in under 15, under 17 e Techno Plus, e ai primi 5 ragazzi e alle prime 5 ragazze della classifica under 13 ai recenti Campionati Italiani Giovanili di Torbole. Sar\u00e0 concesso di potersi iscrivere anche nelle categoria superiore rispetto agli italiani \u2013 regola ovviamente obbligatoria per gli under 13 dato che questa categoria, come avviene nella competizioni internazionali, non \u00e8 prevista e quindi vige l\u2019obbligo di essere parte della flotta under 15.', 'Una volta raccolte le adesioni dei top sailor italiani, esse saranno aperte agli stranieri. La terza e ultima fase prevede l\u2019allocazione dei posti rimasti sino al raggiungimento del numero massimo di 70 concorrenti per ciascuna flotta.', 'La giornata conclusiva, sabato 31 ottobre, sar\u00e0 invece dedicata a una prova di Foil, con nuove tavole Foil che porteranno alcune aziende del settore, pensando alla nuova tavola per le prossime Olimpiadi Giovanili.', '\\xa0']",
+        "Organizer": "Circolo Surf Torbole"
+    },
+    {
+        "Name": "Sapori di Castagna",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Enogastronomia",
+        "Description": "Un intero menu, dall\u2019antipasto al dolce, dedicato alla regina dell\u2019autunno, la castagna.\nGusta la creativit\u00e0 dei nostri ristoratori!\n",
+        "Content": "[\"Vieni a gustare i men\u00f9 della castagna sull'Altopiano della Vigolana da venerd\u00ec 9 ottobre a sabato 31 ottobre 2020\", '\\xa0', 'Frazione Doss 4\\n38049 Altopiano della Vigolana\\n0461.722125\\nagriturmartinelli@gmail.com', 'Antipasto di salumi e lonzino con castagne\\nMezzelune di castagne\\nRisotto castagne e porri\\nBocconcini dii maiale con castagne\\nTosella, patate al forno, polenta del Doss\\nVerdure di stagione\\nGelato alle castagne o dessert alle castagne', '30 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione', '\\xa0', '\\xa0', 'Via Nordola 1\\n38040 Altopiano della Vigolana (TN)\\n0461.722127\\ninfo@albergoalbosco.com', 'Spiedino di lardo e castagne, speck trentino e bouquet di funghi sott\u2019olio\\nGnocchi di castagne al burro e salvia, crespella di farina integrale con Vezzena e castagne\\nConiglio con castagne e polenta di Storo e contorno\\nCheesecake alle castagne', '25 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione\\nPer gruppi superiori alle 10 persone sconto del 10%', '\\xa0', '\\xa0', 'Loc. Sindec 27\\n38040 Altopiano della Vigolana (TN)\\n0461.722101 \u2013 342.0208337\\nsindech@libero.it', 'Lonzino e pancetta affumicata e castagne\\nTortelloni con ripieno di castagne al burro e salvia\\nTagliatelle ai porcini\\nCinghiale con castagne\\nFiletto di maiale con crema di castagne\\nFormaggio fuso\\nContorni misti di stagione cotti e crudi\\nPolenta di farina Valsugana\\nGelato alle castagne e vino dolce con caldarroste', '30 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione', '\\xa0', '\\xa0', 'Frazione Campregheri 34\\n38040 Altopiano della Vigolana (TN)\\n0461.722128 \u2013 349.0531876\\ninfo@campregheri.com', 'Carpaccio di lonzino e girello marinato con scaglie di castagne e grana\\nRavioli di patate, verza e ricotta con castagne e speck spadellato\\nPasta fatta in casa al rag\u00f9 di asino con castagne\\nTrancio di trota alle castagne\\nSorbetto alla castagna\\nBocconcini di manzo con patate e castagne\\nScaloppina alla grappa e castagne con polenta di castagne\\nTorta di castagne e cioccolato', '35 \u20ac bevande escluse', 'Solo nei fine settimana su prenotazione', '\\xa0', '\\xa0', 'Loc. Doss del Bue 200\\n38040 Altopiano della Vigolana (TN)\\n0461.438505', 'Bocconcini di castagne e pancetta con insalata di cappuccio viola\\nZuppa di fagioli e castagne\\nDolce di Castagne e ricotta al rum', '25 \u20ac bevande escluse', 'Tutti i giorni su prenotazione', '\\xa0', '\\xa0', 'Via Vittoria 4\\n38040 Altopiano della Vigolana (TN)\\n0461.847385', 'Bocconcini di castagne e speck su vellutata di ceci e prezzemolo\\nPappardelle con porcini e salsiccia con sbriciolata di castagne e prezzemolo\\nCoppa con crema di castagne, mascarpone e croccante di amaretti', '25 \u20ac bevande escluse', 'Tutti i giorni su prenotazione']",
+        "Organizer": "Consorzio Turistico Vigolana"
+    },
+    {
+        "Name": "La storia de l'ors - B\u00e4rige Geschichten",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Mostre, Eventi Culturali",
+        "Description": "Mostra realizzata attraverso diorami con la proposta di scene simboliche inerenti il rapporto tra uomo e orso nei secoli,\u00a0pannelli con materiale documentario, video ed una piccola area ludico/didattica per bambini.\n",
+        "Content": "['Aperto tutti i giorni\\xa010.00-12.30 e 14.00-18.00\\xa0(agosto: 09.30 - 12.30 e 14.00 - 18.30).\\xa0', '\\xa0', 'Maggiori info:\\xa0Centro Documentazione Luserna tel. 0464 789638\\xa0info@lusern.it']",
+        "Organizer": "Apt Alpe Cimbra"
+    },
+    {
+        "Name": "Hockey su ghiaccio: Fassa Falcons vs SHC Asiago",
+        "Period": "12/12/2020",
+        "Locality": "Canazei",
+        "Typology": "Sport",
+        "Description": "Campionato di hockey su ghiaccio dell\u2019Alps Hockey League",
+        "Content": "['Segui le partite in casa dei Fassa Falcons, la squadra di hockey su ghiaccio dell\u2019Alps Hockey League. I campioni della Val di Fassa giocano contro l\u2019HC Migross Supermercati Asiago Hockey. Ingresso: adulti \u20ac 12; ragazzi 6-12 anni \u20ac 8; gratuito per i bambini fino a 5 anni. Inizio partita alle ore 20.30.\\xa0', 'Il calendario delle partire potrebbe subire variazioni. Biglietti acquistabili anche online. 200 posti a sedere, secondo le disposizioni di sicurezza vigenti.']",
+        "Organizer": "S.H.C. Val di Fassa"
+    },
+    {
+        "Name": "21\u00b0Campionato italiano biliardo sportivo",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport",
+        "Description": "5\u00aa Prova circuito Fibis Challenge - Gran Premio Nazionale ",
+        "Content": "['La citt\u00e0 di Arco, per nove giorni, torna ad essere capitale del biliardo sportivo.', '\\xa0', 'Prender\u00e0 il via sabato 24 ottobre nelle sale del Casin\u00f2 Municipale, il ventunesimo Campionato Italiano di Biliardo Sportivo con la 5a prova del Circuito Fibis Challenge. 783 atleti della categoria Nazionali Pro, Nazionali, Master, 1^, 2^ e 3^ sono quindi pronti a mettersi in gioco nel massimo campionato di stecca 5 birilli dopo la pausa forzata causa coronavirus che lo aveva interrotto a marzo a Brescia.', 'I 15 biliardi montati come sempre da Maurizio Landolfo saranno dislocati in diverse aeree all\u2019interno della struttura: 9 nel salone dove \u00e8 allestito anche il biliardo televisivo, 2 nella sala Consiliare e gli altri nelle salette attigue a quest\u2019ultima. Si gioca nella specialit\u00e0 \u201cfilotto 60\u201d al meglio delle 3 partite ai 600 punti, la formula di gioco prevede una vera e propria sfida in tre fasi: un primo torneo di selezione al quale parteciperanno tutti gli atleti appartenenti alla categoria Nazionali, Master, 1^, 2^ e 3^; la fase finale delle selezioni alla quale prenderanno parte i vincitori delle batterie; infine sar\u00e0 la volta dei sedici Nazionali Pro che si confronteranno con i sedici atleti qualificati dal torneo di selezione.', '\\xa0', 'Confermata la presenza di Billiard Channel che da sabato 24 ottobre alle ore 13 circa trasmetter\u00e0 in live streaming il susseguirsi degli incontri sul biliardo televisivo. RaiSport sar\u00e0 nuovamente a fianco della Federazione e di tutti gli appassionati con le dirette delle fasi finali della prova.', '\\xa0', 'A tutela di tutti i partecipanti e di tutti gli operatori impegnati nello svolgimento della manifestazione la Federazione ha optato per riservare l\u2019accesso a tutti i campi gara esclusivamente ad atleti e corpo arbitrale. Di conseguenza non \u00e8 ammesso il pubblico sui campi gara; il pubblico potr\u00e0 per\u00f2 seguire gli incontri che si susseguiranno sul biliardo televisivo da un maxischermo installato nell\u2019area attigua, nel rispetto delle norme vigenti per la prevenzione del contagio da coronavirus.', '\\xa0', 'Programma di gara:\\xa0', 'Sabato 24 ottobre dalle ore 13.00', 'Domenica 25 ottobre dalle ore 10.00', 'Da luned\u00ec 26 a venerd\u00ec 30 ottobre dalle ore 13.00', 'Sabato 31 ottobre e domenica 1\u00b0 novembre dalle ore 10.00', '\\xa0', '\\xa0']",
+        "Organizer": "F.I.Bi.S. - Federazione Italiana Biliardo Sportivo"
+    },
+    {
+        "Name": "Il chilometro delle meraviglie",
+        "Period": "01/08/2020 - 19/12/2020",
+        "Locality": "Rovereto",
+        "Typology": "Visite Guidate",
+        "Description": "7 secoli di storia dal quartiere di S. Maria alla cupola del Mart",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Cinema a Dro",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Cinema",
+        "Description": "I migliori film della stagione cinematografica",
+        "Content": "['\\xa0', '\\xa0', '\\xa0', \"- ALCUNI AVVISI - -\u2022 tengo la mascherina negli spostamenti biglietteria/atrio/sala/bagni\u2022 accedo alla biglietteria quando \u00e8 libera garantendo il distanziamento durante l\u2019attesa\u2022 in sala occupo il posto che mi viene assegnato per garantire il giusto distanziamento \u2022 seduto al mio posto posso togliere la mascherina* la sala \u00e8 regolarmente trattata secondo le indicazioni governative * la sala \u00e8 climatizzata con ricambio d'aria controllato, continuo e filtrato.\"]",
+        "Organizer": "Cinema parrocchiale di Dro"
+    },
+    {
+        "Name": "FESTIVAL DELLA POLENTA | L'ORO NEL PIATTO",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Folklore, Enogastronomia",
+        "Description": "Quest'anno la Sesta edizione del\u00a0Festival della Polenta, assume una veste speciale, diffusa nei ristoranti proponendo,\u00a0dal 3 al 31 ottobre\u00a0la proposta gastronomica\u00a0Festival della Polenta, l\u2019Oro nel piatto!\n",
+        "Content": "[]",
+        "Organizer": "Consorzio Turistico Valle del Chiese"
+    },
+    {
+        "Name": "Uffizi in Passeier",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Eventi Culturali, Mostre",
+        "Description": "Chi protegge l'arte in guerra?",
+        "Content": "[\"Mostra curata e prodotta dal Museo Passiria e riallestita presso Le Gallerie nell'ambito del programma di collaborazione istituzionale tra i due Musei.\", 'Un interessante percorso, visitabile fino al 1\u00b0 novembre 2020, che racconta la vicenda delle importanti opere d\u2019arte fiorentine custodite in un deposito in Alto Adige durante la seconda guerra mondiale.', 'Perch\u00e9, durante il secondo conflitto mondiale le opere d\u2019arte arrivano in Alto Adige? Quali capolavori si trovavano tra queste? \u00c8 possibile che si trattasse di un tentativo di trafugamento sotto mentite spoglie?', 'Partendo da questi interrogativi la mostra \u201cUffizi in Passeier\u201d ricostruisce una vicenda fuori dall\u2019ordinario, nella quale si intrecciano storia locale e capolavori di fama mondiale.', 'Fotografie e filmati storici riportano i visitatori e le visitatrici nel pieno degli anni di guerra 1944/45. Il percorso \u00e8 incentrato sulle due prospettive che si alternano attraverso gli attori che le rappresentano: il Deutscher Kunstschutz difende il trasferimento delle opere d\u2019arte definendolo un\u2019azione di salvataggio dagli attacchi aerei degli americani, la US-Army mette in evidenza il recupero delle opere d\u2019arte dalle mani dei tedeschi che intendevano trafugarle.', 'Sulla base di brani estratti da atti, lettere e diari, i curatori della mostra, Judith Schwarz e Albert Pinggera, avvicinano le persone coinvolte nei fatti: su due scrivanie si trova la corrispondenza ufficiale e privata per attirare l\u2019attenzione sulle difficolt\u00e0 da superare, sulle esperienze particolari e sulla responsabilit\u00e0 immensa nell\u2019aver a che fare con opere d\u2019arte di rilevanza mondiale.', 'Da un lato la mostra racconta le storie che si svolgono attorno al deposito dell\u2019epoca con capolavori di artisti quali Rubens, Tiziano, Caravaggio, Cranach e Botticelli e inscena le riproduzioni dei dipinti a grandezza originale. Dall\u2019altro, nel percorso trilingue, emergono anche altre domande cruciali e attuali: la propaganda culturale della guerra mondiale si \u00e8 radicata nelle nostre menti? A chi appartiene il patrimonio dell\u2019umanit\u00e0? Si pu\u00f2 proteggere un\u2019identit\u00e0 culturale?', 'La storia', 'Nell\u2019estate bellica del 1944 gli Alleati sono vicini alla vittoria, l\u2019armata di Hitler in Italia \u00e8 in ritirata. I tesori artistici di Firenze, che per paura dei bombardamenti erano stati trasferiti in chiese, conventi e ville fuori citt\u00e0, corrono il pericolo di essere distrutti o saccheggiati nella confusione dei combattimenti. ', 'Il Deutscher Kunstschutz, una sezione dell\u2019amministrazione militare tedesca per la tutela dei beni culturali nell\u2019Italia occupata, sgombera i depositi e porta le opere d\u2019arte in Alto Adige.', 'Queste opere dell\u2019arte mondiale devono essere protette in localit\u00e0 remote nella zona prealpina. Qui, dove le opere d\u2019arte sono ancora in territorio italiano, ma saldamente in mano tedesca, viene scelto un ex edificio giudiziario come deposito per i capolavori del valore di svariati milioni di euro. I dipinti \u2013 trasportati senza imballaggio sui camion, protetti solo da paglia e coperte di lana \u2013 raggiungono la loro destinazione dell\u2019agosto 1944 e vi rimangono per sei mesi scarsi. Poco prima della fine della guerra il generale Karl Wolff, comandante in capo delle SS in Italia, ordina di consegnare le opere d\u2019arte solo ed esclusivamente agli americani. ', 'La 5th US-Army prende in consegna i dipinti nel maggio 1945 e nei due mesi successivi lavora alacremente per catalogare e imballare le 293 opere in casse di legno realizzate allo scopo. In luglio le opere ritornano a Firenze su un treno. La citt\u00e0 le accoglie con un corteo festante.', \"La mostra, che sar\u00e0 visitabile fino al 1\u00b0 novembre 2020, rientra nell'ambito del programma di collaborazione istituzionale tra il Museo di San Leonardi in Passiria e la Fondazione Museo storico del Trentino e, come sottolinea il direttore Giuseppe Ferrandi, \u201crappresenta un'occasione interessante per conoscere una vicenda particolare e poco nota che coinvolse la Wehrmacht tedesca, le autorit\u00e0 fasciste di Mussolini e la US-Army\u201d.\"]",
+        "Organizer": "Not specified"
+    },
+    {
+        "Name": "Coppa Europa Sci Alpino",
+        "Period": "18/12/2020",
+        "Locality": "Vigo di Fassa",
+        "Typology": "Sport",
+        "Description": "Slalom speciale maschile in notturna sulla pista Aloch di Pozza di Fassa valido per il circuito continentale",
+        "Content": "['Per tutto l\u2019inverno lo\\xa0Ski Stadium Aloch di Pozza di Fassa, fiore all\u2019occhiello dello sci in Trentino, ospiter\u00e0 importanti appuntamenti agonistici. Riflettori puntati e cancelletti di partenza aperti\\xa0venerd\u00ec 18\\xa0dicembre\\xa0per la\\xa0Coppa Europa di slalom speciale maschile in notturna\\xa0(due manche), valida per l\u2019assegnazione del \"Memorial\\xa0Elke Pastore\".', 'A contendersi il gradino pi\u00f9 alto del podio ci saranno i migliori giovani emergenti, ambiziosi di raggiungere i vertici delle classifiche del massimo circuito continentale. Gli atleti dovranno sfoderare abilit\u00e0 e preparazione tecnica sul difficile tracciato di pali stretti della pista nera di Pozza che, per dislivello (220 metri) e pendenza (media del 27%), si riconferma il teatro ideale per competizioni di livello internazionale.', 'Dal 2006 lo Ski Stadium Aloch\\xa0\u00e8 il training center dei team di sci alpino della nazionale italiana, ma pure di altre squadre come Stati Uniti, Svezia, Finlandia, Slovenia, Slovacchia e Germania. Nel febbraio 2019, in occasione dei Campionati Mondiali Junior di sci alpino,\\xa0le piste Aloch\\xa0e La Volata (Passo San Pellegrino) sono state\\xa0le location di gara per 500 atleti, provenienti da 50 nazioni.', 'Programma Coppa Europa maschile - Slalom speciale\\xa0in notturna:']",
+        "Organizer": "Ski Team Fassa"
+    },
+    {
+        "Name": "Visita guidata a Villa Lagarina",
+        "Period": "24/10/2020 - 05/12/2020",
+        "Locality": "Villa Lagarina",
+        "Typology": "Intrattenimento della Localit\u00e0, Visite Guidate",
+        "Description": "Arte sacra e gioielli d'arte barocca in Trentino",
+        "Content": "[]",
+        "Organizer": "Apt Rovereto e Vallagarina"
+    },
+    {
+        "Name": "Pinacoteca: Testimonianze figurative dal territorio tra XIV e XIX secolo",
+        "Period": "01/07/2020 - 08/11/2020",
+        "Locality": "Riva del Garda",
+        "Typology": "Mostre",
+        "Description": "Tre sezioni permanenti dedicate alla Pinacoteca, Storia e Archeologia, mostre temporanee e visita al Mastio",
+        "Content": "['Giugno\\xa0 | 10.00 - 18.00 ( dal gioved\u00ec alla domenica )', 'Da Luglio fino all\u2019 8 novembre | 10.00 - 18.00 ( tutti i giorni )Dicembre 2020 e gennaio 2021: aperture speciali\\xa0in via di definizione', 'Oltre alle collezioni completano il percorso di visita le due mostre temporanee \"Il sacro e il quotidiano. II villaggio tardoantico a San Martino ai Campi\" e \"Fermoimmagine. L\\'evoluzione della Gardesana Occidentale da 22 a 2 ruote\".\\xa0', '\\xa0', '\\xa0', \"All'interno della Rocca di Riva del Garda, antico castello medievale a specchio sul lago, ha sede il Museo Alto Garda con le sue\\xa0tre sezioni permanenti, dispiegate sui tre piani dedicati alla Pinacoteca, all'Archeologia e alla Storia, e\\xa0gli spazi riservati alle mostre temporanee.\", \"Irrinunciabile, per chi visita il Museo, la salita al Mastio, ovvero la torre principale della Rocca da cui si apre una suggestiva immagine della citt\u00e0 e del lago di Garda.Lo sguardo sul paesaggio storico e contemporaneo - indagato dalle diverse angolature che comprendono le discipline della fotografia, della pittura, del disegno e della ricerca storico-scientifica - \u00e8 una delle impronte pi\u00f9 marcate che contraddistinguono l'attivit\u00e0 espositiva e di ricerca del MAG.Il percorso della Pinacoteca illustra secolo dopo secolo l\u2019evolversi della cultura figurativa in area gardesana, documentandone la peculiarit\u00e0, dovuta alle molteplici influenze derivanti dalla particolare collocazione geografica, quale terra di confine.INvento\\xa0\u00e8 invece uno spazio dedicato ai bambini e alle famiglie, concepito con l\u2019ottica dell\u2019imparare divertendosi. Consiste in un percorso-laboratorio permanente, attrezzato con isole didattiche e giochi creativi, a cui si aggiungono la possibilit\u00e0 di sperimentare materiali e tecniche pittoriche e una divertente caccia al tesoro tra le opere delle collezioni.\", 'Da non perdere gli appuntamenti per famiglie : INvento Kit', '\\xa0', '\\xa0', '\\xa0']",
+        "Organizer": "MAG - Museo Alto Garda"
+    },
+    {
+        "Name": "29er Eurocup",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Sport",
+        "Description": "Finale del circuito europeo di vela Classe 29er",
+        "Content": "['Un fine stagione sempre spumeggiante grazie agli skiff 29er, derive terrazzate propedeutiche all\u2019olimpico 49er, che all\u2019Eurocup di Riva del Garda sono sempre pi\u00f9 numerose. Grande crescita tecnica di questa classe, che per alcuni giovani rappresenta l\u2019alternativa al doppio 420, soprattutto per chi ricerca velocit\u00e0 e performance nella vela.', '\\xa0', '']",
+        "Organizer": "Fraglia Vela Riva "
+    },
+    {
+        "Name": "Foliage tra Click e Poesia",
+        "Period": "",
+        "Locality": "Canal San Bovo",
+        "Typology": "Eventi Culturali",
+        "Description": "Quattro uscite guidate nella Valle del Vanoi\n",
+        "Content": "[\"Quattro uscite guidate su prenotazione, tra ottobre e novembre nella Valle del Vanoi.\\nDue tipologie di uscite, legate alla\\xa0fotografia e alla poesia.\\nFoliage e colori, percorsi nel bosco e non solo, tra i colori del Vanoi d'autunno: itinerari\\xa0con tappe legate a particolari aspetti paesaggistici e tradizionali del territorio.\\nFOLIAGE POESIA \", '\\nFOLIAGE CLICK', 'Scorci e occasioni di scatti, a tema ambientale, storico, naturalmente e di colore in compagnia del gruppo I NEGATIVI, che forniranno nozioni tecniche di base per realizzare delle buone fotografie. Si consiglia di portare con s\u00e9 una macchina fotografica.', 'Al termine verr\u00e0 creata una bacheca virtuale su Facebook, dove verranno pubblicate le foto dei partecipanti.\\nLe foto che riceveranno i maggiori like verranno premiate.\\nSaranno definite due categorie, una per i\\xa0residenti e una per gli ospiti', 'Durata delle uscite: Dalle 3 alle 4 ore. Percorso facile, adatto a famiglie con bambini.\\nPossibilit\u00e0 di pranzo in locali della zona.\\nAttivit\u00e0 a pagamento: \u20ac 10 a persona\\xa0- ragazzi fino a 8 anni gratuita.', '\\ufeff', 'Info e prenotazioni obbligatorie: ApT Canal san Bovo, Tel. 0439-719041 | vanoi@vanoi.it']",
+        "Organizer": "ApT San Martino di Castrozza, Passo Rolle, Primiero e Vanoi"
+    },
+    {
+        "Name": "43\u00aa Esposizione Ornitologica Trentina",
+        "Period": "Attenzione! L'evento ha gi\u00e0 avuto luogo!",
+        "Locality": "Localit\u00e0",
+        "Typology": "Altro",
+        "Description": "XI\u00b0 concorso dedicato ai fringillidi ed affini anche mutati \u201cdelle Dolomiti\u201d",
+        "Content": "['La \u201c43\u00b0 Esposizione Ornitologica Trentina\u201d, si svolger\u00e0 regolarmente a Riva del Garda dal 22 al 25 ottobre 2020, presso il Quartiere Fieristico, via Baltera 20.', 'Si \u00e8 deciso, pur nelle difficolt\u00e0 attuali, di non interrompere il quarantennale evento che coinvolge ed entusiasma molti amici allevatori. L\u2019organizzazione dell\u2019evento sar\u00e0 basata sui nuovi vincoli di capienza e terr\u00e0 conto delle normative e dei protocolli imposti dal distanziamento sociale per l\u2019emergenza Coronavirus, pertanto anche il numero dei partecipanti sar\u00e0 proporzionato alle esigenze della Sede ospitante.', '\\xa0', 'Categorie a concorso:', 'Canarini di Colore;Canarini di Forma e Posizione Arricciati;Canarini di Forma e Posizione Lisci (categorie allargate);Estrilidi, Fringillidi e loro ibridi (categorie allargate);Ondulati e Psittacidi.', '\\xa0']",
+        "Organizer": "Associazione Ornitologica Trentina & Rivafierecongressi"
+    }
+]
