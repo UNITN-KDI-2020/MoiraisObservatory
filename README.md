@@ -1,12 +1,12 @@
 # Knowledge Representation of Touristic Events for efficient data integration
 
-##Introduction
+## Introduction
 
 >__The goal of the Project:__ aims to build custom vocabulary terminologies for unambiguously representing _event_ entities prevalent in _various_ datasets at our disposal and incorporate existing entity types, object and data properties in order to minimize redefinition of the same concepts. Eventually, our ideal application is expected to respond with a set of chronological events suited to the taste of the user being concerned, and help to facilitate transportation management between geographical points as a secondary infrastructural service.
 
 ![Oversimplified version of the final application!](init_overview.png)
 
-##Progress Stats
+## Progress Stats
 
 ![100%](https://progress-bar.dev/100/?title=Scope_and_Definition_Phase)
 ![80%](https://progress-bar.dev/80/?title=Inception_Phase)
@@ -14,7 +14,7 @@
 ![0%](https://progress-bar.dev/0/?title=Formalization_Phase)
 ![0%](https://progress-bar.dev/0/?title=Data_Integration_&_Finalization_Phase)
 
-##Credits
+## Credits
 
 * **Erdenebileg B.** (Data Scientist & Knowledge Engineer) - [BrainyLark](http://github.com/BrainyLark)
 * **Eva Agrawal** (Data Scientist) - [EvaforData](https://github.com/EvaforData)
