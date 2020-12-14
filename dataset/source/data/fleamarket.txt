@@ -1,0 +1,3526 @@
+img :  //images2.trentino.com/images/events/main/225x225/70a334412f2a1b0314f27aa562590dcb.jpg
+name  :  Mercato contadino Trento - Via Filzi
+startDate  :  2020-10-21T07:30:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---via-filzi/
+name  :  Trento
+address  :  Trento, Via Fabio Filzi
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/75f84c054f7e9e5ee0268b17caea0df3.jpg
+name  :  Mercato settimanale Arco
+startDate  :  2020-10-21T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-arco/
+name  :  Arco
+address  :  Arco, Piazzale Foro Boario
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/977670007f01646b4ee52dec5d8fb32a.jpg
+name  :  Mercato a Castello di Fiemme
+startDate  :  2020-10-21T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-castello-di-fiemme/
+name  :  Castello di Fiemme
+address  :  Castello Molina di Fiemme, Castello di Fiemme, nel centro del paese
+latitude  :  46.279625
+longitude  :  11.434343
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-10-21T08:30:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-21
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-21
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/b0c4a1e3539b1ab5dffc49c1a98175a0.jpg
+name  :  Giro d'Italia - Madonna di Campiglio
+startDate  :  2020-10-21
+url  :  https://www.trentino.com/it/calendario/dettagli/giro-d-italia---madonna-di-campiglio/
+name  :  Madonna di Campiglio
+address  :  Madonna di Campiglio, arrivo di tappa in piazza Sissi
+latitude  :  46.230870
+longitude  :  10.827020
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/6fdaa91c91104ab48293fdae9049592c.jpg
+name  :  Mercato settimanale di Trento
+startDate  :  2020-10-22T07:15:00+0200
+duration  :  PT6H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-di-trento/
+name  :  Trento
+address  :  Trento, centro storico
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2059f70f84f5fbd73febf5e311400086.jpg
+name  :  Mercato dell'economia solidale
+startDate  :  2020-10-22T07:30:00+0200
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-dell-economia-solidale/
+name  :  Trento
+address  :  Trento, Piazza Santa Maria Maggiore
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/9bc0ca6bdbebf919fb842221f27d444c.jpg
+name  :  Mercato settimanale a Mori
+startDate  :  2020-10-22T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-mori/
+name  :  Mori
+address  :  Mori, Piazza Malfatti
+latitude  :  45.851940
+longitude  :  10.977638
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c17884c17e7a343460b5f9b76abf44aa.jpg
+name  :  Mercato di Ziano di Fiemme
+startDate  :  2020-10-22T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-di-ziano-di-fiemme/
+name  :  Ziano di Fiemme
+address  :  Ziano di Fiemme, nel centro del paese
+latitude  :  46.286046
+longitude  :  11.562059
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/652a150e1b77e6390d80b554a9707820.jpg
+name  :  Mercato agricolo a Rovereto
+startDate  :  2020-10-22T08:00:00+0200
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-agricolo-a-rovereto/
+name  :  Rovereto
+address  :  Rovereto, Piazza Malfatti
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/dc40aa4947e758f1f474cf490ea2fe1b.jpg
+name  :  Giro d'Italia - Pinzolo
+startDate  :  2020-10-22
+url  :  https://www.trentino.com/it/calendario/dettagli/giro-d-italia---pinzolo/
+name  :  Pinzolo
+address  :  Pinzolo
+latitude  :  46.158750
+longitude  :  10.765670
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-10-22T08:30:00+0200
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-22
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-22
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bff8e3a6ac44a428eed06b3546f3c3ad.jpg
+name  :  Degustazione di grappe e liquori
+startDate  :  2020-10-22T19:00:00+0200
+duration  :  PT3H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/degustazione-di-grappe-e-liquori/
+name  :  Levico Terme
+address  :  Levico Terme, ritrovo: in centro - "Il Ponte dei Sapori"
+latitude  :  46.011940
+longitude  :  11.301450
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-10-23T08:00:00+0200
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a85f7c5ed855fe7c5fa6bbd7714419.jpg
+name  :  Mercato settimanale a Tesero
+startDate  :  2020-10-23T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-tesero/
+name  :  Tesero
+address  :  Tesero, Piazza C. Battisti
+latitude  :  46.289480
+longitude  :  11.511890
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8ffbaf6b1a3ed357a8ebbfc6ac9fa8f7.jpg
+name  :  Mercato settimanale a Capriana
+startDate  :  2020-10-23T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-capriana/
+name  :  Capriana
+address  :  Capriana, nel centro del paese
+latitude  :  46.263080
+longitude  :  11.339040
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-10-23T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5f1469bed9e40178663c2a0c2461eb52.jpg
+name  :  A Class Autumn Regatta
+startDate  :  2020-10-23T09:00:00+0200
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/a-class-autumn-regatta/
+name  :  Arco
+address  :  Arco, Circolo Vela Arco
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-23
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bbdd34ba83590631bb9b62b6c29cec6a.jpg
+name  :  "DiVin Ottobre"
+startDate  :  2020-10-23
+url  :  https://www.trentino.com/it/calendario/dettagli/divin-ottobre/
+name  :  Trento
+address  :  Trento
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-23
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/80e290a6b89cc733341288e4697cf750.jpg
+name  :  Mercatino dei Gaudenti
+startDate  :  2020-10-24
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-dei-gaudenti_53622/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a192d2e19d17f500eb29dc2917cc7155.jpg
+name  :  Mercato contadino Trento - P.Dante
+startDate  :  2020-10-24T07:30:00+0200
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---pdante/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fdd12431c1e08c292fe7acb6d071ccc7.jpg
+name  :  Mercato settimanale a Varena
+startDate  :  2020-10-24T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-varena/
+name  :  Varena
+address  :  Ville di Fiemme, Varena, centro del paese
+latitude  :  46.305498
+longitude  :  11.457903
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/07d387c595b38f1bec038480a308fe2a.jpg
+name  :  Mercato settimanale ad Ala
+startDate  :  2020-10-24T08:00:00+0200
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-ad-ala/
+name  :  Ala
+address  :  Ala, Via Anzelini
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cf2242422a6b962ad6d4f3b09ab42330.jpg
+name  :  Mercato agricolo e biologico
+startDate  :  2020-10-24T08:00:00+0200
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-agricolo-e-biologico/
+name  :  Rovereto
+address  :  Rovereto, Piazza N.Sauro e Piazza Erbe
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e99fedf999375768bbeadc613eb56a71.jpg
+name  :  Mercato contadino a Tione di Trento
+startDate  :  2020-10-24T08:00:00+0200
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-a-tione-di-trento/
+name  :  Tione di Trento
+address  :  Tione di Trento, Parco Ville
+latitude  :  46.035860
+longitude  :  10.728400
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-10-24T08:30:00+0200
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e2c2a494d66d7ac58c2f10d327dcee0.jpg
+name  :  29er Eurocup 
+startDate  :  2020-10-24T09:00:00+0200
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/regata-eurocup-29er/
+name  :  Riva del Garda
+address  :  Riva del Garda, Fraglia Vela Riva 
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cc59db8c14b69d0304d962314d3699bb.jpg
+name  :  43° Esposizione Ornitologica Trentina
+startDate  :  2020-10-24T09:00:00+0200
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/42-esposizione-ornitologica-trentina/
+name  :  Riva del Garda
+address  :  Riva del Garda, quartiere fieristico - loc. Baltera
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5f1469bed9e40178663c2a0c2461eb52.jpg
+name  :  A Class Autumn Regatta
+startDate  :  2020-10-24T09:00:00+0200
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/a-class-autumn-regatta/
+name  :  Arco
+address  :  Arco, Circolo Vela Arco
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ccdf8fd7c3fb6c1897621288488bcc69.jpg
+name  :  Sagra della Ciuìga
+startDate  :  2020-10-24
+url  :  https://www.trentino.com/it/calendario/dettagli/sagra-della-ciuiga/
+name  :  San Lorenzo in Banale
+address  :  San Lorenzo Dorsino, San Lorenzo in Banale, ville di Berghi e Pergnano
+latitude  :  46.076982
+longitude  :  10.907965
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-10-24T10:00:00+0200
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2d6b366540f8883e0ed6a3f28de52b3c.jpg
+name  :  Festa della Castagna
+startDate  :  2020-10-24T10:00:00+0200
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/festa-della-castagna-a-roncegno-terme/
+name  :  Roncegno Terme
+address  :  Roncegno Terme, nel centro del paese
+latitude  :  46.052148
+longitude  :  11.409967
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-24
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bbdd34ba83590631bb9b62b6c29cec6a.jpg
+name  :  "DiVin Ottobre"
+startDate  :  2020-10-24
+url  :  https://www.trentino.com/it/calendario/dettagli/divin-ottobre/
+name  :  Trento
+address  :  Trento
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/61efd4eff011a0842a4fb271486e764a.jpg
+name  :  Visita guidata al Mulino Zeni
+startDate  :  2020-10-24T10:30:00+0200
+duration  :  PT1H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-mulino-zeni/
+name  :  Brentonico
+address  :  Brentonico, ritrovo al Mulino Zeni - Loc. Sorne
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-24
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e8969a5f76fd4792b2ac8a2ca3bf9758.jpg
+name  :  Visita guidata: Museo della Guerra
+startDate  :  2020-10-24T11:00:00+0200
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-museo-della-guerra/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/af72457a6d2dbeabf16b321b5d0f2f69.jpg
+name  :  Olio che bontà
+startDate  :  2020-10-24T13:00:00+0200
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/olio-che-bonta/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, casa del Dazio nel piccolo porticciolo
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e100b7fb5427cd505493104f181b7865.jpg
+name  :  Festa della castagna: Valle di Centa
+startDate  :  2020-10-24
+url  :  https://www.trentino.com/it/calendario/dettagli/festa-della-castagna-valle-di-centa/
+name  :  Centa San Nicolò
+address  :  Altopiano della Vigolana, Centa San Nicolò, presso la area manifestazioni
+latitude  :  45.968100
+longitude  :  11.231480
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-10-24T15:00:00+0200
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/10bafa2553922b7239b633c3b1f916b6.jpg
+name  :  Escursione in notturna
+startDate  :  2020-10-24T19:50:00+0200
+url  :  https://www.trentino.com/it/calendario/dettagli/escursione-in-notturna/
+name  :  Pieve Tesino
+address  :  Pieve Tesino, ritrovo: presso parcheggio Camping Lagorai - loc. Spiado
+latitude  :  46.068824
+longitude  :  11.608064
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e2c2a494d66d7ac58c2f10d327dcee0.jpg
+name  :  29er Eurocup 
+startDate  :  2020-10-25T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/regata-eurocup-29er/
+name  :  Riva del Garda
+address  :  Riva del Garda, Fraglia Vela Riva 
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cc59db8c14b69d0304d962314d3699bb.jpg
+name  :  43° Esposizione Ornitologica Trentina
+startDate  :  2020-10-25T09:00:00+0100
+duration  :  PT7H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/42-esposizione-ornitologica-trentina/
+name  :  Riva del Garda
+address  :  Riva del Garda, quartiere fieristico - loc. Baltera
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e3e661425da7cc60f9f6a04359467ae2.jpg
+name  :  "Dinosauri in Carne e Ossa"
+startDate  :  2020-10-25T09:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/dove-passarono-i-dinosauri/
+name  :  Rovereto
+address  :  Rovereto, ritrovo al parcheggio della Baita degli Alpini
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/b3ef6fff3ad6de97eb98a55affcd1f1f.jpg
+name  :  Cammina Tesino - Passeggiata foliage
+startDate  :  2020-10-25T09:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/cammina-tesino---passeggiata-foliage/
+name  :  Pieve Tesino
+address  :  Pieve Tesino, ritrovo: parcheggio Camping Valmalene - loc. Val Malene
+latitude  :  46.068824
+longitude  :  11.608064
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5f1469bed9e40178663c2a0c2461eb52.jpg
+name  :  A Class Autumn Regatta
+startDate  :  2020-10-25T09:00:00+0100
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/a-class-autumn-regatta/
+name  :  Arco
+address  :  Arco, Circolo Vela Arco
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/b9db009f711648617000543a85c1256a.jpg
+name  :  Foliage e sapori del Monte Baldo
+startDate  :  2020-10-25T09:30:00+0100
+duration  :  PT3H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/foliage-e-sapori-del-monte-baldo/
+name  :  Brentonico
+address  :  Brentonico, ritrovo: ufficio turistico
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ccdf8fd7c3fb6c1897621288488bcc69.jpg
+name  :  Sagra della Ciuìga
+startDate  :  2020-10-25
+url  :  https://www.trentino.com/it/calendario/dettagli/sagra-della-ciuiga/
+name  :  San Lorenzo in Banale
+address  :  San Lorenzo Dorsino, San Lorenzo in Banale, ville di Berghi e Pergnano
+latitude  :  46.076982
+longitude  :  10.907965
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2d6b366540f8883e0ed6a3f28de52b3c.jpg
+name  :  Festa della Castagna
+startDate  :  2020-10-25T10:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/festa-della-castagna-a-roncegno-terme/
+name  :  Roncegno Terme
+address  :  Roncegno Terme, nel centro del paese
+latitude  :  46.052148
+longitude  :  11.409967
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-25
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/dc2046ffd22315376bd5e53e67e7d7f8.jpg
+name  :  Ala Città di velluto
+startDate  :  2020-10-25T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/ala-citta-di-velluto/
+name  :  Ala
+address  :  Ala, centro storico
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e46f03d89b20c369dc5c4b3f54a701b5.jpg
+name  :  Foliage alla Forra del Lupo
+startDate  :  2020-10-25T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/foliage-alla-forra-del-lupo/
+name  :  Folgaria
+address  :  Folgaria, ritrovo: ristorante Cogola, Serrada
+latitude  :  45.914452
+longitude  :  11.173182
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bbdd34ba83590631bb9b62b6c29cec6a.jpg
+name  :  "DiVin Ottobre"
+startDate  :  2020-10-25
+url  :  https://www.trentino.com/it/calendario/dettagli/divin-ottobre/
+name  :  Trento
+address  :  Trento
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/541837cc0270c7466572da4765481929.jpg
+name  :  Foliage tra Click e Poesia
+startDate  :  2020-10-25T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/foliage-tra-click-e-poesia/
+name  :  Canal San Bovo
+address  :  Canal San Bovo
+latitude  :  46.155160
+longitude  :  11.732750
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e100b7fb5427cd505493104f181b7865.jpg
+name  :  Festa della castagna: Valle di Centa
+startDate  :  2020-10-25
+url  :  https://www.trentino.com/it/calendario/dettagli/festa-della-castagna-valle-di-centa/
+name  :  Centa San Nicolò
+address  :  Altopiano della Vigolana, Centa San Nicolò, presso la area manifestazioni
+latitude  :  45.968100
+longitude  :  11.231480
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-25
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/af72457a6d2dbeabf16b321b5d0f2f69.jpg
+name  :  Olio che bontà
+startDate  :  2020-10-25T13:00:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/olio-che-bonta/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, casa del Dazio nel piccolo porticciolo
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-10-25T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5b46876f1d5f07575d6c15836c079177.jpg
+name  :  Mercato settimanale a Besenello
+startDate  :  2020-10-26T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-besenello/
+name  :  Besenello
+address  :  Besenello, Via Beseno
+latitude  :  45.942040
+longitude  :  11.109920
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cfdd4c14b2684b784a272648728294a8.jpg
+name  :  Mercato a Molina di Fiemme
+startDate  :  2020-10-26T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-molina-di-fiemme/
+name  :  Molina di Fiemme
+address  :  Castello Molina di Fiemme, Molina di Fiemme, Via Segheria 
+latitude  :  46.273134
+longitude  :  11.416961
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e2c2a494d66d7ac58c2f10d327dcee0.jpg
+name  :  29er Eurocup 
+startDate  :  2020-10-26T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/regata-eurocup-29er/
+name  :  Riva del Garda
+address  :  Riva del Garda, Fraglia Vela Riva 
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-26
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-26
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2cd7458862ee634423c96c7d1793fe11.jpg
+name  :  Mercato contadino Arco 
+startDate  :  2020-10-27T07:30:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-arco-/
+name  :  Arco
+address  :  Arco, Viale delle Palme
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-10-27T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/00a77508385f293208d1d12da9cd7987.jpg
+name  :  Mercato a Cavalese
+startDate  :  2020-10-27T08:00:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-cavalese/
+name  :  Cavalese
+address  :  Cavalese, Piazza Fiera - Viale Libertà
+latitude  :  46.290610
+longitude  :  11.460710
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5abc2cf02d13a0939d78aba0af82144d.jpg
+name  :  Mercato settimanale a Brentonico
+startDate  :  2020-10-27T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-brentonico/
+name  :  Brentonico
+address  :  Brentonico, nel centro del paese
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e2c2a494d66d7ac58c2f10d327dcee0.jpg
+name  :  29er Eurocup 
+startDate  :  2020-10-27T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/regata-eurocup-29er/
+name  :  Riva del Garda
+address  :  Riva del Garda, Fraglia Vela Riva 
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-27
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-27
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/70a334412f2a1b0314f27aa562590dcb.jpg
+name  :  Mercato contadino Trento - Via Filzi
+startDate  :  2020-10-28T07:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---via-filzi/
+name  :  Trento
+address  :  Trento, Via Fabio Filzi
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a7018525a0bd62bb27dc964a99df85.jpg
+name  :  Mercato settimanale Riva del Garda
+startDate  :  2020-10-28T08:00:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Centro storico
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/977670007f01646b4ee52dec5d8fb32a.jpg
+name  :  Mercato a Castello di Fiemme
+startDate  :  2020-10-28T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-castello-di-fiemme/
+name  :  Castello di Fiemme
+address  :  Castello Molina di Fiemme, Castello di Fiemme, nel centro del paese
+latitude  :  46.279625
+longitude  :  11.434343
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-10-28T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8a27cc8099c1d8f7bdc70001a1c814f1.jpg
+name  :  A Class European Spring Championship
+startDate  :  2020-10-28T09:00:00+0100
+duration  :  PT10H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/a-class-european-spring-championship/
+name  :  Arco
+address  :  Arco, Circolo Vela Arco
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-28
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-28
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/6fdaa91c91104ab48293fdae9049592c.jpg
+name  :  Mercato settimanale di Trento
+startDate  :  2020-10-29T07:15:00+0100
+duration  :  PT6H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-di-trento/
+name  :  Trento
+address  :  Trento, centro storico
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2059f70f84f5fbd73febf5e311400086.jpg
+name  :  Mercato dell'economia solidale
+startDate  :  2020-10-29T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-dell-economia-solidale/
+name  :  Trento
+address  :  Trento, Piazza Santa Maria Maggiore
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/9bc0ca6bdbebf919fb842221f27d444c.jpg
+name  :  Mercato settimanale a Mori
+startDate  :  2020-10-29T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-mori/
+name  :  Mori
+address  :  Mori, Piazza Malfatti
+latitude  :  45.851940
+longitude  :  10.977638
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/652a150e1b77e6390d80b554a9707820.jpg
+name  :  Mercato agricolo a Rovereto
+startDate  :  2020-10-29T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-agricolo-a-rovereto/
+name  :  Rovereto
+address  :  Rovereto, Piazza Malfatti
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-10-29T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-29
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-29
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-10-30T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a85f7c5ed855fe7c5fa6bbd7714419.jpg
+name  :  Mercato settimanale a Tesero
+startDate  :  2020-10-30T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-tesero/
+name  :  Tesero
+address  :  Tesero, Piazza C. Battisti
+latitude  :  46.289480
+longitude  :  11.511890
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8ffbaf6b1a3ed357a8ebbfc6ac9fa8f7.jpg
+name  :  Mercato settimanale a Capriana
+startDate  :  2020-10-30T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-capriana/
+name  :  Capriana
+address  :  Capriana, nel centro del paese
+latitude  :  46.263080
+longitude  :  11.339040
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-10-30T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f8e163b6891d6d7a22076b8d07210348.jpg
+name  :  Halloween Cup Optimist
+startDate  :  2020-10-30T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/halloween-cup/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Vela Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-30
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bbdd34ba83590631bb9b62b6c29cec6a.jpg
+name  :  "DiVin Ottobre"
+startDate  :  2020-10-30
+url  :  https://www.trentino.com/it/calendario/dettagli/divin-ottobre/
+name  :  Trento
+address  :  Trento
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-30
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a192d2e19d17f500eb29dc2917cc7155.jpg
+name  :  Mercato contadino Trento - P.Dante
+startDate  :  2020-10-31T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---pdante/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fdd12431c1e08c292fe7acb6d071ccc7.jpg
+name  :  Mercato settimanale a Varena
+startDate  :  2020-10-31T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-varena/
+name  :  Varena
+address  :  Ville di Fiemme, Varena, centro del paese
+latitude  :  46.305498
+longitude  :  11.457903
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/07d387c595b38f1bec038480a308fe2a.jpg
+name  :  Mercato settimanale ad Ala
+startDate  :  2020-10-31T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-ad-ala/
+name  :  Ala
+address  :  Ala, Via Anzelini
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cf2242422a6b962ad6d4f3b09ab42330.jpg
+name  :  Mercato agricolo e biologico
+startDate  :  2020-10-31T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-agricolo-e-biologico/
+name  :  Rovereto
+address  :  Rovereto, Piazza N.Sauro e Piazza Erbe
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e99fedf999375768bbeadc613eb56a71.jpg
+name  :  Mercato contadino a Tione di Trento
+startDate  :  2020-10-31T08:00:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-a-tione-di-trento/
+name  :  Tione di Trento
+address  :  Tione di Trento, Parco Ville
+latitude  :  46.035860
+longitude  :  10.728400
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-10-31T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f8e163b6891d6d7a22076b8d07210348.jpg
+name  :  Halloween Cup Optimist
+startDate  :  2020-10-31T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/halloween-cup/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Vela Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c569286fff314589a4ca6387fb26c218.jpg
+name  :  Campionati italiani ginnastica ritmica
+startDate  :  2020-10-31T09:30:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/campionati-italiani-ginnastica-ritmica/
+name  :  Folgaria
+address  :  Folgaria
+latitude  :  45.914452
+longitude  :  11.173182
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ccdf8fd7c3fb6c1897621288488bcc69.jpg
+name  :  Sagra della Ciuìga
+startDate  :  2020-10-31
+url  :  https://www.trentino.com/it/calendario/dettagli/sagra-della-ciuiga/
+name  :  San Lorenzo in Banale
+address  :  San Lorenzo Dorsino, San Lorenzo in Banale, ville di Berghi e Pergnano
+latitude  :  46.076982
+longitude  :  10.907965
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-10-31T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/083fe980704cdaa59dfe476e11726f52.jpg
+name  :  Festival della Polenta
+startDate  :  2020-10-31
+url  :  https://www.trentino.com/it/calendario/dettagli/festival-della-polenta/
+name  :  Storo
+address  :  Storo, nel centro del paese
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bbdd34ba83590631bb9b62b6c29cec6a.jpg
+name  :  "DiVin Ottobre"
+startDate  :  2020-10-31
+url  :  https://www.trentino.com/it/calendario/dettagli/divin-ottobre/
+name  :  Trento
+address  :  Trento
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/61efd4eff011a0842a4fb271486e764a.jpg
+name  :  Visita guidata al Mulino Zeni
+startDate  :  2020-10-31T10:30:00+0100
+duration  :  PT1H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-mulino-zeni/
+name  :  Brentonico
+address  :  Brentonico, ritrovo al Mulino Zeni - Loc. Sorne
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-10-31
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a3fe15dbc510bd265fcf94fe359f9875.jpg
+name  :  Visita guidata: Castello di Rovereto
+startDate  :  2020-10-31T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-castello-di-rovereto/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f8d9325734417c79af0d323788f0b86a.jpeg
+name  :  Shopping aspettando Halloween
+startDate  :  2020-10-31T14:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/shopping-aspettando-halloween/
+name  :  Rovereto
+address  :  Rovereto, centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-10-31T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f8e163b6891d6d7a22076b8d07210348.jpg
+name  :  Halloween Cup Optimist
+startDate  :  2020-11-01T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/halloween-cup/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Vela Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/3b8f972a9f10962b2989d261af0ebc10.jpg
+name  :  Domenica al Museo - Riva
+startDate  :  2020-11-01T10:00:00+0100
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/domenica-al-museo/
+name  :  Riva del Garda
+address  :  Riva del Garda, Museo Alto Garda
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/bbdd34ba83590631bb9b62b6c29cec6a.jpg
+name  :  "DiVin Ottobre"
+startDate  :  2020-11-01
+url  :  https://www.trentino.com/it/calendario/dettagli/divin-ottobre/
+name  :  Trento
+address  :  Trento
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c569286fff314589a4ca6387fb26c218.jpg
+name  :  Campionati italiani ginnastica ritmica
+startDate  :  2020-11-01T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/campionati-italiani-ginnastica-ritmica/
+name  :  Folgaria
+address  :  Folgaria
+latitude  :  45.914452
+longitude  :  11.173182
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/122e57147017fa355e4ec31357eda59c.jpg
+name  :  "Antichi Sapori" in Val di Non
+startDate  :  2020-11-01
+url  :  https://www.trentino.com/it/calendario/dettagli/antichi-sapori-in-val-di-non/
+name  :  Cles
+address  :  Cles, nei ristoranti aderenti all'iniziativa
+latitude  :  46.364680
+longitude  :  11.035010
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-11-01T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5b46876f1d5f07575d6c15836c079177.jpg
+name  :  Mercato settimanale a Besenello
+startDate  :  2020-11-02T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-besenello/
+name  :  Besenello
+address  :  Besenello, Via Beseno
+latitude  :  45.942040
+longitude  :  11.109920
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cfdd4c14b2684b784a272648728294a8.jpg
+name  :  Mercato a Molina di Fiemme
+startDate  :  2020-11-02T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-molina-di-fiemme/
+name  :  Molina di Fiemme
+address  :  Castello Molina di Fiemme, Molina di Fiemme, Via Segheria 
+latitude  :  46.273134
+longitude  :  11.416961
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/443c2f630a2ceb5e477c23cfa9b56eb6.jpg
+name  :  Mercato a Tione di Trento
+startDate  :  2020-11-02
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-tione/
+name  :  Tione di Trento
+address  :  Tione di Trento, Via Roma
+latitude  :  46.035860
+longitude  :  10.728400
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-11-03T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5da0849c41edecc31ae25fdd50f45d1e.jpg
+name  :  Mercato a Predazzo
+startDate  :  2020-11-03T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-predazzo/
+name  :  Predazzo
+address  :  Predazzo, Piazza SS. Filippo e Giacomo
+latitude  :  46.312090
+longitude  :  11.600480
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5abc2cf02d13a0939d78aba0af82144d.jpg
+name  :  Mercato settimanale a Brentonico
+startDate  :  2020-11-03T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-brentonico/
+name  :  Brentonico
+address  :  Brentonico, nel centro del paese
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c1ca5553e1a069b6b8ad549b8f6d9780.jpg
+name  :  Storytime
+startDate  :  2020-11-03T17:00:00+0100
+duration  :  PT1H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/storytime/
+name  :  Arco
+address  :  Arco, Biblioteca Bruno Emmert
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/70a334412f2a1b0314f27aa562590dcb.jpg
+name  :  Mercato contadino Trento - Via Filzi
+startDate  :  2020-11-04T07:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---via-filzi/
+name  :  Trento
+address  :  Trento, Via Fabio Filzi
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/75f84c054f7e9e5ee0268b17caea0df3.jpg
+name  :  Mercato settimanale Arco
+startDate  :  2020-11-04T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-arco/
+name  :  Arco
+address  :  Arco, Piazzale Foro Boario
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/977670007f01646b4ee52dec5d8fb32a.jpg
+name  :  Mercato a Castello di Fiemme
+startDate  :  2020-11-04T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-castello-di-fiemme/
+name  :  Castello di Fiemme
+address  :  Castello Molina di Fiemme, Castello di Fiemme, nel centro del paese
+latitude  :  46.279625
+longitude  :  11.434343
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-11-04T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/6fdaa91c91104ab48293fdae9049592c.jpg
+name  :  Mercato settimanale di Trento
+startDate  :  2020-11-05T07:15:00+0100
+duration  :  PT6H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-di-trento/
+name  :  Trento
+address  :  Trento, centro storico
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2059f70f84f5fbd73febf5e311400086.jpg
+name  :  Mercato dell'economia solidale
+startDate  :  2020-11-05T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-dell-economia-solidale/
+name  :  Trento
+address  :  Trento, Piazza Santa Maria Maggiore
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/9bc0ca6bdbebf919fb842221f27d444c.jpg
+name  :  Mercato settimanale a Mori
+startDate  :  2020-11-05T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-mori/
+name  :  Mori
+address  :  Mori, Piazza Malfatti
+latitude  :  45.851940
+longitude  :  10.977638
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-11-05T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/20c6101b163fa653cbe2e46529447ded.jpg
+name  :  Lupo Cup 420
+startDate  :  2020-11-05T09:00:00+0100
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/lupo-cup-420/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Vela Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-11-06T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a85f7c5ed855fe7c5fa6bbd7714419.jpg
+name  :  Mercato settimanale a Tesero
+startDate  :  2020-11-06T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-tesero/
+name  :  Tesero
+address  :  Tesero, Piazza C. Battisti
+latitude  :  46.289480
+longitude  :  11.511890
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8ffbaf6b1a3ed357a8ebbfc6ac9fa8f7.jpg
+name  :  Mercato settimanale a Capriana
+startDate  :  2020-11-06T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-capriana/
+name  :  Capriana
+address  :  Capriana, nel centro del paese
+latitude  :  46.263080
+longitude  :  11.339040
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-11-06T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/20c6101b163fa653cbe2e46529447ded.jpg
+name  :  Lupo Cup 420
+startDate  :  2020-11-06T09:00:00+0100
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/lupo-cup-420/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Vela Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a192d2e19d17f500eb29dc2917cc7155.jpg
+name  :  Mercato contadino Trento - P.Dante
+startDate  :  2020-11-07T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---pdante/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fdd12431c1e08c292fe7acb6d071ccc7.jpg
+name  :  Mercato settimanale a Varena
+startDate  :  2020-11-07T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-varena/
+name  :  Varena
+address  :  Ville di Fiemme, Varena, centro del paese
+latitude  :  46.305498
+longitude  :  11.457903
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/07d387c595b38f1bec038480a308fe2a.jpg
+name  :  Mercato settimanale ad Ala
+startDate  :  2020-11-07T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-ad-ala/
+name  :  Ala
+address  :  Ala, Via Anzelini
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-11-07T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/673ef2a8d12320bd3adc50c4c531ba59.jpg
+name  :  "Mercato d'Altri Tempi" a Rovereto
+startDate  :  2020-11-07T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-d-altri-tempi-a-rovereto/
+name  :  Rovereto
+address  :  Rovereto, centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/20c6101b163fa653cbe2e46529447ded.jpg
+name  :  Lupo Cup 420
+startDate  :  2020-11-07T09:00:00+0100
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/lupo-cup-420/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Vela Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-11-07T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/06eb692b5924f9a4435288ce8ecbba82.jpg
+name  :  Rovereto - Fortunato Depero
+startDate  :  2020-11-07T10:00:00+0100
+duration  :  PT2H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/rovereto---itinerari-deperiani/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: Casa Depero
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e8969a5f76fd4792b2ac8a2ca3bf9758.jpg
+name  :  Visita guidata: Museo della Guerra
+startDate  :  2020-11-07T11:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-museo-della-guerra/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-11-07T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/162ec8e3113f8d2c14cd691d588b37d3.jpg
+name  :  Arte sacra nel bosco
+startDate  :  2020-11-08
+url  :  https://www.trentino.com/it/calendario/dettagli/arte-sacra-nel-bosco/
+name  :  Terragnolo
+address  :  Terragnolo
+latitude  :  45.878470
+longitude  :  11.152020
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/541837cc0270c7466572da4765481929.jpg
+name  :  Foliage tra Click e Poesia
+startDate  :  2020-11-08T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/foliage-tra-click-e-poesia/
+name  :  Canal San Bovo
+address  :  Canal San Bovo
+latitude  :  46.155160
+longitude  :  11.732750
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-11-08T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5b46876f1d5f07575d6c15836c079177.jpg
+name  :  Mercato settimanale a Besenello
+startDate  :  2020-11-09T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-besenello/
+name  :  Besenello
+address  :  Besenello, Via Beseno
+latitude  :  45.942040
+longitude  :  11.109920
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cfdd4c14b2684b784a272648728294a8.jpg
+name  :  Mercato a Molina di Fiemme
+startDate  :  2020-11-09T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-molina-di-fiemme/
+name  :  Molina di Fiemme
+address  :  Castello Molina di Fiemme, Molina di Fiemme, Via Segheria 
+latitude  :  46.273134
+longitude  :  11.416961
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-11-10T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5abc2cf02d13a0939d78aba0af82144d.jpg
+name  :  Mercato settimanale a Brentonico
+startDate  :  2020-11-10T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-brentonico/
+name  :  Brentonico
+address  :  Brentonico, nel centro del paese
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/70a334412f2a1b0314f27aa562590dcb.jpg
+name  :  Mercato contadino Trento - Via Filzi
+startDate  :  2020-11-11T07:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---via-filzi/
+name  :  Trento
+address  :  Trento, Via Fabio Filzi
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a7018525a0bd62bb27dc964a99df85.jpg
+name  :  Mercato settimanale Riva del Garda
+startDate  :  2020-11-11T08:00:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Centro storico
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/977670007f01646b4ee52dec5d8fb32a.jpg
+name  :  Mercato a Castello di Fiemme
+startDate  :  2020-11-11T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-castello-di-fiemme/
+name  :  Castello di Fiemme
+address  :  Castello Molina di Fiemme, Castello di Fiemme, nel centro del paese
+latitude  :  46.279625
+longitude  :  11.434343
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-11-11T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/6fdaa91c91104ab48293fdae9049592c.jpg
+name  :  Mercato settimanale di Trento
+startDate  :  2020-11-12T07:15:00+0100
+duration  :  PT6H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-di-trento/
+name  :  Trento
+address  :  Trento, centro storico
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2059f70f84f5fbd73febf5e311400086.jpg
+name  :  Mercato dell'economia solidale
+startDate  :  2020-11-12T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-dell-economia-solidale/
+name  :  Trento
+address  :  Trento, Piazza Santa Maria Maggiore
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/9bc0ca6bdbebf919fb842221f27d444c.jpg
+name  :  Mercato settimanale a Mori
+startDate  :  2020-11-12T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-mori/
+name  :  Mori
+address  :  Mori, Piazza Malfatti
+latitude  :  45.851940
+longitude  :  10.977638
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c17884c17e7a343460b5f9b76abf44aa.jpg
+name  :  Mercato di Ziano di Fiemme
+startDate  :  2020-11-12T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-di-ziano-di-fiemme/
+name  :  Ziano di Fiemme
+address  :  Ziano di Fiemme, nel centro del paese
+latitude  :  46.286046
+longitude  :  11.562059
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-11-12T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-11-13T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a85f7c5ed855fe7c5fa6bbd7714419.jpg
+name  :  Mercato settimanale a Tesero
+startDate  :  2020-11-13T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-tesero/
+name  :  Tesero
+address  :  Tesero, Piazza C. Battisti
+latitude  :  46.289480
+longitude  :  11.511890
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8ffbaf6b1a3ed357a8ebbfc6ac9fa8f7.jpg
+name  :  Mercato settimanale a Capriana
+startDate  :  2020-11-13T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-capriana/
+name  :  Capriana
+address  :  Capriana, nel centro del paese
+latitude  :  46.263080
+longitude  :  11.339040
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-11-13T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/12e58fa8f906c86c4d9a01b70f35bac0.jpg
+name  :  Mercatino dei Gaudenti
+startDate  :  2020-11-14
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-dei-gaudenti/
+name  :  Trento
+address  :  Trento, Piazza Garzetti
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a192d2e19d17f500eb29dc2917cc7155.jpg
+name  :  Mercato contadino Trento - P.Dante
+startDate  :  2020-11-14T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---pdante/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fdd12431c1e08c292fe7acb6d071ccc7.jpg
+name  :  Mercato settimanale a Varena
+startDate  :  2020-11-14T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-varena/
+name  :  Varena
+address  :  Ville di Fiemme, Varena, centro del paese
+latitude  :  46.305498
+longitude  :  11.457903
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/07d387c595b38f1bec038480a308fe2a.jpg
+name  :  Mercato settimanale ad Ala
+startDate  :  2020-11-14T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-ad-ala/
+name  :  Ala
+address  :  Ala, Via Anzelini
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-11-14T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-11-14T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/98d5a59d125fdeef4ab14226b8705266.jpg
+name  :  Rovereto, città della seta
+startDate  :  2020-11-14T10:00:00+0100
+duration  :  PT2H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/rovereto-citta-della-seta/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: Piazza Podestà
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a3fe15dbc510bd265fcf94fe359f9875.jpg
+name  :  Visita guidata: Castello di Rovereto
+startDate  :  2020-11-14T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-castello-di-rovereto/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-11-14T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fac7d5934719218696d62da71fb63a31.jpg
+name  :  Mercato del Cerco Antico di Villa
+startDate  :  2020-11-15T08:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-del-cerco-antico-di-villa/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazza Riolfatti
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/541837cc0270c7466572da4765481929.jpg
+name  :  Foliage tra Click e Poesia
+startDate  :  2020-11-15T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/foliage-tra-click-e-poesia/
+name  :  Canal San Bovo
+address  :  Canal San Bovo
+latitude  :  46.155160
+longitude  :  11.732750
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/39cc9b28d83dbe9f37c35a7212448bd4.jpg
+name  :  Matinées in Casa Mozart
+startDate  :  2020-11-15T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/matinees-in-casa-mozart/
+name  :  Rovereto
+address  :  Rovereto, Casa Mozart
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-11-15T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5b46876f1d5f07575d6c15836c079177.jpg
+name  :  Mercato settimanale a Besenello
+startDate  :  2020-11-16T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-besenello/
+name  :  Besenello
+address  :  Besenello, Via Beseno
+latitude  :  45.942040
+longitude  :  11.109920
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cfdd4c14b2684b784a272648728294a8.jpg
+name  :  Mercato a Molina di Fiemme
+startDate  :  2020-11-16T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-molina-di-fiemme/
+name  :  Molina di Fiemme
+address  :  Castello Molina di Fiemme, Molina di Fiemme, Via Segheria 
+latitude  :  46.273134
+longitude  :  11.416961
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/443c2f630a2ceb5e477c23cfa9b56eb6.jpg
+name  :  Mercato a Tione di Trento
+startDate  :  2020-11-16
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-tione/
+name  :  Tione di Trento
+address  :  Tione di Trento, Via Roma
+latitude  :  46.035860
+longitude  :  10.728400
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-11-17T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5da0849c41edecc31ae25fdd50f45d1e.jpg
+name  :  Mercato a Predazzo
+startDate  :  2020-11-17T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-predazzo/
+name  :  Predazzo
+address  :  Predazzo, Piazza SS. Filippo e Giacomo
+latitude  :  46.312090
+longitude  :  11.600480
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5abc2cf02d13a0939d78aba0af82144d.jpg
+name  :  Mercato settimanale a Brentonico
+startDate  :  2020-11-17T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-brentonico/
+name  :  Brentonico
+address  :  Brentonico, nel centro del paese
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/70a334412f2a1b0314f27aa562590dcb.jpg
+name  :  Mercato contadino Trento - Via Filzi
+startDate  :  2020-11-18T07:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---via-filzi/
+name  :  Trento
+address  :  Trento, Via Fabio Filzi
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/75f84c054f7e9e5ee0268b17caea0df3.jpg
+name  :  Mercato settimanale Arco
+startDate  :  2020-11-18T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-arco/
+name  :  Arco
+address  :  Arco, Piazzale Foro Boario
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/977670007f01646b4ee52dec5d8fb32a.jpg
+name  :  Mercato a Castello di Fiemme
+startDate  :  2020-11-18T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-castello-di-fiemme/
+name  :  Castello di Fiemme
+address  :  Castello Molina di Fiemme, Castello di Fiemme, nel centro del paese
+latitude  :  46.279625
+longitude  :  11.434343
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-11-18T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/6fdaa91c91104ab48293fdae9049592c.jpg
+name  :  Mercato settimanale di Trento
+startDate  :  2020-11-19T07:15:00+0100
+duration  :  PT6H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-di-trento/
+name  :  Trento
+address  :  Trento, centro storico
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2059f70f84f5fbd73febf5e311400086.jpg
+name  :  Mercato dell'economia solidale
+startDate  :  2020-11-19T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-dell-economia-solidale/
+name  :  Trento
+address  :  Trento, Piazza Santa Maria Maggiore
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/9bc0ca6bdbebf919fb842221f27d444c.jpg
+name  :  Mercato settimanale a Mori
+startDate  :  2020-11-19T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-mori/
+name  :  Mori
+address  :  Mori, Piazza Malfatti
+latitude  :  45.851940
+longitude  :  10.977638
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-11-19T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-11-20T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a85f7c5ed855fe7c5fa6bbd7714419.jpg
+name  :  Mercato settimanale a Tesero
+startDate  :  2020-11-20T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-tesero/
+name  :  Tesero
+address  :  Tesero, Piazza C. Battisti
+latitude  :  46.289480
+longitude  :  11.511890
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8ffbaf6b1a3ed357a8ebbfc6ac9fa8f7.jpg
+name  :  Mercato settimanale a Capriana
+startDate  :  2020-11-20T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-capriana/
+name  :  Capriana
+address  :  Capriana, nel centro del paese
+latitude  :  46.263080
+longitude  :  11.339040
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-11-20T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a192d2e19d17f500eb29dc2917cc7155.jpg
+name  :  Mercato contadino Trento - P.Dante
+startDate  :  2020-11-21T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---pdante/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2778082d676daeb0a880c080d56767e0.jpg
+name  :  Mercatino delle Pulci di Arco
+startDate  :  2020-11-21T08:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-delle-pulci-arco/
+name  :  Arco
+address  :  Arco, in centro storico
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fdd12431c1e08c292fe7acb6d071ccc7.jpg
+name  :  Mercato settimanale a Varena
+startDate  :  2020-11-21T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-varena/
+name  :  Varena
+address  :  Ville di Fiemme, Varena, centro del paese
+latitude  :  46.305498
+longitude  :  11.457903
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/07d387c595b38f1bec038480a308fe2a.jpg
+name  :  Mercato settimanale ad Ala
+startDate  :  2020-11-21T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-ad-ala/
+name  :  Ala
+address  :  Ala, Via Anzelini
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-11-21T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-11-21T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e8969a5f76fd4792b2ac8a2ca3bf9758.jpg
+name  :  Visita guidata: Museo della Guerra
+startDate  :  2020-11-21T11:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-museo-della-guerra/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-11-21T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-11-22T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5b46876f1d5f07575d6c15836c079177.jpg
+name  :  Mercato settimanale a Besenello
+startDate  :  2020-11-23T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-besenello/
+name  :  Besenello
+address  :  Besenello, Via Beseno
+latitude  :  45.942040
+longitude  :  11.109920
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cfdd4c14b2684b784a272648728294a8.jpg
+name  :  Mercato a Molina di Fiemme
+startDate  :  2020-11-23T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-molina-di-fiemme/
+name  :  Molina di Fiemme
+address  :  Castello Molina di Fiemme, Molina di Fiemme, Via Segheria 
+latitude  :  46.273134
+longitude  :  11.416961
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-11-24T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/00a77508385f293208d1d12da9cd7987.jpg
+name  :  Mercato a Cavalese
+startDate  :  2020-11-24T08:00:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-cavalese/
+name  :  Cavalese
+address  :  Cavalese, Piazza Fiera - Viale Libertà
+latitude  :  46.290610
+longitude  :  11.460710
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5abc2cf02d13a0939d78aba0af82144d.jpg
+name  :  Mercato settimanale a Brentonico
+startDate  :  2020-11-24T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-brentonico/
+name  :  Brentonico
+address  :  Brentonico, nel centro del paese
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/70a334412f2a1b0314f27aa562590dcb.jpg
+name  :  Mercato contadino Trento - Via Filzi
+startDate  :  2020-11-25T07:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---via-filzi/
+name  :  Trento
+address  :  Trento, Via Fabio Filzi
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a7018525a0bd62bb27dc964a99df85.jpg
+name  :  Mercato settimanale Riva del Garda
+startDate  :  2020-11-25T08:00:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Centro storico
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/977670007f01646b4ee52dec5d8fb32a.jpg
+name  :  Mercato a Castello di Fiemme
+startDate  :  2020-11-25T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-castello-di-fiemme/
+name  :  Castello di Fiemme
+address  :  Castello Molina di Fiemme, Castello di Fiemme, nel centro del paese
+latitude  :  46.279625
+longitude  :  11.434343
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-11-25T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/6fdaa91c91104ab48293fdae9049592c.jpg
+name  :  Mercato settimanale di Trento
+startDate  :  2020-11-26T07:15:00+0100
+duration  :  PT6H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-di-trento/
+name  :  Trento
+address  :  Trento, centro storico
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2059f70f84f5fbd73febf5e311400086.jpg
+name  :  Mercato dell'economia solidale
+startDate  :  2020-11-26T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-dell-economia-solidale/
+name  :  Trento
+address  :  Trento, Piazza Santa Maria Maggiore
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/9bc0ca6bdbebf919fb842221f27d444c.jpg
+name  :  Mercato settimanale a Mori
+startDate  :  2020-11-26T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-mori/
+name  :  Mori
+address  :  Mori, Piazza Malfatti
+latitude  :  45.851940
+longitude  :  10.977638
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c17884c17e7a343460b5f9b76abf44aa.jpg
+name  :  Mercato di Ziano di Fiemme
+startDate  :  2020-11-26T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-di-ziano-di-fiemme/
+name  :  Ziano di Fiemme
+address  :  Ziano di Fiemme, nel centro del paese
+latitude  :  46.286046
+longitude  :  11.562059
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-11-26T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-11-27T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a85f7c5ed855fe7c5fa6bbd7714419.jpg
+name  :  Mercato settimanale a Tesero
+startDate  :  2020-11-27T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-tesero/
+name  :  Tesero
+address  :  Tesero, Piazza C. Battisti
+latitude  :  46.289480
+longitude  :  11.511890
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8ffbaf6b1a3ed357a8ebbfc6ac9fa8f7.jpg
+name  :  Mercato settimanale a Capriana
+startDate  :  2020-11-27T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-capriana/
+name  :  Capriana
+address  :  Capriana, nel centro del paese
+latitude  :  46.263080
+longitude  :  11.339040
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-11-27T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/80e290a6b89cc733341288e4697cf750.jpg
+name  :  Mercatino dei Gaudenti
+startDate  :  2020-11-28
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-dei-gaudenti_53622/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a192d2e19d17f500eb29dc2917cc7155.jpg
+name  :  Mercato contadino Trento - P.Dante
+startDate  :  2020-11-28T07:30:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-trento---pdante/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fdd12431c1e08c292fe7acb6d071ccc7.jpg
+name  :  Mercato settimanale a Varena
+startDate  :  2020-11-28T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-varena/
+name  :  Varena
+address  :  Ville di Fiemme, Varena, centro del paese
+latitude  :  46.305498
+longitude  :  11.457903
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/07d387c595b38f1bec038480a308fe2a.jpg
+name  :  Mercato settimanale ad Ala
+startDate  :  2020-11-28T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-ad-ala/
+name  :  Ala
+address  :  Ala, Via Anzelini
+latitude  :  45.756954
+longitude  :  11.003966
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-11-28T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-11-28T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a3fe15dbc510bd265fcf94fe359f9875.jpg
+name  :  Visita guidata: Castello di Rovereto
+startDate  :  2020-11-28T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-castello-di-rovereto/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-11-28T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-11-29T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5b46876f1d5f07575d6c15836c079177.jpg
+name  :  Mercato settimanale a Besenello
+startDate  :  2020-11-30T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-besenello/
+name  :  Besenello
+address  :  Besenello, Via Beseno
+latitude  :  45.942040
+longitude  :  11.109920
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/cfdd4c14b2684b784a272648728294a8.jpg
+name  :  Mercato a Molina di Fiemme
+startDate  :  2020-11-30T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-molina-di-fiemme/
+name  :  Molina di Fiemme
+address  :  Castello Molina di Fiemme, Molina di Fiemme, Via Segheria 
+latitude  :  46.273134
+longitude  :  11.416961
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-12-01T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/c1ca5553e1a069b6b8ad549b8f6d9780.jpg
+name  :  Storytime
+startDate  :  2020-12-01T17:00:00+0100
+duration  :  PT1H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/storytime/
+name  :  Arco
+address  :  Arco, Biblioteca Bruno Emmert
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/75f84c054f7e9e5ee0268b17caea0df3.jpg
+name  :  Mercato settimanale Arco
+startDate  :  2020-12-02T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-arco/
+name  :  Arco
+address  :  Arco, Piazzale Foro Boario
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-12-02T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-12-03T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-12-04T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-12-04T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-12-05T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/673ef2a8d12320bd3adc50c4c531ba59.jpg
+name  :  "Mercato d'Altri Tempi" a Rovereto
+startDate  :  2020-12-05T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-d-altri-tempi-a-rovereto/
+name  :  Rovereto
+address  :  Rovereto, centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-12-05T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/06eb692b5924f9a4435288ce8ecbba82.jpg
+name  :  Rovereto - Fortunato Depero
+startDate  :  2020-12-05T10:00:00+0100
+duration  :  PT2H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/rovereto---itinerari-deperiani/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: Casa Depero
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e8969a5f76fd4792b2ac8a2ca3bf9758.jpg
+name  :  Visita guidata: Museo della Guerra
+startDate  :  2020-12-05T11:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-museo-della-guerra/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-12-05T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/3b8f972a9f10962b2989d261af0ebc10.jpg
+name  :  Domenica al Museo - Riva
+startDate  :  2020-12-06T10:00:00+0100
+duration  :  PT8H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/domenica-al-museo/
+name  :  Riva del Garda
+address  :  Riva del Garda, Museo Alto Garda
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-12-06T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/443c2f630a2ceb5e477c23cfa9b56eb6.jpg
+name  :  Mercato a Tione di Trento
+startDate  :  2020-12-07
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-tione/
+name  :  Tione di Trento
+address  :  Tione di Trento, Via Roma
+latitude  :  46.035860
+longitude  :  10.728400
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ea969ef420dd12beb40bc458baa99112.jpg
+name  :  Fuochi d'artificio dal castello
+startDate  :  2020-12-07T21:15:00+0100
+duration  :  PT1H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/fuochi-d-artificio-dal-castello/
+name  :  Arco
+address  :  Arco, vista dal paese
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-12-08T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/17a7018525a0bd62bb27dc964a99df85.jpg
+name  :  Mercato settimanale Riva del Garda
+startDate  :  2020-12-09T08:00:00+0100
+duration  :  PT6H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Centro storico
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-12-09T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-12-10T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-12-11T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-12-11T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/12e58fa8f906c86c4d9a01b70f35bac0.jpg
+name  :  Mercatino dei Gaudenti
+startDate  :  2020-12-12
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-dei-gaudenti/
+name  :  Trento
+address  :  Trento, Piazza Garzetti
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-12-12T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/48f049a9e0160ef2af353b7e2f925e16.jpg
+name  :  Garda Trentino Xmas Trail
+startDate  :  2020-12-12T09:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/garda-trentino-xmas-trail/
+name  :  Torbole
+address  :  Nago Torbole, Torbole, Circolo Surf Torbole
+latitude  :  45.869360
+longitude  :  10.875540
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/d0b70c38606cf3f20fa50289cecf7067.jpg
+name  :  Free Ski Day - BrentonicoSki
+startDate  :  2020-12-12T09:00:00+0100
+duration  :  PT7H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/free-ski-day---brentonicoski/
+name  :  Brentonico
+address  :  Brentonico, area sciistica Brentonico Ski, Polsa
+latitude  :  45.818630
+longitude  :  10.957250
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-12-12T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/98d5a59d125fdeef4ab14226b8705266.jpg
+name  :  Rovereto, città della seta
+startDate  :  2020-12-12T10:00:00+0100
+duration  :  PT2H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/rovereto-citta-della-seta/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: Piazza Podestà
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a3fe15dbc510bd265fcf94fe359f9875.jpg
+name  :  Visita guidata: Castello di Rovereto
+startDate  :  2020-12-12T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-castello-di-rovereto/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-12-12T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-12-13T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-12-15T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/75f84c054f7e9e5ee0268b17caea0df3.jpg
+name  :  Mercato settimanale Arco
+startDate  :  2020-12-16T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-arco/
+name  :  Arco
+address  :  Arco, Piazzale Foro Boario
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-12-16T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-12-17T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/441b596cb29e969a00cc8459bd09b8be.jpeg
+name  :  Snowboard FIS World Cup Carezza
+startDate  :  2020-12-17T08:45:00+0100
+url  :  https://www.suedtirolerland.it/it/calendario/dettagli/snowboard-fis-world-cup-carezza/
+name  :  Carezza
+address  :  Nova Levante, Carezza, Pista Pra di Tori, area sciistica Carezza
+latitude  :  46.409517
+longitude  :  11.587336
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2fb58a6a501f4a103b7699c8ef09bca6.jpg
+name  :  Mercato contadino Riva del Garda
+startDate  :  2020-12-18T08:00:00+0100
+duration  :  PT5H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-contadino-riva-del-garda/
+name  :  Riva del Garda
+address  :  Riva del Garda, Via Roma
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/8e3870f488e654f8b3aaa1fcb44308a2.jpg
+name  :  Mercato settimanale a Villa Lagarina
+startDate  :  2020-12-18T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-villa-lagarina/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazzetta Scrinzi
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da94bf3253ce6f336c56ac4a39134374.jpg
+name  :  Coppa Europa Sci Alpino
+startDate  :  2020-12-18T14:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/coppa-europa-sci-alpino/
+name  :  Pozza di Fassa
+address  :  San Giovanni di Fassa - Sèn Jan, Pozza di Fassa, Ski Stadium Aloch 
+latitude  :  46.430320
+longitude  :  11.692240
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/2778082d676daeb0a880c080d56767e0.jpg
+name  :  Mercatino delle Pulci di Arco
+startDate  :  2020-12-19T08:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-delle-pulci-arco/
+name  :  Arco
+address  :  Arco, in centro storico
+latitude  :  45.917450
+longitude  :  10.881330
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/5e963aec24038dbfe2542d7130a61436.jpg
+name  :  Mercato settimanale a Storo
+startDate  :  2020-12-19T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-storo/
+name  :  Storo
+address  :  Storo, Via Roma - Piazza Municipio
+latitude  :  45.849300
+longitude  :  10.578280
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/da6798790d549914cd4dc8780458f1ad.jpg
+name  :  Visita: Castello del Buonconsiglio
+startDate  :  2020-12-19T10:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-castello-del-buonconsiglio/
+name  :  Trento
+address  :  Trento, ritrovo: ufficio informazioni
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/e8969a5f76fd4792b2ac8a2ca3bf9758.jpg
+name  :  Visita guidata: Museo della Guerra
+startDate  :  2020-12-19T11:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-museo-della-guerra/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ca1c3a47adc5a40ca94bd6efb70396d2.jpg
+name  :  Visita guidata: centro storico Trento
+startDate  :  2020-12-19T15:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-al-duomo-ed-al-centro-storico-di-trento/
+name  :  Trento
+address  :  Trento, ritrovo ufficio Informazioni, Piazza Dante 24
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/fac7d5934719218696d62da71fb63a31.jpg
+name  :  Mercato del Cerco Antico di Villa
+startDate  :  2020-12-20T08:00:00+0100
+duration  :  PT9H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-del-cerco-antico-di-villa/
+name  :  Villa Lagarina
+address  :  Villa Lagarina, Piazza Riolfatti
+latitude  :  45.917270
+longitude  :  11.031510
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/39cc9b28d83dbe9f37c35a7212448bd4.jpg
+name  :  Matinées in Casa Mozart
+startDate  :  2020-12-20T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/matinees-in-casa-mozart/
+name  :  Rovereto
+address  :  Rovereto, Casa Mozart
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-12-20T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/443c2f630a2ceb5e477c23cfa9b56eb6.jpg
+name  :  Mercato a Tione di Trento
+startDate  :  2020-12-21
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-a-tione/
+name  :  Tione di Trento
+address  :  Tione di Trento, Via Roma
+latitude  :  46.035860
+longitude  :  10.728400
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-12-22T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-12-23T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-12-24T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a92c3edcf92d4b426d4da7624420dc0e.jpg
+name  :  Santa Messa di Natale
+startDate  :  2020-12-25T08:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/santa-messa-di-natale_54419/
+name  :  Moena
+address  :  Moena, chiesa parrocchiale
+latitude  :  46.376170
+longitude  :  11.661470
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/80e290a6b89cc733341288e4697cf750.jpg
+name  :  Mercatino dei Gaudenti
+startDate  :  2020-12-26
+url  :  https://www.trentino.com/it/calendario/dettagli/mercatino-dei-gaudenti_53622/
+name  :  Trento
+address  :  Trento, Piazza Dante
+latitude  :  46.067650
+longitude  :  11.121260
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/a3fe15dbc510bd265fcf94fe359f9875.jpg
+name  :  Visita guidata: Castello di Rovereto
+startDate  :  2020-12-26T11:00:00+0100
+url  :  https://www.trentino.com/it/calendario/dettagli/visita-guidata-castello-di-rovereto/
+name  :  Rovereto
+address  :  Rovereto, ritrovo: presso il Museo della Guerra
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/51e7d283c14b20bc57ccb1e90d8d5aea.jpg
+name  :  Al museo "Little Mart"
+startDate  :  2020-12-27T15:00:00+0100
+duration  :  PT1H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/al-museo-con-mamma-e-papa/
+name  :  Rovereto
+address  :  Rovereto, MART - Museo d’Arte Moderna e Contemporanea
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/295bb63c1d7b6449c01fcd361ff3c4a3.jpg
+name  :  Mercato settimanale del martedì
+startDate  :  2020-12-29T08:00:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-del-martedi/
+name  :  Rovereto
+address  :  Rovereto, per le vie e le piazze del centro storico
+latitude  :  45.890910
+longitude  :  11.039970
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/f41df79d6946f2dd287e99850521f603.jpg
+name  :  Mercato settimanale Pietramurata 
+startDate  :  2020-12-30T08:30:00+0100
+duration  :  PT5H00M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-pietramurata/
+name  :  Dro
+address  :  Dro, Pietramurata, Piazza Mercato
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/ef4102a1bb7c0351bf4daaf69611668f.jpg
+name  :  Mercato settimanale a Dro 
+startDate  :  2020-12-31T08:30:00+0100
+duration  :  PT4H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mercato-settimanale-a-dro-/
+name  :  Dro
+address  :  Dro, Piazza Repubblica 
+latitude  :  45.961502
+longitude  :  10.911098
+
+==================
+
+img :  //images2.trentino.com/images/events/main/225x225/d7e83a0f7c37a18ef8f158fb1b6cdc81.jpg
+name  :  Mezzanotte Magica sul Lago 
+startDate  :  2020-12-31T23:55:00+0100
+duration  :  PT0H30M
+url  :  https://www.trentino.com/it/calendario/dettagli/mezzanotte-magica-sul-lago-/
+name  :  Riva del Garda
+address  :  Riva del Garda, Lungolago Riva del Garda 
+latitude  :  45.885900
+longitude  :  10.841360
+
+==================
