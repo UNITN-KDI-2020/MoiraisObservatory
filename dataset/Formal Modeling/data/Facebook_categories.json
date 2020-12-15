@@ -1,0 +1,74 @@
+[
+    {
+        "ID": 1,
+        "Category": "Crafts"
+    },
+    {
+        "ID": 2,
+        "Category": "Online"
+    },
+    {
+        "ID": 3,
+        "Category": "Other"
+    },
+    {
+        "ID": 4,
+        "Category": "Live Video"
+    },
+    {
+        "ID": 5,
+        "Category": "Sports"
+    },
+    {
+        "ID": 6,
+        "Category": "Film"
+    },
+    {
+        "ID": 7,
+        "Category": "Documentary film"
+    },
+    {
+        "ID": 8,
+        "Category": "European cinema"
+    },
+    {
+        "ID": 9,
+        "Category": "Networking"
+    },
+    {
+        "ID": 10,
+        "Category": "Art"
+    },
+    {
+        "ID": 11,
+        "Category": "Kid Friendly"
+    },
+    {
+        "ID": 12,
+        "Category": "Drawing"
+    },
+    {
+        "ID": 13,
+        "Category": "Art class"
+    },
+    {
+        "ID": 14,
+        "Category": "Party"
+    },
+    {
+        "ID": 15,
+        "Category": "Causes"
+    },
+    {
+        "ID": 16,
+        "Category": "Drinks"
+    },
+    {
+        "ID": 17,
+        "Category": "Games"
+    },
+    {
+        "ID": 18,
+        "Category": "Fitness"
+    }
+]
