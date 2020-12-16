@@ -69,7 +69,7 @@
         "To time": "2019-12-04T12:30:00+01:00",
         "Period": "4 dicembre 2019",
         "Orario": "10.30 - 12.30",
-        "durata":"120"
+        "durata":"120",
         "Tags": [
             "Festival della famiglia",
             "Conferenze FF 2019"
@@ -90,7 +90,7 @@
         "To time": "2019-12-06T18:00:00+01:00",
         "Period": "6 dicembre 2019",
         "Orario": "4.00 - 15.00",
-        "durata": "60"
+        "durata": "60",
         "Tags": [
             "Festival della famiglia",
             "Conferenze FF 2019"
@@ -111,7 +111,7 @@
         "To time": "2019-12-05T13:00:00+01:00",
         "Period": "5 dicembre 2019",
         "Orario": "10.00 - 13.00",
-        "durata":"180"
+        "durata":"180",
         "Tags": [
             "Festival della famiglia",
             "Conferenze FF 2019"
@@ -237,7 +237,7 @@
         "To time": "2019-12-05T17:30:00+01:00",
         "Period": "5 dicembre 2019",
         "Orario": "9.00 - 17.30",
-        "durata":"510"
+        "durata":"510",
         "Tags": [
             "Festival della famiglia",
             "Conferenze FF 2019"
@@ -386,7 +386,7 @@
         "To time": "2019-12-04T15:30:00+01:00",
         "Period": "4 dicembre 2019",
         "Orario": "14.00 - 15.30",
-        "durata":"90"
+        "durata":"90",
         "Tags": [
             "Festival della famiglia",
             "Attivit\u00e0 famiglie FF 2019"
