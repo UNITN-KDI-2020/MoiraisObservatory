@@ -1,0 +1,38 @@
+{
+  "query": "classes 'event'",
+  "nextPageQuery": "http://www.trentinofamiglia.it/api/opendata/v2/content/search/classes+%27event%27+offset+30",
+  "totalCount": 45,
+  "searchHits": [
+    {
+      "metadata": {
+        "id": 48703,
+        "remoteId": "5c6924dd87b3b4b7513e5f79bea865dc",
+        "classIdentifier": "event",
+        "class": "http://www.trentinofamiglia.it/api/opendata/v2/classes/event",
+        "ownerId": 2120,
+        "ownerName": {
+          "ita-IT": "Chiara Sartori"
+        },
+        "mainNodeId": 45277,
+        "sectionIdentifier": "standard",
+        "stateIdentifiers": [
+          "ez_lock.not_locked",
+          "albotelematico.visibile",
+          "piano_comunale.draft"
+        ],
+        "published": "2019-11-06T14:08:52+01:00",
+        "modified": "2019-11-19T15:04:05+01:00",
+        "languages": [
+          "ita-IT"
+        ],
+        "name": {
+          "ita-IT": "Occupazione femminile e natalità"
+        },
+        "parentNodes": [
+          45275
+        ],
+        "link": "http://www.trentinofamiglia.it/api/opendata/v2/content/read/48703"
+      }
+    }
+  ]
+}
