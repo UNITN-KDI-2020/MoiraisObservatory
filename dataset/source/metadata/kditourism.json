@@ -1,0 +1,35 @@
+{
+   "@context": {
+     "creator": {
+       "@id": "kditourism",
+       "@type": "@id"
+     },
+     "creationDate": {
+       "@id": "2020-10-12",
+       "@type": "@id"
+     },
+     "KDIYear": "2020",
+     "members": [
+       {
+         "ProjectManager": "Erdenebileg Byambadorj",
+         "DataScientist": [
+           "Eva Agrawal",
+           "Erdenebileg Byambadorj"
+         ],
+         "DomainExpert": "Dinnah",
+         "KnowledgeEngineer": "Erdenebileg Byambadorj"
+       }
+     ],
+     "Codebook": {
+       "@id": "kditourism.cd",
+       "@type": "@id"
+     },
+     "Demo": "kditourism.d",
+     "DemoSlides": "kditourism.ds",
+     "ProjectSlides": "kditourism.ps",
+     "Repository": {
+       "@id": "https://github.com/UNITN-KDI-2020/kditourism",
+       "@type": "@id"
+     }
+   }
+ }
