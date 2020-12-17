@@ -1,0 +1,150 @@
+[
+    {
+        "ID": 1,
+        "Category": "cultura"
+    },
+    {
+        "ID": 2,
+        "Category": "incontri"
+    },
+    {
+        "ID": 3,
+        "Category": "sport"
+    },
+    {
+        "ID": 4,
+        "Category": "arte."
+    },
+    {
+        "ID": 5,
+        "Category": "musei"
+    },
+    {
+        "ID": 6,
+        "Category": "cinema"
+    },
+    {
+        "ID": 7,
+        "Category": "montagna"
+    },
+    {
+        "ID": 8,
+        "Category": "mascherine. riciclo"
+    },
+    {
+        "ID": 9,
+        "Category": "riuso"
+    },
+    {
+        "ID": 10,
+        "Category": "Sandro Formica"
+    },
+    {
+        "ID": 11,
+        "Category": "economia"
+    },
+    {
+        "ID": 12,
+        "Category": "famiglia"
+    },
+    {
+        "ID": 13,
+        "Category": "alberi"
+    },
+    {
+        "ID": 14,
+        "Category": "ambiente"
+    },
+    {
+        "ID": 15,
+        "Category": "ora legale"
+    },
+    {
+        "ID": 16,
+        "Category": "archeologia"
+    },
+    {
+        "ID": 17,
+        "Category": "attivit\u00e0"
+    },
+    {
+        "ID": 18,
+        "Category": "storia"
+    },
+    {
+        "ID": 19,
+        "Category": "estate"
+    },
+    {
+        "ID": 20,
+        "Category": "natura"
+    },
+    {
+        "ID": 21,
+        "Category": "giochi"
+    },
+    {
+        "ID": 22,
+        "Category": "muse"
+    },
+    {
+        "ID": 23,
+        "Category": "quarantena"
+    },
+    {
+        "ID": 24,
+        "Category": "biblioteche"
+    },
+    {
+        "ID": 25,
+        "Category": "libri"
+    },
+    {
+        "ID": 26,
+        "Category": "biblioteca"
+    },
+    {
+        "ID": 27,
+        "Category": "bambini"
+    },
+    {
+        "ID": 28,
+        "Category": "societ\u00e0"
+    },
+    {
+        "ID": 29,
+        "Category": "famiglie"
+    },
+    {
+        "ID": 30,
+        "Category": "comune"
+    },
+    {
+        "ID": 31,
+        "Category": "trento"
+    },
+    {
+        "ID": 32,
+        "Category": "coronavisrus"
+    },
+    {
+        "ID": 33,
+        "Category": "scienza"
+    },
+    {
+        "ID": 34,
+        "Category": "social"
+    },
+    {
+        "ID": 35,
+        "Category": "scuole"
+    },
+    {
+        "ID": 36,
+        "Category": "arte"
+    },
+    {
+        "ID": 37,
+        "Category": "festival"
+    }
+]

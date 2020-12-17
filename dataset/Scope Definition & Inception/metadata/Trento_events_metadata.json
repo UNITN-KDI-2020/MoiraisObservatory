@@ -1,0 +1,38 @@
+{
+   "query": "classes 'event'",
+   "nextPageQuery": "http://www.comune.trento.it/api/opendata/v2/content/search/classes+%27event%27+offset+30",
+   "totalCount": 108,
+   "searchHits": [
+      {
+         "metadata": {
+            "id": 735307,
+            "remoteId": "e51b5638b658de17f9d0867eb10f7a2f",
+            "classIdentifier": "event",
+            "class": "http://www.comune.trento.it/api/opendata/v2/classes/event",
+            "ownerId": 206970,
+            "ownerName": {
+               "ita-IT": "Pisoni Roberto (admin) "
+            },
+            "mainNodeId": 713049,
+            "sectionIdentifier": "aperto_a_tutti",
+            "stateIdentifiers": [
+               "moderazione.no_moderazione",
+               "publishing.undefined",
+               "booking.in_attesa_di_approvazione"
+            ],
+            "published": "2013-04-05T08:50:00+02:00",
+            "modified": "2013-04-05T08:54:22+02:00",
+            "languages": [
+               "ita-IT"
+            ],
+            "name": {
+               "ita-IT": "L'equilibrio della terra"
+            },
+            "parentNodes": [
+               203977
+            ],
+            "link": "http://www.comune.trento.it/api/opendata/v2/content/read/735307"
+         }
+      }
+   ]
+}

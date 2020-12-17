@@ -1,0 +1,22 @@
+[
+    {
+        "ID": 1,
+        "Category": null
+    },
+    {
+        "ID": 2,
+        "Category": "Feste, mercati e fiere"
+    },
+    {
+        "ID": 3,
+        "Category": "Iniziative varie"
+    },
+    {
+        "ID": 4,
+        "Category": "Incontri, convegni e conferenze"
+    },
+    {
+        "ID": 5,
+        "Category": "Mostre"
+    }
+]

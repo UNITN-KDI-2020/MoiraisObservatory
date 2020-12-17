@@ -1,0 +1,30 @@
+[
+    {
+        "ID": 1,
+        "Category": "Day Trips"
+    },
+    {
+        "ID": 2,
+        "Category": "Climbing"
+    },
+    {
+        "ID": 3,
+        "Category": "Mountain Bike Tours"
+    },
+    {
+        "ID": 4,
+        "Category": "Yoga Classes"
+    },
+    {
+        "ID": 5,
+        "Category": "Nature and Wildlife"
+    },
+    {
+        "ID": 6,
+        "Category": "Hiking"
+    },
+    {
+        "ID": 7,
+        "Category": "Extreme"
+    }
+]
