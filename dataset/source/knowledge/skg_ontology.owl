@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://vocab.gtfs.org/terms#"
+     xml:base="http://vocab.gtfs.org/terms"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:dct="http://purl.org/dc/terms/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:gtfs="http://vocab.gtfs.org/terms#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:schema="http://schema.org/"
+     xmlns:status="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+     xmlns:transit="http://vocab.org/transit/terms/">
+    <owl:Ontology rdf:about="http://vocab.gtfs.org/terms#">
+        <dct:creator>
+            <rdf:Description/>
+        </dct:creator>
+        <dct:creator>
+            <rdf:Description/>
+        </dct:creator>
+        <dct:description xml:lang="es">Esta ontología es una traducción de la Especificación General de Feeds de Transporte Público a URIs. El objetivo es crear una plataforma de intercambio donde el modelo Linked GTFS pueda usarse para obtener los datos correctos en el formato adecuado. Para la especificación semántica de clases y propiedades, visite https://developers.google.com/transit/gtfs/reference.</dct:description>
+        <dct:description xml:lang="en">This ontology is a translation of the General Transit Feed Specification towards URIs. Its intended use is creating an exchange platform where the Linked GTFS model can be used as a start to get the right data into the right format. For semantics of the classes and properties, see https://developers.google.com/transit/gtfs/reference.</dct:description>
+        <vann:preferredNamespacePrefix>gtfs</vann:preferredNamespacePrefix>
+        <vann:preferredNamespaceUri>http://vocab.gtfs.org/terms#</vann:preferredNamespaceUri>
+        <rdfs:label xml:lang="es">Especificación General de Feeds de Transporte Público</rdfs:label>
+        <rdfs:label xml:lang="en">General Transit Feed Specification</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://developers.google.com/transit/gtfs/reference"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://creativecommons.org/ns#license -->
+
+    <owl:AnnotationProperty rdf:about="http://creativecommons.org/ns#license"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/hasFormat -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/hasFormat"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/rights -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/rights"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespacePrefix -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespacePrefix"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespaceUri -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri"/>
+    
+
+
+    <!-- http://vocab.gtfs.org/terms#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://vocab.gtfs.org/terms#comment">
+        <rdfs:comment xml:lang="en">A comment on the relation between the RDFS ontology and the CSV specification.</rdfs:comment>
+        <rdfs:comment xml:lang="es">Un comentario entre la relación entre la ontología RDFS y la especificación CSV.</rdfs:comment>
+        <rdfs:label xml:lang="es">Comentario de enlace</rdfs:label>
+        <rdfs:label xml:lang="en">Mapping comment</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://vocab.gtfs.org/terms#fareUrl -->
+
+    <owl:AnnotationProperty rdf:about="http://vocab.gtfs.org/terms#fareUrl">
+        <rdfs:comment xml:lang="es">La URL de una página web que permite a un usuario comprar online billetes u otros productos de transporte de esa empresa</rdfs:comment>
+        <rdfs:comment xml:lang="en">The URL of a web page that allows a rider to purchase tickets or other fare instruments for that agency online</rdfs:comment>
+        <rdfs:label xml:lang="es">URL de tarifas</rdfs:label>
+        <rdfs:label xml:lang="en">fare URL</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://developers.google.com/transit/gtfs/reference#agency_fields"/>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:subPropertyOf rdf:resource="http://xmlns.com/foaf/0.1/page"/>
+        <rdfs:domain rdf:resource="http://vocab.gtfs.org/terms#Agency"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://vocab.gtfs.org/terms#longName -->
+
+    <owl:AnnotationProperty rdf:about="http://vocab.gtfs.org/terms#longName">
+        <rdfs:comment xml:lang="en">Long name given to a route</rdfs:comment>
+        <rdfs:comment xml:lang="es">Nombre completo de una ruta</rdfs:comment>
+        <rdfs:label xml:lang="en">Long name</rdfs:label>
+        <rdfs:label xml:lang="es">nombre completo</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://developers.google.com/transit/gtfs/examples/display-to-users#RouteLongName"/>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/title"/>
+        <rdfs:domain rdf:resource="http://vocab.gtfs.org/terms#Route"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://vocab.gtfs.org/terms#shortName -->
+
+    <owl:AnnotationProperty rdf:about="http://vocab.gtfs.org/terms#shortName">
+        <rdfs:comment xml:lang="es">Nombre corto dado a una ruta o viaje</rdfs:comment>
+        <rdfs:comment xml:lang="en">Short name given to a route or a trip</rdfs:comment>
+        <rdfs:label xml:lang="en">Short name</rdfs:label>
+        <rdfs:label xml:lang="es">nombre corto</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://developers.google.com/transit/gtfs/examples/display-to-users#RouteShortName"/>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/title"/>
+        <rdfs:domain rdf:resource="http://vocab.gtfs.org/terms#Route"/>
+        <rdfs:domain rdf:resource="http://vocab.gtfs.org/terms#Trip"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2003/06/sw-vocab-status/ns#term_status -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2003/06/sw-vocab-status/ns#term_status"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/mbox -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/mbox"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/page -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/page"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/primaryTopic -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/primaryTopic"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#date -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#date"/>
+    <rdf:Description>
+        <foaf:mbox>Pieter.Colpaert@UGent.be</foaf:mbox>
+        <foaf:name>Pieter Colpaert</foaf:name>
+    </rdf:Description>
+    <rdf:Description>
+        <foaf:mbox>abyrd@conveyal.com</foaf:mbox>
+        <foaf:name>Andrew Byrd</foaf:name>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms">
+        <dct:rights>Copyright 2014 - Open Transport contributors</dct:rights>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-23</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-27</dct:modified>
+        <dct:hasFormat rdf:resource="https://raw.githubusercontent.com/OpenTransport/vocabulary/master/gtfs/gtfs.ttl"/>
+        <foaf:primaryTopic rdf:resource="http://vocab.gtfs.org/terms#"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#BeforeBoarding">
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">La tarifa se debe pagar antes de subir a bordo</rdfs:comment>
+        <rdfs:label xml:lang="en">Before Boarding</rdfs:label>
+        <rdfs:label xml:lang="es">Antes de subir a bordo</rdfs:label>
+        <rdfs:comment xml:lang="en">Ticket should be bought before boarding</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Bus">
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">Used for short- and long-distance bus routes.</rdfs:comment>
+        <rdfs:label xml:lang="en">Bus</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">Utilizado para rutas en autobús de corta y larga distancia.</rdfs:comment>
+        <rdfs:label xml:lang="es">Autobús</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#CableCar">
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Cable car</rdfs:label>
+        <rdfs:comment xml:lang="en">Used for street-level cable cars where the cable runs beneath the car.</rdfs:comment>
+        <rdfs:comment xml:lang="es">Utilizado para funiculares en superficie en donde el cable pasa por debajo del vehículo.</rdfs:comment>
+        <rdfs:label xml:lang="es">Funicular</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#CheckParentStation">
+        <comment xml:lang="es">Corresponde a wheelchair_accessible con valor 0.</comment>
+        <comment xml:lang="en">Corresponds with wheelchair_accessible being 0.</comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">Compruebe la estación (matriz) para información de accesibilidad.</rdfs:comment>
+        <rdfs:label xml:lang="es">Compruebe la estación matriz</rdfs:label>
+        <rdfs:label xml:lang="en">Check the parent station</rdfs:label>
+        <rdfs:comment xml:lang="en">Check the (parent) station for accessibility information.</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#EnsuredTransfer">
+        <rdfs:comment xml:lang="es">Este es un punto de transbordo sincronizado entre dos rutas. El vehículo que sale espera al que llega, dejando tiempo suficiente para que un pasajero haga transbordo entre rutas.</rdfs:comment>
+        <rdfs:label xml:lang="en">Ensured Transfer</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="es">Punto de transbordo sincronizado</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">This is a timed transfer point between two routes. The departing vehicle is expected to wait for the arriving one, with sufficient time for a passenger to transfer between routes.</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Ferry">
+        <rdfs:comment xml:lang="en">Used for short- and long-distance boat service.</rdfs:comment>
+        <rdfs:comment xml:lang="es">Utilizado para servicio de transporte público fluvial o marítimo de corta y larga distancia.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Ferry</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Ferry, transbordador</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Funicular">
+        <rdfs:comment xml:lang="es">Cualquier sistema por raíl diseñado para recorridos con una gran inclinación.</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Funicular</rdfs:label>
+        <rdfs:label xml:lang="es">Funicular</rdfs:label>
+        <rdfs:comment xml:lang="en">Any rail system designed for steep inclines.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Gondola">
+        <rdfs:label xml:lang="es">Teleférico, telecabina</rdfs:label>
+        <rdfs:comment xml:lang="en">Gondola, Suspended cable car. Typically used for aerial cable cars where the car is suspended from the cable.</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">Normalmente se utiliza para medios de transporte público por cable en donde el vehículo queda suspendido de un cable.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Gondola, Suspended cable car</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#LightRail">
+        <rdfs:comment xml:lang="en">Any light rail or street level system within a metropolitan area.</rdfs:comment>
+        <rdfs:comment xml:lang="es">Cualquier metro ligero o sistema ferroviario en superficie dentro de un área metropolitana.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Tram, Streetcar, Light rail</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Tranvía, metro ligero</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#MinimumTimeTransfer">
+        <rdfs:label xml:lang="es">Mínimo tiempo de transbordo</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Minimum Time Transfer</rdfs:label>
+        <rdfs:comment xml:lang="es">Este transbordo requiere una cantidad mínima de tiempo entre la llegada y la salida para garantizar la conexión. El tiempo necesario para el transbordo se especifica mediante min_transfer_time</rdfs:comment>
+        <rdfs:comment xml:lang="en">This transfer requires a minimum amount of time between arrival and departure to ensure a connection. The time required to transfer is specified by gtfs:minimumTransferTime</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#MustCoordinateWithDriver">
+        <rdfs:label xml:lang="en">Must coordinate with driver to arrange pickup or drop off</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Se debe pedir al conductor que pare.</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#MustPhone">
+        <rdfs:label xml:lang="es">Se debe llamar a la empresa para organizar la parada.</rdfs:label>
+        <rdfs:label xml:lang="en">Must phone agency to arrange pickup or drop off</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#NoTransfer">
+        <rdfs:label xml:lang="es">Sin transbordo</rdfs:label>
+        <rdfs:comment xml:lang="es">No es posible realizar transbordos entre rutas en esta ubicación.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">No Transfer</rdfs:label>
+        <rdfs:comment xml:lang="en">Transfers are not possible between routes at this location.</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#NoTransfersAllowed">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">Indica que el pasajero debe comprar un nuevo billete para realizar un transbordo</rdfs:comment>
+        <rdfs:label xml:lang="en">No transfers allowed</rdfs:label>
+        <rdfs:label xml:lang="es">No se permiten transbordos</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">Indicate that a passenger should buy a new ticket when transferring</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#NotAvailable">
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Pickup or drop off not available</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Sin parada disponible</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#NotWheelchairAccessible">
+        <rdfs:label xml:lang="es">No accesible para silla de ruedas</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <comment xml:lang="en">Corresponds to a wheelchair_accessible column being 2</comment>
+        <rdfs:comment xml:lang="en">No riders in wheelchairs can be accommodated on this trip or wheelchair boarding is not possible at this stop and/or there exists no accessible path from outside the station to the specific stop.</rdfs:comment>
+        <comment xml:lang="es">Corresponde a wheelchair_accessible con valor 2</comment>
+        <rdfs:label xml:lang="en">Not wheelchair accessible</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">Pasajeros en silla de ruedas no pueden acceder a este viaje o el acceso con silla de ruedas no es posible en esta parada y/o no hay una ruta accesible desde el exterior de la estación hasta la parada.</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#OnBoard">
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="es">La tarifa se paga a bordo</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">On Board</rdfs:label>
+        <rdfs:label xml:lang="es">A bordo</rdfs:label>
+        <rdfs:comment xml:lang="en">Fare should be bought on board</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#OneTransfersAllowed">
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">One transfer allowed</rdfs:label>
+        <rdfs:comment xml:lang="en">Indicate that a passenger should buy a new ticket when transferring a second time</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Un transbordo permitido</rdfs:label>
+        <rdfs:comment xml:lang="es">Indica que el pasajero puede hacer un transbordo con su billete</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Rail">
+        <rdfs:comment xml:lang="en">Used for intercity or long-distance travel.</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Rail</rdfs:label>
+        <rdfs:comment xml:lang="es">Utilizado para viajes de cercanías, interurbanos o de larga distancia.</rdfs:comment>
+        <rdfs:label xml:lang="es">Tren</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#RecommendedTransfer">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">This is a recommended transfer point between two routes</rdfs:comment>
+        <rdfs:label xml:lang="en">Recommended Transfer</rdfs:label>
+        <rdfs:label xml:lang="es">Punto de transbordo recomendado</rdfs:label>
+        <rdfs:comment xml:lang="es">Este es un punto de transbordo recomendado entre dos rutas</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Regular">
+        <rdfs:label xml:lang="en">Regularly scheduled pickup or drop off</rdfs:label>
+        <comment xml:lang="es">Si no se incluye pickup_type o drop_off_type en stop_times.txt, mapee a este concepto.</comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <comment xml:lang="en">If no pickup_type or drop_off_type given in stop_times.txt, map to this one.</comment>
+        <rdfs:label xml:lang="es">Parada programada regularmente</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#Subway">
+        <rdfs:comment xml:lang="es">Cualquier sistema ferroviario subterráneo dentro de un área metropolitana.</rdfs:comment>
+        <rdfs:label xml:lang="en">Subway, Metro</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Subterráneo, metro</rdfs:label>
+        <rdfs:comment xml:lang="en">Any underground rail system within a metropolitan area.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#TwoTransfersAllowed">
+        <rdfs:comment xml:lang="es">Indica que el pasajero puede hacer dos transbordos con su billete</rdfs:comment>
+        <rdfs:label xml:lang="es">Dos transbordos permitidos</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Two transfers allowed</rdfs:label>
+        <rdfs:comment xml:lang="en">Indicate that a passenger should buy a new ticket when transferring for the third time</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#UnlimitedTransfersAllowed">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Unlimited transfers allowed</rdfs:label>
+        <rdfs:comment xml:lang="es">Indica que el billete permite una cantidad de transbordos ilimitada</rdfs:comment>
+        <rdfs:comment xml:lang="en">Indicate that unlimited transfers are permitted</rdfs:comment>
+        <rdfs:label xml:lang="es">Transbordos ilimitados</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#WheelchairAccessible">
+        <rdfs:comment xml:lang="es">Indica que el vehículo usado en este viaje es accesible para, al menos, un pasajero en silla de ruedas, o indica que la parada específica está habilitada para sillas de ruedas, que algunos viajes desde esta parada son accesibles para silla de ruedas y si esta parada tiene una estación matriz, que hay alguna ruta accesible desde el exterior de la estación hasta la parada.</rdfs:comment>
+        <rdfs:label xml:lang="en">Wheelchair accessible</rdfs:label>
+        <comment xml:lang="es">Corresponde a wheelchair_accessible con valor 1</comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="es">Accesible para silla de ruedas</rdfs:label>
+        <rdfs:comment xml:lang="en">Indicates that the vehicle being used on this particular trip can accommodate at least one rider in a wheelchair, or identifies that wheelchair boardings are possible from the specified stop, some trips at this stop are accessible by wheelchair and if this stop has a parentStation, there exists some accessible path from outside the station to the specific stop.</rdfs:comment>
+        <comment xml:lang="en">Corresponds to a wheelchair_accessible column being 1</comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#agency">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="es">Enlaza a una agencia de la que este concepto es parte.</rdfs:comment>
+        <rdfs:comment xml:lang="en">links to an agency that this is part of.</rdfs:comment>
+        <rdfs:label xml:lang="es">empresa</rdfs:label>
+        <rdfs:label xml:lang="en">agency</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#code">
+        <rdfs:comment xml:lang="en">A gtfs:code predicate defines the stop code for a stop.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:seeAlso rdf:resource="https://developers.google.com/transit/gtfs/reference#stops_fields"/>
+        <comment xml:lang="en">This is the stop_code field</comment>
+        <rdfs:label xml:lang="en">Stop Code</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#destinationStop">
+        <rdfs:comment xml:lang="en">Link to gtfs:Stop to go to</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <comment xml:lang="es">Conectado a to_stop_id en transfers.txt</comment>
+        <rdfs:label xml:lang="es">parada de destino</rdfs:label>
+        <rdfs:comment xml:lang="es">Enlace al gtfs:Stop hacia el que va el viaje</rdfs:comment>
+        <rdfs:label xml:lang="en">Destination Stop</rdfs:label>
+        <comment xml:lang="en">Map from to_stop_id in transfers.txt</comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#destinationZone">
+        <rdfs:label xml:lang="en">Destination Zone</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">La zona de destino donde una clase tarifaria se aplica</rdfs:comment>
+        <rdfs:label xml:lang="es">zona de destino</rdfs:label>
+        <rdfs:comment xml:lang="en">The destination zone where this applies</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#dropOffType">
+        <rdfs:label xml:lang="en">Drop off type</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">Which type of drop off</rdfs:comment>
+        <rdfs:label xml:lang="es">tipo de bajada</rdfs:label>
+        <rdfs:comment xml:lang="es">Indica si los pasajeros se bajan en una parada como parte del horario normal o si no pueden bajar en esa parada.</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#originStop">
+        <comment xml:lang="en">Map from from_stop_id in transfers.txt</comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">Link to gtfs:Stop to start from</rdfs:comment>
+        <rdfs:label xml:lang="en">Origin Stop</rdfs:label>
+        <comment xml:lang="es">Conectado a from_stop_id en transfers.txt</comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">parada de origen</rdfs:label>
+        <rdfs:comment xml:lang="es">Enlace al gtfs:Stop desde el que empieza el viaje</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#originZone">
+        <rdfs:label xml:lang="es">zona de origen</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Origin Zone</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">The origin zone where this applies</rdfs:comment>
+        <rdfs:comment xml:lang="es">La zona de origen donde una clase tarifaria se aplica</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#parentStation">
+        <comment xml:lang="en">Links to a row in stop.txt where locationType=1.</comment>
+        <rdfs:label xml:lang="es">estación matriz</rdfs:label>
+        <rdfs:comment xml:lang="en">gtfs:parentStation identifies the station associated with the stop</rdfs:comment>
+        <comment xml:lang="es">Enlaza a una línea en stop.txt donde locationType=1.</comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="es">gtfs:parentStation identifica la estación asociada a la parada</rdfs:comment>
+        <rdfs:label xml:lang="en">Parent Station</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#paymentMethod">
+        <rdfs:comment xml:lang="es">el método de pago</rdfs:comment>
+        <comment xml:lang="es">Campo payment_method en fare_attributes. Si es 0, use gtfs:OnBoard; si es 1, use gtfs:BeforeBoarding</comment>
+        <rdfs:label xml:lang="es">Método de pago</rdfs:label>
+        <comment xml:lang="en">payment_method field in fare_attributes. If 0, use gtfs:OnBoard; if 1, use gtfs:BeforeBoarding</comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="en">Payment method</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">The payment method</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#pickupType">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="es">Indica si se recogen los pasajeros en una parada como parte del horario normal o si su recogida en dicha parada no se encuentra disponible.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Which type of pickup</rdfs:comment>
+        <rdfs:label xml:lang="es">tipo de recogida</rdfs:label>
+        <rdfs:label xml:lang="en">Pickup type</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#route">
+        <rdfs:comment xml:lang="es">Este viaje forma parte de esta gtfs:Route</rdfs:comment>
+        <rdfs:label xml:lang="en">Route</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="en">This thing is applicable to this gtfs:Route</rdfs:comment>
+        <rdfs:label xml:lang="es">ruta</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#routeType">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:seeAlso rdf:resource="https://developers.google.com/transit/gtfs/examples/display-to-users#RouteType"/>
+        <rdfs:comment xml:lang="en">Links to the type of vehicle operating on this route</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="es">tipo de ruta</rdfs:label>
+        <rdfs:label xml:lang="en">Route type</rdfs:label>
+        <rdfs:comment xml:lang="es">Enlaza al tipo de vehículo que opera en esta ruta</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#service">
+        <rdfs:label xml:lang="es">Servicio</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">Follows this gtfs:Service.</rdfs:comment>
+        <rdfs:comment xml:lang="es">Cumple este gtfs:Service.</rdfs:comment>
+        <rdfs:label xml:lang="en">Service</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#serviceRule">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">Service rules which define together a set of dates</rdfs:comment>
+        <rdfs:comment xml:lang="es">Reglas de servicio que definen un conjunto de fechas</rdfs:comment>
+        <rdfs:label xml:lang="es">regla de servicio</rdfs:label>
+        <rdfs:label xml:lang="en">Service rule</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#timeZone">
+        <rdfs:seeAlso rdf:resource="http://en.wikipedia.org/wiki/List_of_tz_database_time_zones"/>
+        <rdfs:comment xml:lang="en">The timezone where a person or organisation is located.</rdfs:comment>
+        <rdfs:label xml:lang="en">Time zone</rdfs:label>
+        <rdfs:label xml:lang="es">zona horaria</rdfs:label>
+        <rdfs:comment xml:lang="es">La zona horaria donde una persona u organización está situada.</rdfs:comment>
+        <status:term_status xml:lang="es">prueba</status:term_status>
+        <status:term_status xml:lang="en">testing</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#transferExpiryTime">
+        <rdfs:label xml:lang="en">Transfer Expiry Time</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:label xml:lang="es">Tiempo de validez para el transbordo</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:comment xml:lang="es">El tiempo que el billete es válido desde que se abandona el vehículo para hacer un transbordo</rdfs:comment>
+        <rdfs:comment xml:lang="en">The time a ticket remains valid when having left the previous vehicle</rdfs:comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#transferType">
+        <rdfs:label xml:lang="es">tipo de transbordo</rdfs:label>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Transfer Type</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#transfers">
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">The validity of the ticket when transferring</rdfs:comment>
+        <rdfs:label xml:lang="es">transbordos</rdfs:label>
+        <rdfs:comment xml:lang="es">Validez del ticket para transbordos</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="en">Transfers</rdfs:label>
+        <comment xml:lang="en">Map to 0 to gtfs:NoTransfersAllowed, 1 to gtfs:OneTransferAllowed, 2 to gtfs:TwoTransfersAllowed and empty to gtfs:UnlimitedTransfersAllowed</comment>
+        <comment xml:lang="es">Valor 0 si no se permite ningún transbordo (gtfs:NoTransfersAllowed), 1 si se puede realizar un transbordo (gtfs:OneTransferAllowed), 2 si se pueden realizar dos transbordos (gtfs:TwoTransfersAllowed) y deje el campo vacío si se permite una cantidad ilimitada de transbordos (gtfs:UnlimitedTransfersAllowed)</comment>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#trip">
+        <rdfs:label xml:lang="es">viaje</rdfs:label>
+        <rdfs:label xml:lang="en">Trip</rdfs:label>
+        <rdfs:comment xml:lang="en">Indicates that this is part of a certain gtfs:Trip</rdfs:comment>
+        <rdfs:comment xml:lang="es">Indica que este concepto es parte de cierto gtfs:Trip</rdfs:comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#wheelchairAccessible">
+        <rdfs:label xml:lang="en">wheelchair boarding</rdfs:label>
+        <comment xml:lang="en">When wheelchair_accessible is 0, map to gtfs:CheckParentStation; if 1 map to gtfs:WheelchairAccessible; if 2 map to gtfs:NotWheelchairAccessible.</comment>
+        <comment xml:lang="es">Si wheelchair_accessible es 0, mapee a gtfs:CheckParentStation; si es 1, mapee a gtfs:WheelchairAccessible; si es 2, mapee a gtfs:NotWheelchairAccessible.</comment>
+        <rdfs:comment xml:lang="es">La parada o estación específica es accesible para silla de ruedas. Si esta parada es parte de una estación, hay también una ruta accesible desde el exterior de la estación hasta la parada.</rdfs:comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">Wheelchair boardings are possible from the specified stop or station. If this stop is part of a station, there is also a wheelchair accessible path from outside the station towards the stop.</rdfs:comment>
+        <rdfs:label xml:lang="es">accesible para silla de ruedas</rdfs:label>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vocab.gtfs.org/terms#zone">
+        <rdfs:label xml:lang="en">Zone</rdfs:label>
+        <rdfs:comment xml:lang="es">Un gtfs:Stop define la zona tarifaria. Las zonas son necesarias si quiere proporcionar información de tarifas usando gtfs:FareClass.</rdfs:comment>
+        <comment xml:lang="es">Puede crear una nueva URI por zona, o simplemente referenciarla con un número entero.</comment>
+        <status:term_status xml:lang="en">unstable</status:term_status>
+        <rdfs:label xml:lang="es">zona</rdfs:label>
+        <comment xml:lang="en">You can create a new URI per zone, or just keep it an integer as per your own taste.</comment>
+        <status:term_status xml:lang="es">inestable</status:term_status>
+        <rdfs:comment xml:lang="en">A gtfs:Stop defines the fare zone. Zones are required if you want to provide fare information using gtfs:FareClass.</rdfs:comment>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

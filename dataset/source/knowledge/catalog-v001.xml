@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.org/NET/c4dm/event.owl" uri="eventSKG2.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.w3.org/2006/time#2016" uri="SKG_touristicevents.owl"/>
+    <uri id="Imports Wizard Entry" name="http://vocab.gtfs.org/terms#" uri="http://vocab.gtfs.org/gtfs.ttl#"/>
+    <uri id="Imports Wizard Entry" name="http://purl.org/NET/c4dm/event.owl" uri="http://purl.org/NET/c4dm/event.owl#"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1608201505651" name="http://purl.org/NET/c4dm/event.owl" uri="eventSKG2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1608201505651" name="http://vocab.gtfs.org/terms" uri="skg_ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1608201505651" name="http://www.w3.org/2002/07/owl" uri="skg_finalized.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1608201505651" name="http://www.w3.org/2002/07/owl#" uri="SchemaKnowledge_Eventi.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1608201505651" name="http://www.w3.org/2006/time" uri="SKG_touristicevents.owl"/>
+    </group>
+</catalog>

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://purl.org/NET/c4dm/event.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://purl.org/NET/c4dm/event.owl">
+    <Prefix name="" IRI="http://purl.org/NET/c4dm/event.owl"/>
+    <Prefix name="dc" IRI="http://purl.org/dc/elements/1.1/"/>
+    <Prefix name="vs" IRI="http://www.w3.org/2003/06/sw-vocab-status/ns#"/>
+    <Prefix name="geo" IRI="http://www.w3.org/2003/01/geo/wgs84_pos#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="foaf" IRI="http://xmlns.com/foaf/0.1/"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="time" IRI="http://www.w3.org/2006/time#"/>
+    <Prefix name="event" IRI="http://purl.org/NET/c4dm/event.owl#"/>
+    <Import>http://www.w3.org/2006/time</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal>The Event ontology</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal>Revision: 1.01</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Event"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Factor"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="geo:SpatialThing"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="foaf:Person"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#agent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#place"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#time"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://moustaki.org/foaf.rdf#moustaki"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI=""/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="vs:term_status"/>
+    </Declaration>
+    <DisjointClasses>
+        <Class IRI="#Factor"/>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual IRI=""/>
+    </ClassAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#place"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyDomain>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Event</IRI>
+        <Literal>
+		An arbitrary classification of a space/time region, by a 
+		cognitive agent. An event may have actively participating agents,
+		passive factors, products, and a location in space/time.
+		</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Event</IRI>
+        <Literal>Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="vs:term_status"/>
+        <IRI>#Event</IRI>
+        <Literal>stable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Factor</IRI>
+        <Literal>
+		Everything used as a factor in an event
+		</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Factor</IRI>
+        <Literal>Factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="vs:term_status"/>
+        <IRI>#Factor</IRI>
+        <Literal>stable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#agent</IRI>
+        <Literal>
+		Relates an event to an active agent (a person, a computer, ... :-) )
+		</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#agent</IRI>
+        <Literal>agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="vs:term_status"/>
+        <IRI>#agent</IRI>
+        <Literal>stable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#place</IRI>
+        <Literal>
+		Relates an event to a spatial object.
+		</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#place</IRI>
+        <Literal>place</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="vs:term_status"/>
+        <IRI>#place</IRI>
+        <Literal>stable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#time</IRI>
+        <Literal>
+		Relates an event to a time object, classifying a time region (either instantaneous or having an extent).
+		By using the Timeline ontology here, you can define event happening on a recorded track or on any 
+		media with a temporal extent.
+		</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#time</IRI>
+        <Literal>time</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="vs:term_status"/>
+        <IRI>#time</IRI>
+        <Literal>stable</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

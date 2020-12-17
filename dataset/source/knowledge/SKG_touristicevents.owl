@@ -1,0 +1,1419 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2006/time"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.w3.org/2006/time"
+     versionIRI="http://www.w3.org/2006/time#2016">
+    <Prefix name="" IRI="http://www.w3.org/2006/time#"/>
+    <Prefix name="dct" IRI="http://purl.org/dc/terms/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:contributor"/>
+        <IRI>https://orcid.org/0000-0001-8269-8171</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:contributor"/>
+        <IRI>mailto:chris.little@metoffice.gov.uk</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:created"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#date">2006-09-27</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:creator"/>
+        <IRI>http://orcid.org/0000-0002-3884-3420</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:creator"/>
+        <IRI>https://en.wikipedia.org/wiki/Jerry_Hobbs</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:creator"/>
+        <IRI>mailto:panfeng66@gmail.com</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:isVersionOf"/>
+        <IRI>http://www.w3.org/TR/owl-time</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:license"/>
+        <IRI>https://creativecommons.org/licenses/by/4.0/</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:modified"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#date">2017-04-06</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dct:rights"/>
+        <Literal xml:lang="en">Copyright © 2006-2017 W3C, OGC. W3C and OGC liability, trademark and document use rules apply.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal xml:lang="en">OWL-Time</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal xml:lang="es">Tiempo en OWL</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://dx.doi.org/10.3233/SW-150187</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://www.semantic-web-journal.net/content/time-ontology-extended-non-gregorian-calendar-applications</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://www.w3.org/TR/owl-time</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:priorVersion"/>
+        <IRI>#2006</IRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="skos:changeNote"/>
+        <Literal>2016-06-15 - initial update of OWL-Time - modified to support arbitrary temporal reference systems. </Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="skos:changeNote"/>
+        <Literal>2016-12-20 - adjust range of time:timeZone to time:TimeZone, moved up from the tzont ontology.  </Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="skos:changeNote"/>
+        <Literal>2016-12-20 - restore time:Year and time:January which were present in the 2006 version of the ontology, but now marked &quot;deprecated&quot;. </Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="skos:changeNote"/>
+        <Literal>2017-02 - intervalIn, intervalDisjoint, monthOfYear added; TemporalUnit subclass of TemporalDuration</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="skos:changeNote"/>
+        <Literal>2017-04-06 - hasTime, hasXSDDuration added; Number removed; all duration elements changed to xsd:decimal</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="skos:historyNote"/>
+        <Literal xml:lang="en">Update of OWL-Time ontology, extended to support general temporal reference systems. 
+
+Ontology engineering by Simon J D Cox</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#DateTimeInterval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Instant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ProperInterval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TemporalEntity"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#generalDay"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#generalMonth"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#generalYear"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="skos:historyNote"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:license"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:rights"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:contributor"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:modified"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:isVersionOf"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="xsd:pattern"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:created"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dct:creator"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="skos:changeNote"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#TemporalEntity"/>
+        <ObjectUnionOf>
+            <Class IRI="#Instant"/>
+            <Class IRI="#Interval"/>
+        </ObjectUnionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#DateTimeInterval"/>
+        <Class IRI="#ProperInterval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Instant"/>
+        <Class IRI="#TemporalEntity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interval"/>
+        <Class IRI="#TemporalEntity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ProperInterval"/>
+        <Class IRI="#Interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TemporalEntity"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Instant"/>
+        <Class IRI="#ProperInterval"/>
+    </DisjointClasses>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>xsd:dateTimeStamp</AbbreviatedIRI>
+        <Literal xml:lang="es">sello de tiempo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="es">&apos;intervalo de fecha-hora&apos; es una subclase de &apos;intervalo propio&apos;, definida utilizando el multi-elemento &apos;descripción de fecha-hora&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="en">DateTimeInterval is a subclass of ProperInterval, defined using the multi-element DateTimeDescription.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="en">Date-time interval</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="es">intervalo de fecha-hora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="es">&apos;intervalo de fecha-hora&apos; es una subclase de &apos;intervalo propio&apos;, definida utilizando el multi-elemento &apos;descripción de fecha-hora&apos;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="en">DateTimeInterval is a subclass of ProperInterval, defined using the multi-element DateTimeDescription.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="es">&apos;intervalo de fecha-hora&apos; se puede utilizar sólo para un intervalo cuyos límites coinciden con un elemento de fecha-hora alineados con el calendario y la zona horaria indicados. Por ejemplo, aunque ambos tienen una duración de un día, el intervalo de 24 horas que empieza en la media noche del comienzo del 8 mayo en Europa Central se puede expresar como un &apos;intervalo de fecha-hora&apos;, el intervalo de 24 horas que empieza a las 1:30pm no.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#DateTimeInterval</IRI>
+        <Literal xml:lang="en">:DateTimeInterval can only be used for an interval whose limits coincide with a date-time element aligned to the calendar and timezone indicated. For example, while both have a duration of one day, the 24-hour interval beginning at midnight at the beginning of 8 May in Central Europe can be expressed as a :DateTimeInterval, but the 24-hour interval starting at 1:30pm cannot.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="en">Friday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="de">Freitag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="en">Friday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="pl">Piątek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="pt">Sexta-feira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="fr">Vendredi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="it">Venerdì</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="es">Viernes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="nl">Vrijdag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="ru">Пятница</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="ar">الجمعة</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="zh">星期五</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Friday</IRI>
+        <Literal xml:lang="ja">金曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Instant</IRI>
+        <Literal xml:lang="en">A temporal entity with zero extent or duration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Instant</IRI>
+        <Literal xml:lang="es">Una entidad temporal con una extensión o duración cero.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Instant</IRI>
+        <Literal xml:lang="en">Time instant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Instant</IRI>
+        <Literal xml:lang="es">instante de tiempo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#Instant</IRI>
+        <Literal xml:lang="en">A temporal entity with zero extent or duration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#Instant</IRI>
+        <Literal xml:lang="es">Una entidad temporal con una extensión o duración cero.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Interval</IRI>
+        <Literal xml:lang="en">A temporal entity with an extent or duration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Interval</IRI>
+        <Literal xml:lang="es">Una entidad temporal con una extensión o duración.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Interval</IRI>
+        <Literal xml:lang="en">Time interval</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Interval</IRI>
+        <Literal xml:lang="es">intervalo de tiempo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#Interval</IRI>
+        <Literal xml:lang="en">A temporal entity with an extent or duration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#Interval</IRI>
+        <Literal xml:lang="es">Una entidad temporal con una extensión o duración.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="en">Monday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="fr">Lundi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="it">Lunedì</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="es">Lunes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="nl">Maandag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="en">Monday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="de">Montag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="pl">Poniedziałek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="pt">Segunda-feira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="ru">Понедельник</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="ar">الاثنين</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="zh">星期一</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Monday</IRI>
+        <Literal xml:lang="ja">月曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ProperInterval</IRI>
+        <Literal xml:lang="en">A temporal entity with non-zero extent or duration, i.e. for which the value of the beginning and end are different</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ProperInterval</IRI>
+        <Literal xml:lang="es">Una entidad temporal con extensión o duración distinta de cero, es decir, para la cual los valores de principio y fin del intervalo son diferentes.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ProperInterval</IRI>
+        <Literal xml:lang="en">Proper interval</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ProperInterval</IRI>
+        <Literal xml:lang="es">intervalo propio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#ProperInterval</IRI>
+        <Literal xml:lang="en">A temporal entity with non-zero extent or duration, i.e. for which the value of the beginning and end are different</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#ProperInterval</IRI>
+        <Literal xml:lang="es">Una entidad temporal con extensión o duración distinta de cero, es decir, para la cual los valores de principio y fin del intervalo son diferentes.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="en">Saturday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="it">Sabato</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="fr">Samedi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="de">Samstag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="en">Saturday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="pl">Sobota</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="es">Sábado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="pt">Sábado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="nl">Zaterdag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="ru">Суббота</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="ar">السبت</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="ja">土曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Saturday</IRI>
+        <Literal xml:lang="zh">星期六</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="en">Sunday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="fr">Dimanche</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="it">Domenica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="es">Domingo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="pt">Domingo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="pl">Niedziela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="de">Sonntag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="en">Sunday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="nl">Zondag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="ru">Воскресенье</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="ar">الأحد (يوم)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="ja">日曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Sunday</IRI>
+        <Literal xml:lang="zh">星期日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#TemporalEntity</IRI>
+        <Literal xml:lang="en">A temporal interval or instant.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#TemporalEntity</IRI>
+        <Literal xml:lang="es">Un intervalo temporal o un instante.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TemporalEntity</IRI>
+        <Literal xml:lang="en">Temporal entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#TemporalEntity</IRI>
+        <Literal xml:lang="es">entidad temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#TemporalEntity</IRI>
+        <Literal xml:lang="en">A temporal interval or instant.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#TemporalEntity</IRI>
+        <Literal xml:lang="es">Un intervalo temporal o un instante.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="en">Thursday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="pl">Czwartek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="nl">Donderdag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="de">Donnerstag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="it">Giovedì</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="fr">Jeudi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="es">Jueves</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="pt">Quinta-feira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="en">Thursday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="ru">Четверг</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="ar">الخميس</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="zh">星期四</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Thursday</IRI>
+        <Literal xml:lang="ja">木曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="en">Tuesday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="de">Dienstag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="nl">Dinsdag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="fr">Mardi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="it">Martedì</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="es">Martes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="pt">Terça-feira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="en">Tuesday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="pl">Wtorek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="ru">Вторник</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="ar">الثلاثاء</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="zh">星期二</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Tuesday</IRI>
+        <Literal xml:lang="ja">火曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="en">Wednesday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="it">Mercoledì</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="fr">Mercredi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="de">Mittwoch</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="es">Miércoles</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="pt">Quarta-feira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="en">Wednesday</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="nl">Woensdag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="pl">Środa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="ru">Среда</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="ar">الأربعاء</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="zh">星期三</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#Wednesday</IRI>
+        <Literal xml:lang="ja">水曜日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#generalDay</IRI>
+        <Literal xml:lang="en">Day of month - formulated as a text string with a pattern constraint to reproduce the same lexical form as gDay, except that values up to 99 are permitted, in order to support calendars with more than 31 days in a month. 
+Note that the value-space is not defined, so a generic OWL2 processor cannot compute ordering relationships of values of this type.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#generalDay</IRI>
+        <Literal xml:lang="es">Día del mes - formulado como una cadena de texto con una restricción patrón para reproducir la misma forma léxica que gDay, excepto que se permiten valores hasta el 99, con el propósito de proporcionar soporte a calendarios con meses con más de 31 días.
+            Nótese que el espacio de valores no está definido, por tanto, un procesador genérico de OWL2 no puede computar relaciones de orden de valores de este tipo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generalDay</IRI>
+        <Literal xml:lang="es">Día generalizado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generalDay</IRI>
+        <Literal xml:lang="en">Generalized day</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#generalDay</IRI>
+        <Literal xml:lang="en">Day of month - formulated as a text string with a pattern constraint to reproduce the same lexical form as gDay, except that values up to 99 are permitted, in order to support calendars with more than 31 days in a month. 
+Note that the value-space is not defined, so a generic OWL2 processor cannot compute ordering relationships of values of this type.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#generalDay</IRI>
+        <Literal xml:lang="es">Día del mes - formulado como una cadena de texto con una restricción patrón para reproducir la misma forma léxica que gDay, excepto que se permiten valores hasta el 99, con el propósito de proporcionar soporte a calendarios con meses con más de 31 días.
+            Nótese que el espacio de valores no está definido, por tanto, un procesador genérico de OWL2 no puede computar relaciones de orden de valores de este tipo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#generalMonth</IRI>
+        <Literal xml:lang="es">Mes del año - formulado como una cadena de texto con una restricción patrón para reproducir la misma forma léxica que gMonth, excepto que se permiten valores hasta el 20, con el propósito de proporcionar soporte a calendarios con años con más de 12 meses.
+            Nótese que el espacio de valores no está definido, por tanto, un procesador genérico de OWL2 no puede computar relaciones de orden de valores de este tipo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#generalMonth</IRI>
+        <Literal xml:lang="en">Month of year - formulated as a text string with a pattern constraint to reproduce the same lexical form as gMonth, except that values up to 20 are permitted, in order to support calendars with more than 12 months in the year. 
+Note that the value-space is not defined, so a generic OWL2 processor cannot compute ordering relationships of values of this type.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generalMonth</IRI>
+        <Literal xml:lang="en">Generalized month</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generalMonth</IRI>
+        <Literal xml:lang="es">Mes generalizado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#generalMonth</IRI>
+        <Literal xml:lang="es">Mes del año - formulado como una cadena de texto con una restricción patrón para reproducir la misma forma léxica que gMonth, excepto que se permiten valores hasta el 20, con el propósito de proporcionar soporte a calendarios con años con más de 12 meses.
+            Nótese que el espacio de valores no está definido, por tanto, un procesador genérico de OWL2 no puede computar relaciones de orden de valores de este tipo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#generalMonth</IRI>
+        <Literal xml:lang="en">Month of year - formulated as a text string with a pattern constraint to reproduce the same lexical form as gMonth, except that values up to 20 are permitted, in order to support calendars with more than 12 months in the year. 
+Note that the value-space is not defined, so a generic OWL2 processor cannot compute ordering relationships of values of this type.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#generalYear</IRI>
+        <Literal xml:lang="es">Número de año - formulado como una cadena de texto con una restricción patrón para reproducir la misma forma léxica que gYear, aunque no está restringido a valores del calendario gregoriano.
+            Nótese que el espacio de valores no está definido, por tanto, un procesador genérico de OWL2 no puede computar relaciones de orden de valores de este tipo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#generalYear</IRI>
+        <Literal xml:lang="en">Year number - formulated as a text string with a pattern constraint to reproduce the same lexical form as gYear, but not restricted to values from the Gregorian calendar. 
+Note that the value-space is not defined, so a generic OWL2 processor cannot compute ordering relationships of values of this type.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generalYear</IRI>
+        <Literal xml:lang="es">Año generalizado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generalYear</IRI>
+        <Literal xml:lang="en">Generalized year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#generalYear</IRI>
+        <Literal xml:lang="es">Número de año - formulado como una cadena de texto con una restricción patrón para reproducir la misma forma léxica que gYear, aunque no está restringido a valores del calendario gregoriano.
+            Nótese que el espacio de valores no está definido, por tanto, un procesador genérico de OWL2 no puede computar relaciones de orden de valores de este tipo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:definition"/>
+        <IRI>#generalYear</IRI>
+        <Literal xml:lang="en">Year number - formulated as a text string with a pattern constraint to reproduce the same lexical form as gYear, but not restricted to values from the Gregorian calendar. 
+Note that the value-space is not defined, so a generic OWL2 processor cannot compute ordering relationships of values of this type.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="en">Day (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="de">Tag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="nl">dag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="en">day</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="pt">dia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="pl">doba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="es">día</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="it">giorno</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="fr">jour</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="ar">يوماً ما</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="jp">ある日</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="zh">一天</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitDay</IRI>
+        <Literal xml:lang="kr">언젠가</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="en">Hour (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="de">Stunde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="pl">godzina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="fr">heure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="es">hora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="pt">hora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="en">hour</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="it">ora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="nl">uur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal>один час&quot;@ru</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="ar">ساعة واحدة</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="zh">一小時</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="jp">一時間</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitHour</IRI>
+        <Literal xml:lang="kr">한 시간</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="en">Minute (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="de">Minute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="pl">minuta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="en">minute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="fr">minute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="es">minuto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="it">minuto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="pt">minuto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="nl">minuut</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="ru">одна минута</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="ar">دقيقة واحدة</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="jp">一分</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="zh">等一下</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMinute</IRI>
+        <Literal xml:lang="kr">분</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="en">Month (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="de">Monat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="nl">maand</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="es">mes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="it">mese</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="pl">miesiąc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="fr">mois</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="en">month</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="ru">один месяц</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="ar">شهر واحد</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="jp">一か月</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="zh">一個月</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitMonth</IRI>
+        <Literal xml:lang="kr">한달</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="en">Second (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="de">Sekunde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="pl">Sekundę</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="en">second</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="fr">seconde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="nl">seconde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="it">secondo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="es">segundo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="pt">segundo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="ar">ثانية واحدة</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="jp">一秒</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="zh">一秒</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitSecond</IRI>
+        <Literal xml:lang="kr">일초</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="en">Week (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="de">Woche</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="fr">semaine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="es">semana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="pt">semana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="it">settimana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="pl">tydzień</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="en">week</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="nl">week</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="ru">одна неделя</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="ar">سبوع واحد</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="zh">一周</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="jp">一週間</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitWeek</IRI>
+        <Literal xml:lang="kr">일주일</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="en">Year (unit of temporal duration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="kr">1 년</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="jp">1年</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="de">Jahr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="fr">an</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="it">anno</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="pt">ano</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="nl">jaar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="pl">rok</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="es">un año</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="en">year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="ru">один год</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="ar">سنة واحدة</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#unitYear</IRI>
+        <Literal xml:lang="zh">一年</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="xsd:pattern"/>
+        <AnonymousIndividual nodeID="_:genid2147483719"/>
+        <Literal>---(0[1-9]|[1-9][0-9])(Z|(\+|-)((0[0-9]|1[0-3]):[0-5][0-9]|14:00))?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="xsd:pattern"/>
+        <AnonymousIndividual nodeID="_:genid2147483720"/>
+        <Literal>--(0[1-9]|1[0-9]|20)(Z|(\+|-)((0[0-9]|1[0-3]):[0-5][0-9]|14:00))?</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="xsd:pattern"/>
+        <AnonymousIndividual nodeID="_:genid2147483721"/>
+        <Literal>-?([1-9][0-9]{3,}|0[0-9]{3})(Z|(\+|-)((0[0-9]|1[0-3]):[0-5][0-9]|14:00))?</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

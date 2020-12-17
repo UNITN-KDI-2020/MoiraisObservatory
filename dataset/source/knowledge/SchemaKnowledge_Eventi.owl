@@ -1,0 +1,1049 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="ns" IRI="http://www.w3.org/2003/06/sw-vocab-status/ns#"/>
+    <Prefix name="ns2" IRI="http://creativecommons.org/ns#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="dcat" IRI="http://www.w3.org/ns/dcat#"/>
+    <Prefix name="foaf" IRI="http://xmlns.com/foaf/0.1/"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
+    <Prefix name="etype" IRI="http://knowdive.disi.unitn.it/etype#"/>
+    <Prefix name="terms" IRI="http://purl.org/dc/terms/"/>
+    <Prefix name="terms1" IRI="http://vocab.gtfs.org/terms#"/>
+    <Import>http://purl.org/NET/c4dm/event.owl</Import>
+    <Import>http://vocab.gtfs.org/terms#</Import>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Address_GID-36367"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GenericEventTypeEnum_GID-120047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GuidedEventTypeEnum_GID-120046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GuidedEvent_GID-120043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#MateriaEnum_GID-35361"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Meeting_GID-6340"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEventTypeEnum_GID-120045"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Rating_GID-4503"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="terms1:shape"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="terms1:shapePoint"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="terms1:stop"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventType_GID-138-Type-103418"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#materia_GID-138-Type-35361"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#rating_GID-120046-Type-4503"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTime-GID_1570-Type-81332"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#attachmentURL_GID-120044-Type-34123"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#availableDays_GID-120043-Type-80736"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#bodyParagraph_GID-138-Type-34344"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#directionID_GID-1570-Type-73503"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#endDateTime_GID-81346-Type-81330"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#enumCategory_GID-34789-Type-31828"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#enumID_GID-34789-Type-36899"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventURL_GID-120042-Type-34123"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#figureSrc_GID-138-Type-21634"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#going_GID-120042-Type-211"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostEmail_GID-52189-Type-105296"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostName_GID-52189_Type-34006"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostTelephone_GID-52189-Type-34494"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostType_GID-52189-Type-31828"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#inclusion_GID-120043-Type-49654"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#interested_GID-120042-Type-28572"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#language_GID-120044-Type-30900"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#latitude_GID-135-Type-28250"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#longitude_GID-135-Type-46270"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#minimumPrice_GID-120043-Type-70571"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#minutes_GID-81346-Type-81154"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#originalURL_GID_120042-Type-34123"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#politiche_GID-120044-Type-32118"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#rating_6340-Type-31330"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#sequence_GID-46401-Type-39465"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#shapeID_GID-1570-Type-27933"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#startDateTime_GID-81346-Type-87355"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopCode_GID-45937-Type-34101"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopDescription_GID-45937-Type-3"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopID_GID-45937-Type-36899"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopName_GID-45937-Type-39096"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeArrivalTime_GID-81332-Type-80845"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeDepartureTime_GID-81332-Type-80846"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeStopID_GID-81332-Type-36899"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeStopSequence_GID-81332-Type-45645"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeTripID_GID-81332-Type-1570"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopWheelchairBoard_GID-45937-Type-25446"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopZoneID_GID-45937-Type-45993"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tags_GID-120044-Type-39103"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#title_GID-138-Type-34061"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tripID_GID-1570-Type-36899"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tripRouteID_GID-1570-Type-22592"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:Event_GID-138"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:IdentifyingSet_IS1-102"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:IdentifyingSet_IS1-103"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:IdentifyingSet_IS1-104"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:IdentifyingSet_IS1-105"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:Location_GID-132"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:Organization_GID-43544"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="etype:Person_GID-118"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="etype:hasUnitOfMeasure"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+    </Declaration>
+    <Declaration>
+        <Datatype abbreviatedIRI="etype:concept"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+        <Class IRI="Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="terms1:ShapePoint"/>
+        <Class IRI="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="terms1:Stop"/>
+        <Class IRI="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Address_GID-36367"/>
+        <Class IRI="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GenericEventTypeEnum_GID-120047"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GuidedEventTypeEnum_GID-120046"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GuidedEvent_GID-120043"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#MateriaEnum_GID-35361"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Meeting_GID-6340"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEventTypeEnum_GID-120045"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </SubClassOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventType_GID-138-Type-103418"/>
+        <ObjectProperty IRI="topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#agent"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty abbreviatedIRI="terms1:shape"/>
+        <Class abbreviatedIRI="terms1:Trip"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty abbreviatedIRI="terms1:shapePoint"/>
+        <Class abbreviatedIRI="terms1:Shape"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty abbreviatedIRI="terms1:stop"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventType_GID-138-Type-103418"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#materia_GID-138-Type-35361"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#rating_GID-120046-Type-4503"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#GuidedEvent_GID-120043"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTime-GID_1570-Type-81332"/>
+        <Class abbreviatedIRI="terms1:Trip"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#agent"/>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#place"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Address_GID-36367"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://purl.org/NET/c4dm/event.owl#time"/>
+        <Class IRI="http://www.w3.org/2006/time#TemporalEntity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty abbreviatedIRI="terms1:shapePoint"/>
+        <Class abbreviatedIRI="terms1:ShapePoint"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventType_GID-138-Type-103418"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#materia_GID-138-Type-35361"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#MateriaEnum_GID-35361"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#rating_GID-120046-Type-4503"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Rating_GID-4503"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTime-GID_1570-Type-81332"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#attachmentURL_GID-120044-Type-34123"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#availableDays_GID-120043-Type-80736"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#bodyParagraph_GID-138-Type-34344"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#directionID_GID-1570-Type-73503"/>
+        <Class abbreviatedIRI="terms1:Trip"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#endDateTime_GID-81346-Type-81330"/>
+        <Class IRI="http://www.w3.org/2006/time#TemporalEntity"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#enumCategory_GID-34789-Type-31828"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#enumID_GID-34789-Type-36899"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventURL_GID-120042-Type-34123"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#figureSrc_GID-138-Type-21634"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#going_GID-120042-Type-211"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostEmail_GID-52189-Type-105296"/>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostName_GID-52189_Type-34006"/>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostTelephone_GID-52189-Type-34494"/>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostType_GID-52189-Type-31828"/>
+        <Class abbreviatedIRI="foaf:Agent"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#inclusion_GID-120043-Type-49654"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#interested_GID-120042-Type-28572"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#language_GID-120044-Type-30900"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#latitude_GID-135-Type-28250"/>
+        <Class IRI="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#longitude_GID-135-Type-46270"/>
+        <Class IRI="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#minimumPrice_GID-120043-Type-70571"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#minutes_GID-81346-Type-81154"/>
+        <Class IRI="http://www.w3.org/2006/time#TemporalEntity"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#originalURL_GID_120042-Type-34123"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#politiche_GID-120044-Type-32118"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#rating_6340-Type-31330"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#Meeting_GID-6340"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#sequence_GID-46401-Type-39465"/>
+        <Class abbreviatedIRI="terms1:ShapePoint"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#shapeID_GID-1570-Type-27933"/>
+        <Class abbreviatedIRI="terms1:Trip"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#startDateTime_GID-81346-Type-87355"/>
+        <Class IRI="http://www.w3.org/2006/time#TemporalEntity"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopCode_GID-45937-Type-34101"/>
+        <Class abbreviatedIRI="terms1:Stop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopDescription_GID-45937-Type-3"/>
+        <Class abbreviatedIRI="terms1:Stop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopID_GID-45937-Type-36899"/>
+        <Class abbreviatedIRI="terms1:Stop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopName_GID-45937-Type-39096"/>
+        <Class abbreviatedIRI="terms1:Stop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeArrivalTime_GID-81332-Type-80845"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeDepartureTime_GID-81332-Type-80846"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeStopID_GID-81332-Type-36899"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeStopSequence_GID-81332-Type-45645"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeTripID_GID-81332-Type-1570"/>
+        <Class abbreviatedIRI="terms1:StopTime"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopWheelchairBoard_GID-45937-Type-25446"/>
+        <Class abbreviatedIRI="terms1:Stop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopZoneID_GID-45937-Type-45993"/>
+        <Class abbreviatedIRI="terms1:Stop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tags_GID-120044-Type-39103"/>
+        <Class IRI="http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#title_GID-138-Type-34061"/>
+        <Class IRI="http://purl.org/NET/c4dm/event.owl#Event"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tripID_GID-1570-Type-36899"/>
+        <Class abbreviatedIRI="terms1:Trip"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tripRouteID_GID-1570-Type-22592"/>
+        <Class abbreviatedIRI="terms1:Trip"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#attachmentURL_GID-120044-Type-34123"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#availableDays_GID-120043-Type-80736"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#bodyParagraph_GID-138-Type-34344"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#directionID_GID-1570-Type-73503"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#endDateTime_GID-81346-Type-81330"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#enumCategory_GID-34789-Type-31828"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#enumID_GID-34789-Type-36899"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#eventURL_GID-120042-Type-34123"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#figureSrc_GID-138-Type-21634"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#going_GID-120042-Type-211"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostEmail_GID-52189-Type-105296"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostName_GID-52189_Type-34006"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostTelephone_GID-52189-Type-34494"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#hostType_GID-52189-Type-31828"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#inclusion_GID-120043-Type-49654"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#interested_GID-120042-Type-28572"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#language_GID-120044-Type-30900"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#latitude_GID-135-Type-28250"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#longitude_GID-135-Type-46270"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#minimumPrice_GID-120043-Type-70571"/>
+        <Datatype abbreviatedIRI="xsd:double"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#minutes_GID-81346-Type-81154"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#originalURL_GID_120042-Type-34123"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#politiche_GID-120044-Type-32118"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#rating_6340-Type-31330"/>
+        <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#sequence_GID-46401-Type-39465"/>
+        <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#shapeID_GID-1570-Type-27933"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#startDateTime_GID-81346-Type-87355"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopCode_GID-45937-Type-34101"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopDescription_GID-45937-Type-3"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopID_GID-45937-Type-36899"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopName_GID-45937-Type-39096"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeArrivalTime_GID-81332-Type-80845"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeDepartureTime_GID-81332-Type-80846"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeStopID_GID-81332-Type-36899"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeStopSequence_GID-81332-Type-45645"/>
+        <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopTimeTripID_GID-81332-Type-1570"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopWheelchairBoard_GID-45937-Type-25446"/>
+        <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#stopZoneID_GID-45937-Type-45993"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tags_GID-120044-Type-39103"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#title_GID-138-Type-34061"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tripID_GID-1570-Type-36899"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.co-ode.org/ontologies/ont.owl#tripRouteID_GID-1570-Type-22592"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-102</AbbreviatedIRI>
+        <Literal>Class_GID-43482</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-102</AbbreviatedIRI>
+        <Literal>Electronic_mail_GID-33745</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-102</AbbreviatedIRI>
+        <Literal>Name_GID-2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-103</AbbreviatedIRI>
+        <Literal>Class_GID-43482</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-103</AbbreviatedIRI>
+        <Literal>Latitude_GID-46263</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-103</AbbreviatedIRI>
+        <Literal>Longitude_GID-46270</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-103</AbbreviatedIRI>
+        <Literal>Name_GID-2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-103</AbbreviatedIRI>
+        <Literal>Part_meronym_GID-22</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-104</AbbreviatedIRI>
+        <Literal>Beginning_GID-81324</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-104</AbbreviatedIRI>
+        <Literal>Class_GID-43482</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-104</AbbreviatedIRI>
+        <Literal>End_GID-81330</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-104</AbbreviatedIRI>
+        <Literal>Name_GID-2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-105</AbbreviatedIRI>
+        <Literal>Class_GID-43482</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-105</AbbreviatedIRI>
+        <Literal>Location_GID-132</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:hasIdProperty"/>
+        <AbbreviatedIRI>etype:IdentifyingSet_IS1-105</AbbreviatedIRI>
+        <Literal>Name_GID-2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://purl.org/NET/c4dm/event.owl#Event</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">138</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://purl.org/NET/c4dm/event.owl#Event</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://purl.org/NET/c4dm/event.owl#Factor</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">31921</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://purl.org/NET/c4dm/event.owl#place</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">36367</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>terms1:Route</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>terms1:Shape</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">27933</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>terms1:Shape</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>terms1:ShapePoint</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">31970</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>terms1:ShapePoint</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>terms1:ShapePoint</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>terms1:Stop</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">45937</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>terms1:Stop</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>terms1:StopTime</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">81332</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>terms1:StopTime</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>terms1:Trip</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">1570</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>terms1:Trip</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Address_GID-36367</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">36367</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Address_GID-36367</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">34789</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Enumeration_GID-34789</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">120044</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#FamilyEvent_GID-120044</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GenericEventTypeEnum_GID-120047</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">120047</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GenericEventTypeEnum_GID-120047</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GenericEventTypeEnum_GID-120047</IRI>
+        <Literal>Any type that usually conceptually divides a generic event into having own more specific theme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GuidedEventTypeEnum_GID-120046</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">120046</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GuidedEventTypeEnum_GID-120046</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GuidedEventTypeEnum_GID-120046</IRI>
+        <Literal>Categories of physical activities, especially mountain hiking, skiing and climbing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GuidedEvent_GID-120043</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">120043</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GuidedEvent_GID-120043</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#GuidedEvent_GID-120043</IRI>
+        <Literal>A particular arrangement in which attendants are expected not only to be in presence but also to demonstrate physical endeavor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#MateriaEnum_GID-35361</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">35361</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#MateriaEnum_GID-35361</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">35361</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#MateriaEnum_GID-35361</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Meeting_GID-6340</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">6340</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Meeting_GID-6340</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Meeting_GID-6340</IRI>
+        <Literal>the social act of assembling for some common purpose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#OnlineEventTypeEnum_GID-120045</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">120045</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#OnlineEventTypeEnum_GID-120045</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#OnlineEventTypeEnum_GID-120045</IRI>
+        <Literal>Enumerated types for the online events, including such as painting, sightseeing and visiting museums</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">120042</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#OnlineEvent_GID-120042</IRI>
+        <Literal>A special type of event with the participants prompted to engage in remotely</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Rating_GID-4503</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">4503</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.co-ode.org/ontologies/ont.owl#Rating_GID-4503</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">135</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <IRI>http://www.w3.org/2006/time#TemporalEntity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">81346</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <IRI>http://www.w3.org/2006/time#TemporalEntity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>foaf:Agent</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">52189</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>foaf:Agent</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:GID"/>
+        <AbbreviatedIRI>foaf:Person</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#long">118</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="etype:isEtype"/>
+        <AbbreviatedIRI>foaf:Person</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationPropertyRange>
+        <AnnotationProperty abbreviatedIRI="etype:hasUnitOfMeasure"/>
+        <AbbreviatedIRI>etype:concept</AbbreviatedIRI>
+    </AnnotationPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
