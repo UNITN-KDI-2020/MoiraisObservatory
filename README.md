@@ -18,7 +18,6 @@
 
 * **Erdenebileg B.** (Data Scientist & Knowledge Engineer) - [BrainyLark](http://github.com/BrainyLark)
 * **Eva Agrawal** (Data Scientist) - [EvaforData](https://github.com/EvaforData)
-* **Dinah Wobuyaga** (Knowledge Engineer)
 
 ## Released under MIT License
 
