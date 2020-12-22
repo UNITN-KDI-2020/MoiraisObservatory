@@ -9,10 +9,14 @@
 ## Progress Stats
 
 ![100%](https://progress-bar.dev/100/?title=Scope_and_Definition_Phase)
-![80%](https://progress-bar.dev/80/?title=Inception_Phase)
-![65%](https://progress-bar.dev/90/?title=Informal_Modeling_Phase)
-![33%](https://progress-bar.dev/33/?title=Formalization_Phase)
-![0%](https://progress-bar.dev/0/?title=Data_Integration_&_Finalization_Phase)
+
+![100%](https://progress-bar.dev/100/?title=Inception_Phase)
+
+![100%](https://progress-bar.dev/100/?title=Informal_Modeling_Phase)
+
+![100%](https://progress-bar.dev/100/?title=Formalization_Phase)
+
+![95%](https://progress-bar.dev/95/?title=Data_Integration_&_Finalization_Phase)
 
 ## Credits
 
